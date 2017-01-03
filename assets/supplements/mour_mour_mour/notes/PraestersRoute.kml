@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Praester&#39;s Route</name>
+  <description><![CDATA[The route of Praester]]></description>
+  <Style id="style7">
+    <LineStyle>
+      <color>73009900</color>
+      <width>15</width>
+    </LineStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Known Route</name>
+    <description><![CDATA[<div dir="ltr">The first week of Praester's voyage</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -1.116486,50.809406,0.000000
+        -1.101379,50.761654,0.000000
+        -1.194763,50.754704,0.000000
+        -1.295013,50.785103,0.000000
+        -1.573792,50.691238,0.000000
+        -1.764679,50.687759,0.000000
+        -1.943207,50.680798,0.000000
+        -1.983032,50.688629,0.000000
+        -1.961060,50.661648,0.000000
+        -1.911621,50.652073,0.000000
+        -1.915741,50.581493,0.000000
+        -2.160187,50.558815,0.000000
+        -2.460937,50.502071,0.000000
+        -2.714996,50.676445,0.000000
+        -2.930603,50.721676,0.000000
+        -3.548584,50.407642,0.000000
+        -3.375549,50.404140,0.000000
+        -3.674927,50.180416,0.000000
+        -3.911133,50.208549,0.000000
+        -3.961945,50.275299,0.000000
+        -4.181671,50.344585,0.000000
+        -4.137726,50.308640,0.000000
+        -4.718628,50.265644,0.000000
+        -5.068817,50.013916,0.000000
+        -5.213013,49.951221,0.000000
+        -5.342102,50.071243,0.000000
+        -5.675812,50.027153,0.000000
+        -5.780182,50.116177,0.000000
+        -5.631866,50.245449,0.000000
+        -5.468445,50.219975,0.000000
+        -5.403900,50.320915,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>Stayed The Night In Paignton</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-3.558197,50.405018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stayed The Night In Torpoint</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-4.198151,50.355099,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stayed The Night In Lancewednack</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-5.214386,49.967121,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stayed The Night In Lyme Regis</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-2.941589,50.726025,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stayed The Night In Poole</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-1.992645,50.692108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Began His Voyage</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-1.119232,50.812008,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
