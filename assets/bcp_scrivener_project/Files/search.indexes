@@ -3,222 +3,60 @@
     <Documents>
         <Document ID="3">
             <Title>Unsavoury Distribution Methods</Title>
-            <Text>Unsavoury Methods (To Avoid) http://en.wikipedia.org/wiki/A/B_testing I do not wish to engage in this; regional or demographic tweaking is not a tool of literature. The idea here is not profitability; this form of marketing shows an inherent lack of trust in the material, and has never been employed before. It is an unsavoury part of digital marketing and not something that digital narratives should adopt. The same is true of DRM and restrictive measures. I seek: OPENNESS COMPATIBILITY EASE TRUST ETHICS TRANSPARENCY There should be more channels of communication than just a web form. Facebook, Twitter, and other social networks I am not entirely against adding these, but what do they really bring to the experience? Is it necessary or desirable to have these features? I don’t see them adding anything to the text, and in fact in some cases they will detract from the experience in jarring ways. There are more analog ways to use them to spread word of mouth, but I have no desire for people to tweet their progress, or engage with their friends in an intrusive way. A Facebook page, Twitter discussion; these are fine ways of using these sites as tools, third-party to the narrative, and not impinging on them. Does integration really lead to wider popularity? I am not so sure. And if it does, I am not sure it will with this piece. This is not “audience-friendly”. It may be “difficult”, but this is not an admonition. Digital narratives can succeed where videogames have failed; they need not be afraid of their own shadow. I am glad that Failbetter wish Twitter and Facebook to be used for themselves. Tutorials I do not plan to include tutorials or hand-holding; if this is needed, I am not performing my job properly. People reading this work are assumed to have a basic web literacy; we debase the whole thing by trying to make it “accessible” to people who do not have the slightest interest in learning. Progression is natural, intuitive, and in many directions. Treating readers in a certain way Do not make readers feel stupid. They are vital, and should not be cheated. They should wish to delve into the subjects raised, and find the necessary detail elsewhere. When interacting with them, such interaction should not serve the self, but the story and their intelligence. I am not sure if I am the Eremite, or his successor, or just a researcher in the Institute myself, and should play that role. Everyone gains narrative as currency, as much or as little as they want or are willing to collect, and there is always another floor for them to reach, to become a ceiling. Narrative supports a database of interest. There are more layers between myself and the reader, but the objective should be to maintain a vital link, and make it feel more immediate, for all of the distance. It is also still a question whether players should be led for narrative effect, and whether this is any different from writing that deliberately provokes a biased way of thinking. I disagree with Jonathan Blow who says that this is unworthy. All art provokes emotion, and all artificial art has a message or purpose behind it. I do not want to take their details - in fact, I have a specific storied reason not to care about their lives. I do not want to tell them how they should feel about the work. Never create the cracks for the Rewards for cash Content is its own reward. DO NOT DO THIS. There will be no digital carrot, no need to skip the actual playing of the game. Why do people want this? There should be no waiting tactics. No endgame There should be an end. The experience should not be prolonged. This undermines the message and the pacing. Achievements and levelling The story is the level, and how you change are not affected by numbers. Pricing This is tricky, and something that needs to be discussed at length and which I need to be involved in. Highly slashing prices, or introducing monthly fees, I believe are ways that devalue and trivialise the experience. I think, aside from testing, there should be a payment for access, in which is included “ownable” items; a transcript of the experience, extra content, music. DRM also is not needed as the music is tied to experience; no-one will substitute for the entire experience, which is convoluted and not an easily “ownable” environment. You cannot steal an environment. I’m also not sure about tiers of pricing; does this say that for more money you can understand it “more”? Extra content for more money, sure, but for unlocking content? I think that there should be a flat fee. It is still a question whether sales and low prices actually do devalue experiences, but it is a valid one. And where can value be added if it is necessary? I should look for ways to give people rewards without people paying for them. DRM DRM clearly does not work. It may keep people out for a little while, but you fight a losing battle that damages legitimate customers. This has been shown time and time again, and books, and digital works, are just entering this field. Would it not be wonderful if we could actually learn from these mistakes in other mediums and bypass them, saving lots of money and surprising everybody? It should not be a novelty for a company to trust its customers, but it is. Failbetter’s Methods On the whole, I am a fan of Failbetter’s approach. Fallen London is fun, literate and different. I’m not a big fan of the &quot;Echo This&quot; options everywhere, and feel that there should be an automatic journalling of what happens, in an attractive format, to streamline the UI. The menus aren't nested well, or spell-checked. Despite all the “ethical” treatment, there is still manipulation. Convenience always wins, so how far should the clasping of the hand go? Part of the issue is that it is still, after all, grinding. But the story is read maybe once, and then a second time, and this repetition does have its place. I need to find the middle way, or the fairest way. There is a push towards monetization in Failbetter’s methods, and I am starting to understand the reason for this. Freemium works because people do not bounce off a paywall - an honest policy is what is needed, not a complete dismissal of the freemium model. Most people pay for fate to grind, and so the freemium model does need to be tweaked, as the grind is not something we want to emulate.</Text>
-        </Document>
-        <Document ID="4">
-            <Title>Natural History</Title>
-        </Document>
-        <Document ID="5">
-            <Title>Cannibalism Woodcut</Title>
-        </Document>
-        <Document ID="6">
-            <Title>Farmer 1</Title>
-        </Document>
-        <Document ID="7">
-            <Title>Farmer 2</Title>
-        </Document>
-        <Document ID="8">
-            <Title>Nomad 1</Title>
-        </Document>
-        <Document ID="9">
-            <Title>Nomad 2</Title>
-        </Document>
-        <Document ID="10">
-            <Title>Tree And Languisher</Title>
-        </Document>
-        <Document ID="11">
-            <Title>Float 1</Title>
-        </Document>
-        <Document ID="12">
-            <Title>Monster 1</Title>
-        </Document>
-        <Document ID="13">
-            <Title>Monster 2</Title>
-        </Document>
-        <Document ID="14">
-            <Title>Harry Clarke 1</Title>
-        </Document>
-        <Document ID="15">
-            <Title>Harry Clarke 2</Title>
-        </Document>
-        <Document ID="16">
-            <Title>Monster 3</Title>
-        </Document>
-        <Document ID="17">
-            <Title>Harry Clarke 4</Title>
-        </Document>
-        <Document ID="18">
-            <Title>Natives 1</Title>
-        </Document>
-        <Document ID="19">
-            <Title>Harry Clarke 5</Title>
-        </Document>
-        <Document ID="20">
-            <Title>Monster 4</Title>
-        </Document>
-        <Document ID="21">
-            <Title>Monster 5</Title>
-        </Document>
-        <Document ID="22">
-            <Title>Harry Clarke 6</Title>
-        </Document>
-        <Document ID="23">
-            <Title>Harry Clarke 7</Title>
-        </Document>
-        <Document ID="24">
-            <Title>Carnivorous Tree</Title>
-        </Document>
-        <Document ID="25">
-            <Title>Monster 6</Title>
-        </Document>
-        <Document ID="26">
-            <Title>Float 2</Title>
-        </Document>
-        <Document ID="27">
-            <Title>Float 3</Title>
-        </Document>
-        <Document ID="28">
-            <Title>Two Villages</Title>
-        </Document>
-        <Document ID="29">
-            <Title>Summoning Demons</Title>
-        </Document>
-        <Document ID="30">
-            <Title>The Chemical Structure Of Salt</Title>
-        </Document>
-        <Document ID="31">
-            <Title>Statue</Title>
-        </Document>
-        <Document ID="32">
-            <Title>&quot;The Folk Lore Of The Horse&quot;</Title>
-        </Document>
-        <Document ID="33">
-            <Title>Old Cabinet</Title>
-        </Document>
-        <Document ID="34">
-            <Title>Totems </Title>
-        </Document>
-        <Document ID="35">
-            <Title>Hand Magic</Title>
-        </Document>
-        <Document ID="36">
-            <Title>Pentagram 2</Title>
-        </Document>
-        <Document ID="37">
-            <Title>Ancient Text</Title>
-        </Document>
-        <Document ID="38">
-            <Title>Stone Circles 2</Title>
-        </Document>
-        <Document ID="39">
-            <Title>Palm Magic</Title>
-        </Document>
-        <Document ID="40">
-            <Title>Flute</Title>
-        </Document>
-        <Document ID="41">
-            <Title>Charms</Title>
-        </Document>
-        <Document ID="42">
-            <Title>Medical/Religious Text</Title>
-        </Document>
-        <Document ID="43">
-            <Title>Rocky Landscape</Title>
-        </Document>
-        <Document ID="44">
-            <Title>Akalees</Title>
-        </Document>
-        <Document ID="45">
-            <Title>Annotated Document</Title>
-        </Document>
-        <Document ID="46">
-            <Title>Shark Attack</Title>
-        </Document>
-        <Document ID="47">
-            <Title>Herbs And Plants</Title>
-        </Document>
-        <Document ID="48">
-            <Title>Shrine 2</Title>
-        </Document>
-        <Document ID="49">
-            <Title>The Plague Doctor Arrives</Title>
-        </Document>
-        <Document ID="50">
-            <Title>Cave Symbols</Title>
-        </Document>
-        <Document ID="51">
-            <Title>&quot;The Manner Of Dissecting The Pestilentiall Body&quot;</Title>
-        </Document>
-        <Document ID="52">
-            <Title>Sacred Stones</Title>
-        </Document>
-        <Document ID="53">
-            <Title>Pictures</Title>
-            <Synopsis>Pictures both involved directly in, and serving as touchstones for, the Loss Project.</Synopsis>
-        </Document>
-        <Document ID="54">
-            <Title>Harry Clarke 8</Title>
-        </Document>
-        <Document ID="55">
-            <Title>Harry Clarke 9</Title>
-        </Document>
-        <Document ID="56">
-            <Title>The Potential For Reciprocity</Title>
-        </Document>
-        <Document ID="57">
-            <Title>Natives 2</Title>
-        </Document>
-        <Document ID="58">
-            <Title>Orchestra Performance </Title>
-        </Document>
-        <Document ID="59">
-            <Title>Witchdoctor Interview</Title>
-        </Document>
-        <Document ID="60">
-            <Title>Aftermath Recording</Title>
-        </Document>
-        <Document ID="61">
-            <Title>Folk Recording</Title>
-        </Document>
-        <Document ID="62">
-            <Title>Audio</Title>
-        </Document>
-        <Document ID="63">
-            <Title>Dogs</Title>
-        </Document>
-        <Document ID="64">
-            <Title>Portrait</Title>
-        </Document>
-        <Document ID="65">
-            <Title>&quot;David&quot;</Title>
-        </Document>
-        <Document ID="66">
-            <Title>Parlour</Title>
-        </Document>
-        <Document ID="67">
-            <Title>Natives 3</Title>
+            <Text>Unsavoury Methods (To Avoid)
+
+http://en.wikipedia.org/wiki/A/B_testing
+
+I do not wish to engage in this; regional or demographic tweaking is not a tool of literature. The idea here is not profitability; this form of marketing shows an inherent lack of trust in the material, and has never been employed before. It is an unsavoury part of digital marketing and not something that digital narratives should adopt. The same is true of DRM and restrictive measures. I seek:
+
+OPENNESS
+COMPATIBILITY
+EASE
+TRUST
+ETHICS 
+TRANSPARENCY
+
+There should be more channels of communication than just a web form.
+
+Facebook, Twitter, and other social networks
+
+I am not entirely against adding these, but what do they really bring to the experience? Is it necessary or desirable to have these features? I don’t see them adding anything to the text, and in fact in some cases they will detract from the experience in jarring ways. There are more analog ways to use them to spread word of mouth, but I have no desire for people to tweet their progress, or engage with their friends in an intrusive way. A Facebook page, Twitter discussion; these are fine ways of using these sites as tools, third-party to the narrative, and not impinging on them. Does integration really lead to wider popularity? I am not so sure. And if it does, I am not sure it will with this piece. This is not “audience-friendly”. It may be “difficult”, but this is not an admonition. Digital narratives can succeed where videogames have failed; they need not be afraid of their own shadow.  I am glad that Failbetter wish Twitter and Facebook to be used for themselves.
+
+Tutorials
+
+I do not plan to include tutorials or hand-holding; if this is needed, I am not performing my job properly. People reading this work are assumed to have a basic web literacy; we debase the whole thing by trying to make it “accessible” to people who do not have the slightest interest in learning. Progression is natural, intuitive, and in many directions. 
+
+Treating readers in a certain way
+Do not make readers feel stupid. They are vital, and should not be cheated. They should wish to delve into the subjects raised, and find the necessary detail elsewhere. When interacting with them, such interaction should not serve the self, but the story and their intelligence. I am not sure if I am the Eremite, or his successor, or just a researcher in the Institute myself, and should play that role. Everyone gains narrative as currency, as much or as little as they want or are willing to collect, and there is always another floor for them to reach, to become a ceiling. Narrative supports a database of interest. There are more layers between myself and the reader, but the objective should be to maintain a vital link, and make it feel more immediate, for all of the distance. It is also still a question whether players should be led for narrative effect, and whether this is any different from writing that deliberately provokes a biased way of thinking. I disagree with Jonathan Blow who says that this is unworthy. All art provokes emotion, and all artificial art has a message or purpose behind it. I do not want to take their details - in fact, I have a specific storied reason not to care about their lives. I do not want to tell them how they should feel about the work. Never create the cracks for the 
+
+Rewards for cash
+
+Content is its own reward. DO NOT DO THIS. There will be no digital carrot, no need to skip the actual playing of the game. Why do people want this? There should be no waiting tactics. 
+
+No endgame
+
+There should be an end. The experience should not be prolonged. This undermines the message and the pacing. 
+
+Achievements and levelling
+
+The story is the level, and how you change are not affected by numbers. 
+
+Pricing
+
+This is tricky, and something that needs to be discussed at length and which I need to be involved in. Highly slashing prices, or introducing monthly fees, I believe are ways that devalue and trivialise the experience. I think, aside from testing, there should be a payment for access, in which is included “ownable” items; a transcript of the experience, extra content, music. DRM also is not needed as the music is tied to experience; no-one will substitute for the entire experience, which is convoluted and not an easily “ownable” environment. You cannot steal an environment.  I’m also not sure about tiers of pricing; does this say that for more money you can understand it “more”? Extra content for more money, sure, but for unlocking content? I think that there should be a flat fee. It is still a question whether sales and low prices actually do devalue experiences, but it is a valid one. And where can value be added if it is necessary? I should look for ways to give people rewards without people paying for them. 
+
+DRM
+
+DRM clearly does not work. It may keep people out for a little while, but you fight a losing battle that damages legitimate customers. This has been shown time and time again, and books, and digital works, are just entering this field. Would it not be wonderful if we could actually learn from these mistakes in other mediums and bypass them, saving lots of money and surprising everybody? It should not be a novelty for a company to trust its customers, but it is.  
+
+Failbetter’s Methods
+
+On the whole, I am a fan of Failbetter’s approach. Fallen London is fun, literate and different. I’m not a big fan of the &quot;Echo This&quot; options everywhere, and feel that there should be an automatic journalling of what happens, in an attractive format, to streamline the UI. The menus aren't nested well, or spell-checked. Despite all the “ethical” treatment, there is still manipulation. Convenience always wins, so how far should the clasping of the hand go? Part of the issue is that it is still, after all, grinding. But the story is read maybe once, and then a second time, and this repetition does have its place. I need to find the middle way, or the fairest way. There is a push towards monetization in Failbetter’s methods, and I am starting to understand the reason for this. Freemium works because people do not bounce off a paywall - an honest policy is what is needed, not a complete dismissal of the freemium model. Most people pay for fate to grind, and so the freemium model does need to be tweaked, as the grind is not something we want to emulate. 
+</Text>
         </Document>
         <Document ID="68">
             <Title>The Sea And The Journey</Title>
             <Text>Torres Strait Islands - in between Australia and New Guinea More about the hardships of travel. Irish monks trying to find the promised land. We are pushed from the centre as we get older to die - is this why they hate the sea? Does he end up in an old people’s home by the sea? He obliquely references England. Vinland map, outed as a fake Hystoria Tartarorum Wormholes in the map. Are they counted in evidence? Ligature Iron-Gall Ink from 12th - 19th centuries. Ultima Thule - Tile - the furthest north possible The jellyfish sea Pytheas - “On The Ocean” Ierne Periplus - pilot’s book - the distance of settlements along a coastline</Text>
-        </Document>
-        <Document ID="69">
-            <Title>Marco Polo In Tartar Costume</Title>
-        </Document>
-        <Document ID="70">
-            <Title>Il Milione Chapter</Title>
-        </Document>
-        <Document ID="71">
-            <Title>Great Plague Map</Title>
-        </Document>
-        <Document ID="72">
-            <Title>Strange Buildings</Title>
-        </Document>
-        <Document ID="73">
-            <Title>Novelty Parlour</Title>
-        </Document>
-        <Document ID="74">
-            <Title>Novelty Parlour 2</Title>
         </Document>
         <Document ID="75">
             <Title>The Town</Title>
@@ -228,24 +66,46 @@
             <Title>The Institute</Title>
             <Text>A nominally flat structure, but this does not truly exist. Rituals have a high degree of immobility. Why do we approach things in a certain way? And how to contrast the Institute and the town? Both decay and atrophy, so there must be a way to contrast them. “No right or wrong, just an interpretation of the rules”</Text>
         </Document>
-        <Document ID="77">
-            <Title>Shaman</Title>
-        </Document>
         <Document ID="78">
             <Title>Game</Title>
-            <Text>qualities hidden Not describing what they do - therefore how do we make it exciting? Have some more verbosity there. FL does not have enough. What do we replace the grind with? (archivist option leads to outside forum access) THis system is hard to write for, as it encourages grind. Is this just a different style, however? Do we want things hidden on their own? Do we need the access codes to point out where they might be useful. The repeatable tasks should be a smaller part, an optional grind Rewards for being the first one to do things, or in the top portion. Incompetent bad as it continually punishes (and makes more likely) failure Should it have a fringe benefit instead, or chances to completely reverse fortune? Memes are more like a disease than anything else; they spread, and only change if they have to. Or do they? Would we say that there is a lot of invention here? Do we use the meme model to explain the spread of civilisation and new ideas through this incredibly tiny town. It is ludicrous, really; nothing this small could exist and support itself. But, for the Eremite, it stubbornly refuses to not exist. The dating works strangely, and must be decoded. Is there a year zero? Does he use glyphs? What is the World view, here? One of stricture, dishonesty, secret, futile efforts The acceptance of decay Fermentation, febrility, dirt</Text>
-        </Document>
-        <Document ID="79">
-            <Title>Valley 1</Title>
-        </Document>
-        <Document ID="80">
-            <Title>Sewer Flusher</Title>
-        </Document>
-        <Document ID="81">
-            <Title>Smallpox Victim</Title>
-        </Document>
-        <Document ID="82">
-            <Title>Valley 2</Title>
+            <Text>qualities hidden
+
+Not describing what they do - therefore how 
+do we make it exciting?
+
+What do we replace the grind with? 
+
+(archivist option leads to outside forum 
+access)
+
+THis system is hard to write for, as it encourages grind. 
+
+Is this just a different style, however?
+
+Do we want things hidden on their own? Do we need the access codes to point
+out where they might be useful. 
+
+The repeatable tasks should be a smaller part, an optional grind 
+
+Rewards for being the first one to do things, or in the top portion. 
+
+Incompetent bad as it continually punishes (and makes more likely) failure
+Should it have a fringe benefit instead, or chances to completely reverse 
+fortune?
+
+Memes are more like a disease than anything else; they spread, and only change if they have to. Or do they? Would we say that there is a lot of invention here? 
+
+Do we use the meme model to explain the spread of civilisation and new ideas through this incredibly tiny town. 
+
+It is ludicrous, really; nothing this small could exist and support itself. But, for the Eremite, it stubbornly refuses to not exist. 
+
+The dating works strangely, and must be decoded. Is there a year zero? Does he use glyphs?  
+
+What is the World view, here? One of stricture, dishonesty, secret, futile efforts
+
+The acceptance of decay
+
+Fermentation, febrility, dirt</Text>
         </Document>
         <Document ID="83">
             <Title>3D Models Introduction</Title>
@@ -380,420 +240,27 @@ The Keyboard
             <Title>Physical Book</Title>
             <Text>PHYSICAL BOOK A companion book that, providing the project is popular and makes some money, will be published by Transworld and distributed to sit alongside the main piece. Features Not A Novel This is not a tie-in book. It will contain a separate story, tied in with “making-of” sections of the main experience, links back to web content, art and commentary, and be all-in-all a “connected manuscript” - available as a ebook and physical book, with deep hooks embedded that lead back to the ocean of the web.</Text>
         </Document>
-        <Document ID="92">
-            <Title>Disease *</Title>
-        </Document>
         <Document ID="93">
             <Title>Interface</Title>
             <Text>INTERFACE Features Many Logins Options are important with logins; people do not necessarily want to create another account, and another password, with every service they join. Therefore, though people can create a Black Crown account, they may also use an existing Storynexus account, a Google account, a Facebook or Twitter account. Whichever service they login with will automatically be used as their preferred method of contact. They can connect others if they wish, but must make a conscious effort to do so. This gives choice whilst limiting notification fatigue. Notifications Features such as that of ‘Living Stories’ require notification. However, in a world where everything has a notification bell or chirrup, we must differentiate ourselves, by being both memorable and non-intrusive. In-character email messages are a start, but finding some way to not just remind the players but draw them in crucial. Hyperlinking And Interconnectivity The Institute (or at least the login) is hyperlinked from the Miasma, but, in the reverse, there is a much richer web of links out from specific questlines to pieces of the Miasma, that utilise both the Miasma pieces themselves and the puzzles that are integrated into them to advance quests within the Institute; this has the additional benefit of allowing them to find those pieces of the Miasma that they may have missed. The ability to access other parts of the experience from your current location is one of the abilities that the medium has over any other. Linked essays, Wikipedia entries, websites and places of learning will also allow players to actually research their way through the game. Nex The project will be linked to Storynexus, at least by ecosystem if not aesthetically. It will not use the orange bar, or be attached to any other storyworlds under the Storynexus umbrella. It will, however, use Nex, the currency of the Storynexus project. This is to allow very easy cross-compatibility by existing Storynexus users. I do wonder how this will affect the casual users, or non-gamers who are not used to virtual currency; they may prefer a paid-for app, or a subscription model. These can be investigated after launch, but at the start we wish to keep the experience free-to-play and very simple. I think that we will need to layout how Nex works for users who do wish to experiment. Virtual currency is a difficult thing to balance and seem fair (think of Microsoft Points) but done well they can work, I hope. Files Cards do work in the Storynexus universe, but for Black Crown I think that files fit the aesthetic better, whilst functioning in almost the same way. They are compartmentalised experiences that have a random element, and this means that they can work on many different levels. We may complicate it with an inbox/outbox system, or something related to diseases (each disease rewarded should arrive via a vector in a file). Actions Actions are an important concept, and should not be discarded in this game. They could be represented by a bitten-down pen, a petri dish, the lines of the Widsith’s logo (which should be present on every screen already), a syringe, a declining graph, or another metaphor. The declining actions reinforce the central theme of decay, and topping up one’s actions could be compared (in-game) to revitalising oneself for the task ahead. Qualities Qualities function in much the same way that they do in Fallen London - they represent markers of progress or setback, and may be in any conceivable form. This is a pleasing inversion of game theory, a very broad category, and useful for keeping track of a player’s progress. However, I think the problem that remains with them is their representation in the flow of the game. One recieves a quality every time a branch in a storylet is resolved, and there are so many to keep track of it is hard to do so. Apart from important characters, items and ongoing stories, perhaps it would be best to move qualities to a profile tab, or larger area, where they can be perused at a later date. The sidebar would be a little more streamlined in such a case. Diseases These are a key feature, separate from the inventory or qualities. They are displayed prominently in the sidebar for every character, perhaps in a sort of modular fashion.They increase abilities, unlock areas, and are general markers of progress and boasting. However, they are unique in that they make you more physically decrepit and disgusting, causing you a wild variety of effects. They are best to be thought of as “Featured Qualities”. The question now arises, however, as to whether we need qualities such as Stealth, Violence or any of those at all, or rather just simplify it into the diseases as the main qualities. Diseases should also interact with each other in a variety of different ways. . Factions There are many different departments and factions within the Insitute, and all of them vie for resources and power in what is essentially a flat structure. The players, when they sign-up, join the highest faction, but find it under threat from within and without. They interact with other factions, though they do not join them, and their relationships to those factions are controlled by the story. Inventory Fallen London is a city of traders, where each player is a (usually) free agent gathering resources for their own plans. Black Crown, instead, takes place within a work environment, where the need for specialist tools are already catered for. The inventory, and opportunities to fill it, become a sort of stationery black market, for gathering items that would suit their side missions and plans. And, of course, the currency of the Institute is the pen. Players and employees, in the culture of the Institute, are hoarders because of the imminent change that is coming, the ascendancy. Not everyone is sure what it means, and whether it is a good thing, and their awareness of the transience of life as diseased things leads them to hoard, to bear witness to what will be lost to them soon. Miasma Collection Players of the game need a way to collate Miasma that they have found. This is a key advantage over not signing up at all, and is necessary to process the information contained within them, to make connections and draw conclusions. There needs to be a space where if a player visits a piece of Miasma while logged in, the API registers it and adds it to their “collection” in the Institute, where they can move pieces around, visit them directly, and make notes directly on the collection.</Text>
-        </Document>
-        <Document ID="94">
-            <Title>Shrine</Title>
-        </Document>
-        <Document ID="95">
-            <Title>Mounds And Walls</Title>
-        </Document>
-        <Document ID="96">
-            <Title>London 1865</Title>
-        </Document>
-        <Document ID="97">
-            <Title>Palm Magic</Title>
-        </Document>
-        <Document ID="98">
-            <Title>Plague Doctor Mask</Title>
-        </Document>
-        <Document ID="99">
-            <Title>Greek Mask</Title>
-        </Document>
-        <Document ID="100">
-            <Title>US Navy Mask</Title>
-        </Document>
-        <Document ID="101">
-            <Title>Various Masks</Title>
-        </Document>
-        <Document ID="102">
-            <Title>Physick For The Sicknesse Commonly Called The Plague</Title>
-        </Document>
-        <Document ID="103">
-            <Title>Mexican Creation Myth </Title>
-        </Document>
-        <Document ID="104">
-            <Title>Sucking Out Poison</Title>
-        </Document>
-        <Document ID="105">
-            <Title>Cave Symbols 2</Title>
-        </Document>
-        <Document ID="106">
-            <Title>Magical Text</Title>
-        </Document>
-        <Document ID="107">
-            <Title>Bones</Title>
-        </Document>
-        <Document ID="108">
-            <Title>Home Front Masks</Title>
-        </Document>
-        <Document ID="109">
-            <Title>Soldier Mask</Title>
-        </Document>
-        <Document ID="110">
-            <Title>Horse Masks</Title>
-        </Document>
-        <Document ID="111">
-            <Title>WW1 Masks</Title>
-        </Document>
-        <Document ID="112">
-            <Title>Trench Mask</Title>
-        </Document>
-        <Document ID="113">
-            <Title>Civilian Masks</Title>
-        </Document>
-        <Document ID="114">
-            <Title>Cave Symbols</Title>
-        </Document>
-        <Document ID="115">
-            <Title>Small Mask</Title>
-        </Document>
-        <Document ID="116">
-            <Title>Military Masks</Title>
-        </Document>
-        <Document ID="117">
-            <Title>Diving Masks</Title>
-        </Document>
-        <Document ID="118">
-            <Title>Handdrawn map of London</Title>
-        </Document>
-        <Document ID="119">
-            <Title>Forager </Title>
-        </Document>
-        <Document ID="120">
-            <Title>Lazareth Print</Title>
-        </Document>
-        <Document ID="121">
-            <Title>Burning City</Title>
-        </Document>
-        <Document ID="122">
-            <Title>Hidden Statuary</Title>
-        </Document>
-        <Document ID="123">
-            <Title>Alchemist</Title>
-        </Document>
-        <Document ID="124">
-            <Title>Pentagram</Title>
-        </Document>
-        <Document ID="125">
-            <Title>Dance Of Death, At Basle</Title>
-        </Document>
-        <Document ID="126">
-            <Title>Recipe</Title>
-        </Document>
-        <Document ID="127">
-            <Title>Inscribed Skull</Title>
-        </Document>
-        <Document ID="128">
-            <Title>Plague Doctor 6</Title>
-        </Document>
-        <Document ID="129">
-            <Title>The TB Flea</Title>
-        </Document>
-        <Document ID="130">
-            <Title>Organs</Title>
-        </Document>
-        <Document ID="131">
-            <Title>Poison Cure</Title>
-        </Document>
-        <Document ID="132">
-            <Title>Ancient Tree</Title>
-        </Document>
-        <Document ID="133">
-            <Title>&quot;Croce&quot;</Title>
-        </Document>
-        <Document ID="134">
-            <Title>Sadhu</Title>
-        </Document>
-        <Document ID="135">
-            <Title>Trunk</Title>
-        </Document>
-        <Document ID="136">
-            <Title>Plague Doctor 5</Title>
-        </Document>
-        <Document ID="137">
-            <Title>Tract</Title>
-        </Document>
-        <Document ID="138">
-            <Title>Japanese Landscape</Title>
-        </Document>
-        <Document ID="139">
-            <Title>Totems 4</Title>
-        </Document>
-        <Document ID="140">
-            <Title>Religious Tract</Title>
-        </Document>
-        <Document ID="141">
-            <Title>Illuminated Text</Title>
-        </Document>
-        <Document ID="142">
-            <Title>Mummified Cat</Title>
-        </Document>
-        <Document ID="143">
-            <Title>Magic Token</Title>
-        </Document>
-        <Document ID="144">
-            <Title>Chinese Calligraphy</Title>
-        </Document>
-        <Document ID="145">
-            <Title>Chart Of Mortality In The Great Plague</Title>
-        </Document>
-        <Document ID="146">
-            <Title>Letter</Title>
-        </Document>
-        <Document ID="147">
-            <Title>Plague Victim? Voynich?</Title>
-        </Document>
-        <Document ID="148">
-            <Title>Creation Myths</Title>
-        </Document>
-        <Document ID="149">
-            <Title>&quot;A Most Excellent Medicine Against The Plague&quot;</Title>
-        </Document>
-        <Document ID="150">
-            <Title>Statuary</Title>
-        </Document>
-        <Document ID="151">
-            <Title>Mask </Title>
-        </Document>
-        <Document ID="152">
-            <Title>Ancient Battle</Title>
-        </Document>
-        <Document ID="153">
-            <Title>Egyptian Artifacts</Title>
-        </Document>
-        <Document ID="154">
-            <Title>Elongated Skull</Title>
-        </Document>
-        <Document ID="155">
-            <Title>Ancient Fields</Title>
-        </Document>
-        <Document ID="156">
-            <Title>Stag Symbol</Title>
-        </Document>
-        <Document ID="157">
-            <Title>Chinese Medical Text</Title>
-        </Document>
-        <Document ID="158">
-            <Title>Plague Print</Title>
-        </Document>
-        <Document ID="159">
-            <Title>Device?</Title>
-        </Document>
-        <Document ID="160">
-            <Title>Knife Diagram?</Title>
-        </Document>
-        <Document ID="161">
-            <Title>Totem 2</Title>
-        </Document>
-        <Document ID="162">
-            <Title>Longboats</Title>
-        </Document>
-        <Document ID="163">
-            <Title>Plague Doctor 3</Title>
-        </Document>
-        <Document ID="164">
-            <Title>Hooks And Weights</Title>
-        </Document>
-        <Document ID="165">
-            <Title>Songs</Title>
         </Document>
         <Document ID="166">
             <Title>Proposed Features</Title>
             <Text>3D InvPlanningentory Of Objects - This can include minor objects, of no importance to the plot (or seemingly no importance). - Perhaps a digital representation of the gas mask, with audio running if left for hours, or “equipped”. - They exist within a frame of reference, as museum objects. - They are 3D-modelled, and can be opened, toyed with, taken apart, and manipulated at will. Writing still remains at the heart of this, and they are not part of the inventory, but rather parts of the text. - These are not easily integrated into Jonathan, but perhaps can be created with another company (who created the David Eagleman app) and integrated somehow. Elements should also be considered. - They can be manipulated and opened, not just rotated. If they are hosted on a separate site, this may be useful, fiction-wise. - A potential problem may be bugs in different browsers. Audio Recordings - These can be from people in the town, the Eremite, the other employees of the Widsith, or many other sources, which can perhaps be downloaded to the desktop. Piracy is not really an issue here, as they do not mean much outside the game world. - This will include original music, that may be performed live by the Loss Town Band, and also available separately. - They can be collated, compared, and also manipulated - some tracks may have secret parts, or reveal something. We should not underestimate the persistence of some users. Musical Notation - Musical Notation, when played along to, can reveal other pieces of music, or be downloaded for covers which may unlock something within the game world. Video Recordings - These will be less frequent, but may be used by the Widsith Institute to communicate with their staff or for staff members to record messages to each other. This may include use of Skype, or something similar. Illustration - I like a variety of different styles, and while the main use will be with the Eremite (I was thinking something along the lines of Chris Riddell) this also encompasses maps, woodcuts, paintings, illuminations, sketches, and many others, in many differing styles. These are embedded into the text. - Paul believes that we move away from illustration into the “found object” style. I do agree that we should move away from cartoons, but sketching is still important. Animation - This is not something about which I have a huge opinion, but it may be something to think about and use ourselves. I can’t see an immediate application for it, however. Photography - Most of it is vintage photography, taken by the Eremite, and becomes the sole visual evidence of the town. Much of this is edited and censored, and his role as photographer is discussed at length. Interconnected Sites And Links - A sense of isolation on the web seems contrary to this project, but must be achieved. - The site contains most of the narrative, but for some parts it would be good to set up basic, linkable pages and other places of learning, perhaps to an internal wiki, written by staff members, that collates findings. - If a piece of text is referred to later, it can be brought up immediately for perusal. Hidden Function - This is a more mechanical function, utilising affordances of web technology to hide functions and content for the more determined reader. Codes, glitches, and secret digital “areas” can all be shared by a superstitious underclass. Public-Domain Footage And Audio - This is subject to copyright, but could be used to illustrate a wider remit of the Institute and create a sense of history. Glossary, Appendices, Bibliography, Marginalia, Comments And Footnotes - These all come under a similar headline. A medieval scatter-brain approach is used here, with drawings, and writings, spread apart. I must be careful to not, House Of Leaves-style, break the flow of the work too much. However, House Of Leaves may have worked better with this modular approach! These can be notes from the Eremite, from other users, from the Institute, from townspeople, sketches, lists, equations, asides, bibliography (with fake and real books), glossary of terms, dictionary, and many others, to bring in this idea of “an accumulation of ideas over time, with refinement” of the Great Scrapbook tradition. Source Collection - A meta-database of my influences and recommendations, separate from the work, but accessible from many points within it. Maps - Maps need not be finished. They can overlap and contradict, be drawn by amateurs as well as professionals. They create a cone of time, pulling in other parts of the text, and codifying it. - Maps come from official and unofficial sources, and link to the rest of the text. Writing - Infection charts and scales. - There are, of course, almost limitless numbers of verbal artefacts that can be used; poetry, prose, diary entries, receipts, holy texts, lists, registers, notes, reviews, programmes, transcripts, lyrics, and many others. All should be used, but only if it makes sense. Online Communities - A forum may take on the name of the village, and other villages, laid to waste by disaster, disease and war. This is to honour them, to write about them and invent with kindness. We may initiate this process, but have no hand in it. The Widsith Institute will be the only connecting factor. - Along with the “internal wiki” (a forum for users) we should encourage, but not directly influence, the spread of other forums. Digital Musical Instruments - Replications of musical instruments from Loss and the Eremite, that can be played to unlock new content, or merely for fun. Note-Taking And Analysis - A tentative proposal to include in-game analysis that can be viewed by others. I think this may be best confined to external forums, but this idea of research is important to the experience. Organic, Shifting Nature - The piece is never still, whether through manual intervention or programmed variation. Replacement, deletion; all of these pieces work together. But they are not time-dependent, or global; they depend on the player’s progress, not their input. - The question of why the Institute, or the work itself, is changing elements can create a “versioned frenzy”, where previous versions of texts can be recorded and analyzed. Each change is important, though not obvious. Diary/Journal Function - One’s progress could be recorded automatically for a separately-viewable, perhaps purchaseable “book” that shows a unique journey through the text, with the text (and art) included. This could be generated automatically, logged to a profile, and purchased at the end of the experience. Loss Town Band - A real band, with musicians acting the parts of the town orchestra, ostensibly saved from the town and made to tour by an unscrupulous manager. Their music would be included in the app, and certain cross-overs would be made between them. Physical Editions - I have talked about this briefly above, but the possibility arises for physical editions of the scrapbook, art books, music books, and other physical editions of the piece.</Text>
         </Document>
-        <Document ID="167">
-            <Title>Magical Text 2</Title>
-        </Document>
-        <Document ID="168">
-            <Title>Plague Doctor 4</Title>
-        </Document>
-        <Document ID="169">
-            <Title>Huts</Title>
-        </Document>
         <Document ID="170">
             <Title>Questions</Title>
             <Text>K!K!K! - What do the K!K!K! Players wear to protect from the narrative? And how can one answer this question without the inherent triteness? They are writing their own history, and lying about it. - What does this name mean, and how does it relate to the game at large? WEED OUT THE WEAKNESSES. Townspeople - How can the reaction of the townsfolk vary? They cannot ALL be hostile - there needs to be chinks of revelation. - What do they do in between his recordings? Can the narrator be subverted, and the audience allowed to trick him, to slip past his vigilance? - What happened to Gagging’s family? - Does the town crier have a connection to the outside world?  - Is the Mayor from outside. - What do they wear? - Why do they hate the sea? - Are they scared of all water? - What do they do at the birth of a child? - What are the motives of the chroniclers of Loss? - How do they feel about fluids in their bodies? - What kind of hats do they wear? - What are the “stock poses that people adopt, and what are the unusual ones? - What about the people who all look the same? - Who is sleeping together? - What is underneath their clothes, or what do they think is under there? - Can we make masks? - How do they react? Mythology - How does the “great Man” differ from ordinary man? - What would the first words be? A sneeze, “where is your face”, “who’s there”? Statement or question? - How does Loss fit in with the world myth canon? - How do they handle ancestors? - What does happen after death? - Heidegger - how does one become a being in the first place? - What is being is a worthy question. - Decay and being are very closely linked. - A philosophy of decay. - World disclosure - the Eremite has little reference for these objects, and the situations they are used in are wrong. - It is almost as if the people of the town are playing as humans, just while he is there. - But they are not aliens - are they constructs? They are other, but not alien. - He needs to analyse the world, not as a background, but the town as an entity. - Reflective disclosure - he tries to restructure his world, but he is resistant to it. The world needs to shift, for a key to be turned and tumblers to fall, to understand where he is and what is needed to react appropriately to what he sees. Orchestra - Break down the orchestra - what is the best way to diagram this? The Town - Where does the power come from? - How do the missing buildings (and machinery) move, and run from him. - What do they drink from? - What is down the river? Do they go on a trip? - How many things need fixing in the town? Is this an impossible task? - What does the town use for cutlery and tableware? - Which trees and plants grow there? - What are the lives of the street cleaners like? - How does the weather shape a people? - How does geology form a landscape? - Have they found a way to exist without trade? - Who is the Apologist? - People interacting with the things of the bestiary more - or perhaps not? Subtly they never actually interact with them, only he does? Cannot bring himself to lie? But does this mean that they definitely exist? Do they ever talk to each other? - How are humans represented in their art? - How into astrology are they? And does this explain their preoccupation with the sky? - Can we see how it looked before he was there? What he changed? - What are the dangers of walking around the town? - What structures are there? - Had missionaries come before? - Random death? The Widsith Institute - How fractured are they? - How individual are they? - How does the Institute control infection? - What happens when it goes wrong? - How does interaction occur, due to the quarantine? - What happens when you sympathise within the corporate structure? - How do you cut down on dissent. - Who are the management? - Why are they using disease? - Did they cause the bubonic plague? - What are the ambassadors called? - Were they late to the web, and do they prefer to work within the physical realm? - The ambassadors - how are they designed? What are their relationships to the sea? - Why does the institute play with its employees? - What happens if there are no employees left? - Do they recieve donations? Do they know where the donations arrive from. - Is there a form of “white man’s burden”? Does it come from Kipling. - How does their office environment look? - How do they isolate employees? - How does their insurance policy work? Is it backwards, that if you don’t die from a disease you recieve a payout? - Phantom teams and &quot;phantom efficiency&quot; - what are these people really doing? - Where is his racism born from? The Eremite - How do I refine his voice? - Are the gods the disease he brings? Is this too high-concept? - Does he want to protect the town from his employers in the end? - A psychotherapy test for him? - Who came with him? Why did they leave? - Does he have no other ties to the town? - Is he projecting loss onto Loss? - Should the Fidget be called something more appropriate to their station? - What accidents happen in the village, and does he have to help? - Is he a missionary? - Are his creature merely “concepts”? A way to make larger points on subjects that are wrapped in a skin of creature, or architecture, or man? Meta - Length and difficulty? - Can you go back and edit past content? - How can we make signing up less of a &quot;real-world&quot; chore? - Limited actions? Do we have a flat payout for access to the work? - Which emotions do we look at? - Is the end something to do with how society forms? What is the great mystery, here? - Can use hermeneutics and re-description to show something about the world at large. - The town stands for something - the strangeness must serve a purpose. - A science fiction philosophical text, creating through blindness to fallibilism. Disease - Why do we use smaller, colloquial names for disease? - How are pigs used for disease research?    </Text>
-        </Document>
-        <Document ID="171">
-            <Title>Old Document</Title>
-        </Document>
-        <Document ID="172">
-            <Title>Chinese Medical Chart</Title>
-        </Document>
-        <Document ID="173">
-            <Title>Seashore</Title>
-        </Document>
-        <Document ID="174">
-            <Title>Magical Text</Title>
-        </Document>
-        <Document ID="175">
-            <Title>Plague Doctor 2</Title>
-        </Document>
-        <Document ID="176">
-            <Title>Interviews</Title>
-        </Document>
-        <Document ID="177">
-            <Title>Chinese Medical Text 3</Title>
-        </Document>
-        <Document ID="178">
-            <Title>Old Text</Title>
-        </Document>
-        <Document ID="179">
-            <Title>Stone Circle</Title>
-        </Document>
-        <Document ID="180">
-            <Title>London Welcomes Home Her Runaways</Title>
-        </Document>
-        <Document ID="181">
-            <Title>Disease</Title>
-        </Document>
-        <Document ID="182">
-            <Title>Totem</Title>
-        </Document>
-        <Document ID="183">
-            <Title>Shack</Title>
-        </Document>
-        <Document ID="184">
-            <Title>Plague Victim</Title>
-        </Document>
-        <Document ID="185">
-            <Title>Plague Tracts</Title>
-        </Document>
-        <Document ID="186">
-            <Title>Totem 3</Title>
-        </Document>
-        <Document ID="187">
-            <Title>Illness Bill</Title>
-        </Document>
-        <Document ID="188">
-            <Title>Relief</Title>
-        </Document>
-        <Document ID="189">
-            <Title>Sacred Tree?</Title>
-        </Document>
-        <Document ID="190">
-            <Title>&quot;My First Sight Of The Village&quot;</Title>
-        </Document>
-        <Document ID="191">
-            <Title>Fantastical Beasts 2 </Title>
-        </Document>
-        <Document ID="192">
-            <Title>Indian Natives</Title>
-        </Document>
-        <Document ID="193">
-            <Title>Circular Symbol</Title>
-        </Document>
-        <Document ID="194">
-            <Title>A Kentish Ratcatcher</Title>
-        </Document>
-        <Document ID="195">
-            <Title>Chinese Medical Text</Title>
-        </Document>
-        <Document ID="196">
-            <Title>Theological Discourse</Title>
-        </Document>
-        <Document ID="197">
-            <Title>The Folklore of London</Title>
-        </Document>
-        <Document ID="198">
-            <Title>Fantastical Creatures</Title>
-        </Document>
-        <Document ID="199">
-            <Title>Plague Carrying Off Children</Title>
-        </Document>
-        <Document ID="200">
-            <Title>Navajo Elders</Title>
         </Document>
         <Document ID="201">
             <Title>Nice New Details</Title>
             <Text>Town - Washing down the streets with vinegar. They keep barrels of it for just such an occasion? - No looting, but money left on the counter. - Buried animals. - The people of Loss are never recorded. - A liasion in the cave. - He tries to find a way to cut into the K!K!K! Pitch. - Seeing two figures in the distance - what are they doing? - A valley is the opposite of an island; an excess of land instead of a dearth, but the same isolating - Build Eyam into it. - A conveyor of the ignorant. - Shapeshifting. - Everybody tries to own her. - Proximity and irritability is their birthright. - Black earth. - Their ancestors ate dirt (Aralu). - Kitchen Witch - The Hot Oil Witch - A woman looks like an old man with chicken legs from behind. - A man with huge testicles - Bow tie denotes pathetic - a society that cannot deal with death; they just do not know what to do with the bodies. - How do they distinguish, limit and empower different groups? Are women really a separate group? - CIrculating women to keep different groups peaceful. He has disdain. - Aliterate because the press is broken? Is it his quest to fix it? Can the PLAYER help him? Find those parts in the background? Replace it in their mind’s eye, change history, save the town retrospectively. - Tricksters are reconcilers - balancers in the tradition of myths as conflict resolution. - This seems wrong - so what IS the binding role of a trickster? An outsider? He who is disliked and sees a situation in a different way? - A kinship system. - The girls in the photographs are promised wives for everyone, outside the valley, once they leave, even women; the men are ugly here. Or are the women ugly? - A curse in the toilet. - The names can be shortened to something strange, or signifying something different. Game Points - Returning to the Loss Hotel - how can one create a narrative “game” from this? - A way to produce old-looking, archived websites? Arguments with service providers? - How are groups pulled together - “task forces”? Are they random. - Differences become inherent, and self-reinforcing. - An option to overlay every comment at once. - An alternate keyboard where physical buttons pressed relate to other letters being pressed. This is part of a code that should be deciphered, but with a light touch. - You aren’t special, but this is powerful. “You Are Unnoticed, And You May Dig”. - A section which gets people to go outside - Honesty Tracts - sanctioned, meta-truthfulness. - Climaxes instead of waypoints. - A EULA that is a clear as is possible, aliterate if possible. - Do the players have an inventory - very little to gain from their &quot;job”. Do not get to keep anything. Like stealing office supplies. - Make it shorter and better - 60 hours for environment, not content. “Filler” parts from Mass Effect 3 - Get the players to band together against oppressive bureaucracy. - A mythology establishes central tenets, and bends out from them under the weight of variation. - Not as grindy, not paying for actions. - Is the choice “physical” or not? Do you narrate their choices, or allow them to live them? The former is very “Fallen London”. - Real-world Wikipedia and IMDB entries - fake - API for sending documents in real-time - Big up the artefacts - their acquisition is important. - Minimise the revisiting of old pieces - this is not exciting - All the notebook pieces are collated into a scrapbook? - Build questionnaires into branding. - Field recordings of stranged birds in background instead of soundtrack, with filename mentioned. - Time-specific events? Mythology - The black turkey with one tooth. - The low horse. - The Shaman as a monster. - Drogio, Estotilands, Icaria, Frisland, St. Brendan, Brazil, Verde, Groclandt. Quotes And Words - “Everybody has the zip of breathing on record”. - “Copyright @ the creator’s ancestors”. - A name: “Mamoet” - “When they look at you they already know where all your organs are. They know what would happen if you died.” - “Culture Of Charity As Industry” - “Outsideness is the most popular factor in understanding” Mikhail Bakhtin. You should not forget yourself within a culture, but should remain an outsider, to expose it truthfully. - “Fish and fetish” - A man about to die: “I take it all back!” - “We treat the past like children.” - “No, Go Smaller.” - “Peskajumba.” - Tom Waits - “We should create the value of things based upon their survivability.” “Some thing is most wrong with the stars” “FOur red monks carrying a black goat across the snow to nowhere - “It rings a bell, this tower” Artefacts - A rip on one side of the map, and then caverns leading from the rip on the other side. - A looped, six month recording with one change at a random point. Available constantly online. - Find the lowest decibel a human ear can hear. - The gaps where nothing is recorded. - When he adds to the K!K!K! Map, things are not added in real life. - Gaseous clothing - Angel’s Meat - A painting from a previous Fidget? Architecture - Houses get thinner as people get thinner - Loss is palpable. - Living architecture - A hurricane factory. - The facades of buildings - in a way, admitting his imagination. - Ground plans. Writing - Other voices, not just the Eremites. Direct quotation. - Modular letters. - “Horror vacui” and the need for complication. - The existence of a separate notebook. - A lack of invention - is it real or his own failing? - Contrast the expectation of unreliability with someone wither secretly reliable or who is marked as “honest” to begin with. - Eremite is very comfortable with the strangeness. - Internal, progressive logic to the writing. - Bring in the elements of horror in the sentimental and humour. - One page where everything has fallen to the bottom of the page? - The shapes of runes are the ways to progress through a story. - The drama at the end is not a big drama, but is important. It is not entirely hopeless. - “Evidence” instead of “storylets” - Sword-fighting manual - Exploration of burial practices, a running commentary - Lacunose/lacuna: a gap in the text. - The map needs to be illustrate - what was his geographical and physical process in making it? - Garamound as a typeface - Far more fragmentary - break it up. The Institute - The OCD of someone who works in a “clean” room. - Add Sam as a character. On his website, does it say that he has disappeared, for a short time? - No-one there is intelligent, but rather does what they are told. - Parallels to the town itself. - “Super-spreaders” - why are some more susceptible than others? - A variety of personal diseases. - Diseases that heighten mental outlook. - Corporate manoeuvring, photo manipulation - Stalinist tendencies. - There is always another rung on the ladder. - Every company has its brown-nosers, careerists and endless no-hopers. - A gas mask for the entire country. - The tone of the Institute should be friendlier, the authority more hidden. - The signatures of the famous. - Testicles hooked up to machines. - The Institute is against the spreading of disease - its effect on one, alone, is more important. - Collectivism - pulling people together. - It is a framework, and an important one, but not the main issue. It provides expansion and flex. - Little respect for the artefacts. - The Widsith Institute is like a beehive - hives of disease. - A liturgical calendar. - A feasability report (!) on evacuating the townspeople. - ALEXIS - Tarots as internal memos? - John Lewis - everybody has a stake. - Meritocracy - corporate environment with Dadaist achievements - Rivalry between departments. They have meaningless names, and must be given other names by their employees. - A culture of texturing photographs - is this extensible? - The Institute employs everybody in the world? - Heraldry terminology to work with symptoms to create a unique language. - Charities are bound by a sense of rightfulness. - Charity muggers are part of this. - Bring Hamelin into it, and the Pied Piper - Snorri - the first European born in North America. This becomes part of Institute lore - a mascot, of sorts. - We are all equal in plague - a flat society. - They do not treat their employees like idiots - they are well aware of the danger of their intelligence. - A maritime charity - related to the sea. - Three feet to avoid infection - all over the institute. - Acting as extra security at a gig for an in-game benefit. - Sending a cold in seasons across the Trust. - Do they cure all outside diseases before players join. They are told that “something will be introduced to the water supply”. - “Fevered Nights” - a quality - It is hard to sleep in the dormitories with all the groaning. - Players/employees hold onto things because of their awareness of the transience of life. - Do not want to break out, but rather go further in. - The place is primarily absurd. - A designation for a long, dull digression, or epic story. - Lexicon designed to spoken by those in physical pain/illness. - Lots of imagery of the sea. - Actual characters The Eremite - He shows them a fork. What represents the basic human procedure? - Entheogen - psychoactive substance used in a religious context. - More use of his given name. - They do not meet his expectations. - He is a legend amongst Widsith staff. - He is given to over-dramatics, but they come to nothing. - The CEO? This is all to get his work read? - His confidence is a blessing an a curse. - The fragility of literary mortality. - He mentions the “Wurm” Ice Age. - He does not want to take on any aspects of the culture. Recover from culture shock. - He pulls out a very modern weapon? - A ambiguous name, like Beowulf. - Prester John - The Anchoress - Means “of the desert” - an aversion to the sea. - Paul Of Thebes - Meant to help mankind - Anchorage with a “squint” - another way of viewing the Fidget’s work. - No need to keep clean. - Vegetarianism important amongst them - or at least another form. - Ornamental hermits - What does he transgress? Does he realise it? What are his limit-experiences? - Videos as promotion - camera pointing backwards - His lust is too great - a folly. But is just lust, or dominance? He does not even have a great lust. Does he experience sexual problems? Anthropology - Looking at the teeth is a shortcut to anthropology. - Special vocabulary for geographical features. - Inventing nonsense to satisfy anthropologists - A culture of exchange - what does the anthropologist have to share? - Pain makes you retreat inwards. - Taking an A,B,C,D approach to documenting familial ties. - Binary approach within myth - a lsieght of hand to see the two polarities resolved. - He never actually mentions the colour of their skin. - Drop Innis Tile in there somewhere. - “That” Oera Linda Book - Great travels within a small area.</Text>
         </Document>
-        <Document ID="202">
-            <Title>Floorplan</Title>
-        </Document>
-        <Document ID="203">
-            <Title>Iranian Masks</Title>
-        </Document>
-        <Document ID="204">
-            <Title>John Stenhouse's Mask</Title>
-        </Document>
-        <Document ID="205">
-            <Title>Your Stake In The Atom</Title>
-        </Document>
-        <Document ID="206">
-            <Title>Plague Doctor</Title>
-        </Document>
-        <Document ID="207">
-            <Title>Magic And Symbolism</Title>
-        </Document>
-        <Document ID="208">
-            <Title>Masks</Title>
-        </Document>
-        <Document ID="209">
-            <Title>Marching Band</Title>
-        </Document>
-        <Document ID="210">
-            <Title>Slavonic Dance 1</Title>
-        </Document>
-        <Document ID="211">
-            <Title>A Bunch Of Nonsense</Title>
-        </Document>
-        <Document ID="212">
-            <Title>Lonesome Road Blues</Title>
-        </Document>
-        <Document ID="213">
-            <Title>My South Polar Expedition</Title>
-        </Document>
-        <Document ID="214">
-            <Title>Mazel Tov</Title>
-        </Document>
-        <Document ID="215">
-            <Title>Skamba Kankliah</Title>
-        </Document>
-        <Document ID="216">
-            <Title>In 'De Morning</Title>
-        </Document>
-        <Document ID="217">
-            <Title>Polish National Dance</Title>
-        </Document>
-        <Document ID="218">
-            <Title>Dinah Polka</Title>
-        </Document>
-        <Document ID="219">
-            <Title>Buildings And Landscapes</Title>
-        </Document>
         <Document ID="220">
             <Title>Writing</Title>
         </Document>
-        <Document ID="221">
-            <Title>Anthropology</Title>
-        </Document>
         <Document ID="222">
             <Title>Artwork/Diagrams</Title>
-        </Document>
-        <Document ID="223">
-            <Title>Art</Title>
-        </Document>
-        <Document ID="224">
-            <Title>Plague Doctors</Title>
-        </Document>
-        <Document ID="225">
-            <Title>Maps And Blueprints</Title>
-        </Document>
-        <Document ID="226">
-            <Title>Documents</Title>
-        </Document>
-        <Document ID="227">
-            <Title>Woodcuts And Illumination</Title>
-        </Document>
-        <Document ID="228">
-            <Title>Artefacts</Title>
         </Document>
         <Document ID="229">
             <Title>Planning</Title>
@@ -802,69 +269,6 @@ The Keyboard
         <Document ID="230">
             <Title>Work</Title>
             <Synopsis>Deploy said text!</Synopsis>
-        </Document>
-        <Document ID="231">
-            <Title>Beksinski</Title>
-        </Document>
-        <Document ID="232">
-            <Title>Chris Riddell</Title>
-        </Document>
-        <Document ID="233">
-            <Title>Congolese Wrestler 2</Title>
-        </Document>
-        <Document ID="234">
-            <Title>Congolese Wrestler </Title>
-        </Document>
-        <Document ID="235">
-            <Title>Dasha Shiskin</Title>
-        </Document>
-        <Document ID="236">
-            <Title>Frederick Cayley Robinson</Title>
-        </Document>
-        <Document ID="237">
-            <Title>Herder 1</Title>
-        </Document>
-        <Document ID="238">
-            <Title>Herder 2</Title>
-        </Document>
-        <Document ID="239">
-            <Title>Herder 3</Title>
-        </Document>
-        <Document ID="240">
-            <Title>John Bauer</Title>
-        </Document>
-        <Document ID="241">
-            <Title>Map 1</Title>
-        </Document>
-        <Document ID="242">
-            <Title>Map 2</Title>
-        </Document>
-        <Document ID="243">
-            <Title>Paper Cinema</Title>
-        </Document>
-        <Document ID="244">
-            <Title>Report</Title>
-        </Document>
-        <Document ID="245">
-            <Title>Ruins 2</Title>
-        </Document>
-        <Document ID="246">
-            <Title>Ruins 3</Title>
-        </Document>
-        <Document ID="247">
-            <Title>Ruins 4</Title>
-        </Document>
-        <Document ID="248">
-            <Title>Ruins 5</Title>
-        </Document>
-        <Document ID="249">
-            <Title>Ruins 6</Title>
-        </Document>
-        <Document ID="250">
-            <Title>Ruins</Title>
-        </Document>
-        <Document ID="251">
-            <Title>Women Of The Future</Title>
         </Document>
         <Document ID="252">
             <Title>Mechanics</Title>
@@ -891,9 +295,6 @@ The Keyboard
             <Title>Religion</Title>
             <Text>The Teenage Moon - venerated, the vessel, the Elysium, and hated by the young. How does it compare to other civilisations. Why Sigurd? The comfort of Nordics - they look like their gods. Other races do not. All religions are products of chance and stupidity. Sympathetic magic - emulating, fetishising, a childish simulacrum Sympathetic magic is at work in the Institute. “Poppet” instead of puppet. Their version of English comes without cultural inspirations - what is the cut-off point? Consecrating or re-enacting. Trance states, dark caves, paintings. Participation Mystique - no concept of the individual in the deep past. More of the role of the Mayor as a dying king. Mortification Jokes and popular beliefs. Artifact, describable or transmissible entity (oral), culture, behaviour (rituals) Folklore it is not, as it is the DOMINANT BELIEF STRUCTURE - no diversion from this. The folklore comes from the young, or the old? The young are staid, the old want something better? Urban legends, gossip, ethnic stereotype. Serves as cultural validation, and to assert social pressures. Blason Populaire - stereotypes. Wandering Jew Ashaver - a fool Cain only ever scavenges, never produces. Machus - struck Jesus or derided him. Kenosis - emptying oneself. Religion and Myth Myths are stories that explore rather than explain. Absolutely no mention of women in their mythology. Myth becomes distinctly biological, and to do with dirt. Theological maps A food that perfectly represents the cosmos - fat? A Widsith diet plan? Seeing if this works? A fad? A table of proto-graph in the mythology? Or indeed a full graph on the part of the Eremite. Accident and mishap is the nature of myth, which always seems to take the most convoluted route to reach the status quo. The splitting of gods - amoeba Often somebody becomes the father of mankind after mankind has already been born. Adoption is culturally basic. A go-between, or is the shaman the furthest removed from the gods? Causes disease or death. Charms and other things to ensure parts of life go on. Philosophy - what do I want to say? The gradual revelation of landscapes Sentient animals Add one element to an existing animal. Everyday and eternal meet The world relies on an infinite resource Qawwali for the music of Loss Repeating utterances What body percussion? What features? Wailing, Wayle, a scholar of the music? Is he the manager? A character? Wayling? A sense of transcendance. What music is this? What is its role? Contacting the Sporots - he makes this error, the Institute picks up on it Love, Fortune, Happiness Tricksters Animal Idols Mythical Beasts Painting The Story Universal Creatures Death And The Underworld Sacred Sites End Of The World Creation Of The World The Cosmos Sun And Moon Making Humankind Supremem Beings Floods And Storms The Elements The Natural World Fertility and Birth Children Of The Gods Ancestor Worship Evil Forces Superheroes Divine Weapons Gods Of War Hagiography - study of saints Religion doesn’t need to have a “use”, anthropologically; what is it for, then? Text solidifies ideas.</Text>
         </Document>
-        <Document ID="259">
-            <Title>Argentinian Natives</Title>
-        </Document>
         <Document ID="260">
             <Title>Audio</Title>
         </Document>
@@ -909,9 +310,6 @@ The Keyboard
             <Title>Illumination</Title>
             <Text>Gravity plays a large part in the layout of illuminated text. Require support not to fall to the bottom of the page. Letters provide additional support and shelter - for words, for figures? Flying creatures may ascend. Yale Lancelot Bodleian Alexander Can we emulate gold leaf on a screen? An epic that begins in medias res where the protagonist travels great distances to battle supernatural beasts. Beowulf - the ninth hour - non - 3pm - when he returns from his battle with Grendel’s mother. Controversial scholarship - stating which is a funeral and which is not. Lay Of The Last Survivor - Is he the poet from Beowulf - Scyld Scefing Beowulf actually means woodpecker - from the kenning “bee-wolf”. Language - x is a guttural sound like loch. Not “illuminated” - this was Blake’s word - Experimented? - Pyring? - The grounding</Text>
         </Document>
-        <Document ID="264">
-            <Title>Wellcome Notes</Title>
-        </Document>
         <Document ID="265">
             <Title>Ideas For The Book</Title>
             <Text>- The Eremite’s writings? A nicely produced anthropological document of some of the other places he has been? - I think, in comparison to the work, it has to be a little more sumptuous - straight text just won’t work. - A straight novel? From the perspective of the Eremite? I’m not sure this will be very interesting. You are buying into a world, and it undermines the perspectives of the main project. To have a third-person narration would undermine the world’s establishment, and first-person is too similar to the main document. - The work of the Institute? A wider world? - The diary of another Eremite? Sam North? Following the other Eremite? - I would like it to be able to stand on its own, but to be able to gain more from it if you follow the story. - Codes from it unlock additional content, not necessary, but - But the Kindle market etc. Will I be shutting these guys out? - Written by a hidden character? - A collection of new folk tales? - Well, what about an app on iPad? Or are they keen for low-cost tie-in? If so, I’m not sure that this project is the right thing. - A philosophy text? What would the point of a new book be? Just to make more money? It has to mean something, and not just exist because the project might be successful and therefore it can exist.</Text>
@@ -920,47 +318,111 @@ The Keyboard
             <Title>Proposed Timetable For Loss Work</Title>
             <Text>This is all preliminary, but I think fairer considering the time outlay that I believe will be required on my part throughout the project: Sign Contract: Start Of October As well as being when my rent is due, this gives a month to come up with a very solid contract, with work beginning immediately. Phase 1 (Writing And Planning): October-Christmas (Extendable) Looking at how much needs to be done, with not just the Miasma content but the structuring of the office content, marketing, the music, photography etc. (please see separate list) I think that three months of full-time work on this is reasonable, if still a little optimistic. I can work like the clappers if I need to, but I have felt that there has been an underestimation of how much the text needs to be expanded, reconfigured, and in parts rewritten for this format. I can see this extending into January or Feburary, but the only break I am taking in this time is from 13th-20th October, and it is essentially a working holiday, so I will still be available and writing, if interspersed by bike rides and swimming. To be pessimistic, let us say that this period extends to the start of Feburary, which is five months to prepare all of the initial marketing, write up all of the Miasma content, create the art/3D models, produce the music and recordings, set up the bulk of the initial office content, and be ready for the next phase. Phase 2 (Rolling Out): Feburary-March/April This is in line with your initial plan, with a month of promotion, and user engagement, with me writing new stuff if needed, looking at trends, and engaging with readers and other outlets. A month is not a very long time, especially for something that is quite slow-burning like this, so what would you say to two months? I know Alexus may think this is too long, however. Phase 3 (Extending The Content): March/April-May/June I think a further two months of writing new content and integrating it into the initial system, as well as drilling down and resolving story arcs and other loose ends, might take a little more than two months, but I am hoping that the workflow will be by that point streamlined and take less time administratively. Around this time I think, if it is going well, we should start thinking about the accompanying book. Waiting till then will peak more interest and reach more players, but still be in the early stages (meaning that most people will still be engaging with this world). Perhaps it could come a little earlier, but I think time-wise there will be more time to write it in the summer. This also spreads out payment for me, which I like. Phase 4 (?): June/July Onwards If I am honest, I do not have a clear idea of what will happen after this initial period. It may be that the project is completely self-contained, and we find a way to archive it so that it does not require hundreds of active players to be fun for others (This is something that I think is key to the project as a whole). It may be that we continue to add content, in a way that extends the experience, or start something in the same universe but with an entirely different format and narrative. I’m not sure. I think my main opposition comes from the statement that after Phase 2 I will not have a lot of input, and therefore payment only needs to reflect 6 months work. - The initial phase will run to nearly this amount any way. - From what Alexis has said, most of the content creation and implementation will be by me alone, and so I will be doing this throughout every phase. - Any extension that takes place will require extra work. - I do understand that this is extending into an unknown. I believe that: a) payment needs to accurately reflect the amount of work over the amount of time I will be doing it. B) Make provisions for if things are delayed, work overruns, etc. With these factors in place, work can continue until the point that we reach that unknown, at which point a further contract can be drafted to cover work that is created in the light of any success this project has I.e. Drastically extending content. It also should be said that some of this content will not be makeable by me: it would be good to bring an artist on board who can help me with it. This is something that will need to be talked about for the contract.</Text>
         </Document>
-        <Document ID="267">
-            <Title>appendixtemplate</Title>
-            <Text>￼￼￼￼￼￼￼APPENDIX 1 ￼￼￼￼￼￼Dio odip enibh eliquis dolor adigniam, quisisisi eugait landions nis nisci tatismo dolorem quat incillaorem ad ecte do od modo con eros elis alit, vulput prat wiscillan utate ver seni- sim volore molorper incin vullums andionu llamcommy nisit lore vullam quisit vel ilisl ex- eraes equat, vendip euis adignibh eriurem verci et loreet ut nulla facidunt lam delisl in eum quis nibh exer iril et dolum irilit, sit ulput at wisci tet ulputpat volortinci ex ea facil iliquis auguercidunt ex ea am exerci tionum dit amet dolore cons del iusciduis do odolent ip et lor- erat irit wisim dolortinci tatie dolor ationsequis aliquat volor sum ipisis et aliquis autpat. Duisl ulputate min eum dolobor eraessim nisisim iure ero ex et loreet ipit vullam volore min henismo loboreros num eugiatem nullametue con velessisim augait, sis am vel ip ercip eros dolenisi erillam etuero eugiamcommy nos augiam quisciduis del utpatum at. Ut vullan euguerc iduipismod dolorper sit elessi. Raestrud ming et ad enis delenibh ercidunt autat. Ut ullum nostrud delis alisl ing eumsan ut lore facipit eum doloreet aut ver sit, si. Ent in henim dolore feum ipis nulluptatio conse te dit wis nullut pratum in ullaor amcommy nonullandip eu faccum inim volorem volesequipit nulla acing esequatie feu faccum digna con ex ea facilla feu feugait luptating et, quisim velit eliquisl ipisl et alisi eliquatum quate feugiam commodolorem veliquat, conulla mconsed magna con ver iliquam, cor sit lummy nibh eu faccum eum nulputate dolore venim quat alisi tat. Alissent niatum veliquisisim zzriure cor sed tate feummodigna feugait, sit wisl dolor at. Met volore cons delisit, quat niam, velit lum adit adipis nonsequisci ex ectet atis nos nul- laortie modionullan et, vulputem doloreet ing eui elessequisi et at eummod euguer ing et, sit num augue facincilit prat aliquipisi. Enit wisl inibh ea facilla core volutpatue tem quis adigniametue magnibh et lor sim iliquat inisism odolortio dignit loreros tionseq uations equipit lore mod te duisi bla facillut nibh ea commodo lessequisim eugue molorpe raestrud tat. Duisit lamconsequip esendrer sum atie ent endit accum ipit accummodo et la augiamc ommolum accum in vendion ulputate min utat ex ectem volorperos adigna feuipsusto dui eum delenibh el doluptat ad mincipit ipis nonse feuismo loreet, suscipis augait amconse quismod ming ero odoleni ssequiscilis dolore delit wisis am do od exeraesed magna feugiam vel utat. Ostrud ectet, cons adio dipis alit lut praessi scipsum iriustrud tetum volor susto od dolore volobortisit ut nos et iniscil essisi. Alit praese consenis nim quat. Giationse modolut atuero dolore voloreet veliqui piscips um- modit volumsandre feugue min ullute facilis sequat. Ut wis nim nullam veril ut wisit utatem ex eugait alit, vel ulput adigna commodo lortie magna feugait irit utat. Na faccumsandre dolobor summy num dolobortio deliquamcore ex esequat euguer sismolor autem nummy nulput utpat veliquat. Si tatincil do coreet, quisisi. Uptat lut utpat. Ut nim ilit ulput aut aut lore modolore tin velenismod dunt nosto eu feugiam zzriliqui tat. Rilis nulput at iliquatin hendigna ad el utet aute conum duisl ing et, sequisit praesse quissendre dolut duipisim dolor atuero conulputpat. Duisl endre faccumsan henibh exero odignim at. Ming eugait enim eummy nis nim erit aute ercidunt veriurem inissi blan et lor alisciduis nim nulla feu facillut aliquis autat. Duis dolor senisse quatis nit iureet la</Text>
-        </Document>
-        <Document ID="268">
-            <Title>gasmask---Copy</Title>
-        </Document>
-        <Document ID="269">
-            <Title>heart</Title>
-        </Document>
-        <Document ID="270">
-            <Title>l&amp;f2</Title>
-        </Document>
-        <Document ID="271">
-            <Title>LOSSGIRL2</Title>
-        </Document>
-        <Document ID="272">
-            <Title>mount</Title>
-        </Document>
-        <Document ID="273">
-            <Title>skin</Title>
-        </Document>
-        <Document ID="274">
-            <Title>ui</Title>
-        </Document>
-        <Document ID="275">
-            <Title>ui2</Title>
-        </Document>
-        <Document ID="276">
-            <Title>widsith</Title>
-        </Document>
-        <Document ID="277">
-            <Title>Mockups</Title>
-        </Document>
-        <Document ID="278">
-            <Title>Potential Artists To Work With</Title>
-            <Text>Artists Adrienne Kammerer http://adriennekammerer.blogspot.co.uk/ Tin Can Forest http://tincanforest.com/ Nicholas Fox http://foxnicholas.com/ Anita Kunz http://www.anitakunz.com/ Jack Teagle http://jackteagle.co.uk/ Micah Lidberg http://micahlidberg.com/ Dani Crosby http://www.danicrosby.com/ Peter Diamond http://www.peterdiamond.ca/selected.html Sam Bosma http://www.sbosma.com/ Mattias http://mattiasa.blogspot.co.uk/ Photographers Ed Lyon http://despecto.co.uk Techies Popleaf http://www.popleaf.com/ Touch Press</Text>
-        </Document>
         <Document ID="279">
             <Title>New Notes</Title>
-            <Text>Best graphics are a player’s imagination. Disability? Text descriptions read by mellifluous voice actors? Letters look like animals A lack of imagination amongst primitives Their language based around hatred of the sea - sibilance is evil, here, too, as it sounds like the waves? The weapon letters - only used for insults? Later letters, for modern things? What is their genealogy and history? Where did these “conveniences” come from? Sound? How many uses of feedback are there? Dale/Vale/Coombe/Coomb/Coon/Kloof What sediment does it deposit? Muggy - regulates temperature with humidity. Is it a hanging valley? Interested in those animals which shape their world - as celebrants of mysteries, those animals which they cannot see are even more important. Giving animals human attributes which are desirable. We do this to this day. Animals from outside the valley drawn incorrectly - she calls him an elephant - is this figured in the bestiary? Downsteam - a mythical place of death and hell Upstream - the font of knowledge - they are the filters Minerology, botany, medicine THey can only describe it as being parts of animals they had seen, or already factored - how can this change? Describe as one thing. An x+y=z approach - what can things be combined with? A sense of entrenched immutability, or exciting experimentation? All societies are information societies A fictional framework in which they can place themselves. Media is a way to mediate human relations, anthropologically So little direct experience of cannibalism happening - a barely believable threat. Eating of infected brain tissue - the spreading of prions. Choice, complicity, consequence: Emotional, moral, mechanical, strategic, personally expressive. What other kinds of choice are there? Necessary, unnecessary, binary, illusory, multiple-choice, veiled, open, gamble, Complicity - the immediate dramatic reward of making a choice. The agency that is lacking in other media. Consequence - immediate, or reverberated. Don’t just use consequence. The others are important as well. Bestiaries had primarily an English audience. The bestiary taken out by many hands - why? If it is not to moralise, what is it for? To instruct, to lie, to console, to entertain, SHOULD the animals be symbolic? Don’t want to fool people - create an alternative, a richness, a texture. How close do those without science look at the outside world? Books are random-access - the web even more so. Short narratives - how can I use this to my advantage? The limited set. How many endings? How many paths? Visualisations How can we do this? Reference books are random access Hopscotch approach Spatial representation is much better. First ending is a dire one. Bring in player psychology as to who will choose which page. Directed graph Can you go back? Cannot do that in adventure books. Win the story - find the best ending. Endings in the age of Mass Effect Diverging paths before returning to the main one. The addition of vernacular detail to scenes from history. The “watchers” at the periphery of the painting. Crowd-source the artwork as it is too expensive to produce outselves. Holding animals - do they hold at arm’s length? A crusader? Titillation - religious scenes (pagan) provide a chance to paint nudes Spiral designs People ragging on books - they are looking at it in the wrong way. A description of the coat of arms - not like anything that they have seen before. Where have they recieved this tradition from? Comparisons of poems Book of Darrow Names for the Hermits Eremite Hermit Ornament Fidgets Ambassador Emissary Pilgrim Peregrines Desert Father Cenobite - no Anchore Anchorite Poustinik Larvae ]Iron Herald Don’t have names, only where they come from. Something to do with flies? They need to be protected - or are they protectors The Crutches - carrying everyone to the sea. River Fathers Vulgates Decrepit Do they have “children” in the structure of the Institute The visibility of the land around you What does a valley as opposed to islands? What does it do to the psychology Finite State Machine Territory, spheres of influence, scenarios Stylised paintings of people - like musical instruments. The distribution of water is very important - they never wash. Concrete looks like it was created by too perfect a race - not us. They get their ideas, ways of speaking, and political persuasion from ephemera that float down the mountain. In a valley, nothing can blow away. An island and peak - moves everything away, nothing stays for too long. A new landscape; a valley is an old one. Bonding through adversity - have the players set back, puzzle together, and then overcome Make a tighter experience at the beginning, with the possibility of opening out this world How to make sharing more viable They are like bards Olive, cedar, palm, cyprus puzzle</Text>
+            <Text>Best graphics are a player’s imagination. 
+Disability? Text descriptions read by mellifluous voice actors?
+Letters look like animals
+A lack of imagination amongst primitives
+Their language based around hatred of the sea - sibilance is evil, here, too, as it sounds like the waves?
+The weapon letters - only used for insults? 
+Later letters, for modern things? What is their genealogy and history? Where did these “conveniences” come from?
+Sound? How many uses of feedback are there?
+Dale/Vale/Coombe/Coomb/Coon/Kloof
+What sediment does it deposit?
+Muggy - regulates temperature with humidity.
+Is it a hanging valley?
+Interested in those animals which shape their world - as celebrants of mysteries, those animals which they cannot see are even more important.
+Giving animals human attributes which are desirable. 
+We do this to this day. 
+Animals from outside the valley drawn incorrectly - she calls him an elephant - is this figured in the bestiary? 
+Downsteam - a mythical place of death and hell
+Upstream - the font of knowledge - they are the filters
+Minerology, botany, medicine
+THey can only describe it as being parts of animals they had seen, or already factored - how can this change? Describe as one thing. 
+An x+y=z approach - what can things be combined with? A sense of entrenched immutability, or exciting experimentation?
+All societies are information societies
+A fictional framework in which they can place themselves.
+Media is a way to mediate human relations, anthropologically
+So little direct experience of cannibalism happening - a barely believable threat.
+Eating of infected brain tissue - the spreading of prions.
+Choice, complicity, consequence: Emotional, moral, mechanical, strategic, personally expressive.
+What other kinds of choice are there?
+Necessary, unnecessary, binary, illusory, multiple-choice, veiled, open, gamble, 
+Complicity - the immediate dramatic reward of making a choice. The agency that is lacking in other media. 
+Consequence - immediate, or reverberated.
+Don’t just use consequence. The others are important as well. 
+Bestiaries had primarily an English audience. 
+The bestiary taken out by many hands - why?
+If it is not to moralise, what is it for? To instruct, to lie, to console, to entertain, 
+SHOULD the animals be symbolic?
+Don’t want to fool people - create an alternative, a richness, a texture. 
+How close do those without science look at the outside world?
+Books are random-access - the web even more so. 
+Short narratives - how can I use this to my advantage? The limited set.
+How many endings?
+How many paths?
+Visualisations
+How can we do this? 
+Reference books are random access
+Hopscotch approach
+Spatial representation is much better.
+First ending is a dire one. 
+Bring in player psychology as to who will choose which page. 
+Directed graph
+Can you go back? Cannot do that in adventure books. 
+Win the story - find the best ending. 
+Endings in the age of Mass Effect
+Diverging paths before returning to the main one. 
+The addition of vernacular detail to scenes from history. 
+The “watchers” at the periphery of the painting.
+Crowd-source the artwork as it is too expensive to produce outselves.
+Holding animals - do they hold at arm’s length? 
+A crusader? 
+Titillation  - religious scenes (pagan) provide a chance to paint nudes
+Spiral designs
+People ragging on books - they are looking at it in the wrong way.
+A description of the coat of arms - not like anything that they have seen before. Where have they recieved this tradition from? 
+Comparisons of poems 
+Book of Darrow
+Names for the Hermits
+Eremite
+Hermit
+Ornament
+Fidgets
+Ambassador
+Emissary
+Pilgrim
+Peregrines
+Desert Father
+Cenobite - no
+Anchore
+Anchorite
+Poustinik
+Larvae
+]Iron
+Herald
+Don’t have names, only where they come from. 
+Something to do with flies? They need to be protected - or are they protectors
+The Crutches - carrying everyone to the sea.
+River Fathers
+Vulgates
+Decrepit
+Do they have “children” in the structure of the Institute
+The visibility of the land around you
+What does a valley as opposed to islands? What does it do to the psychology
+Finite State Machine
+Territory, spheres of influence, scenarios
+Stylised paintings of people - like musical instruments. 
+The distribution of water is very important - they never wash. 
+Concrete looks like it was created by too perfect a race - not us. 
+They get their ideas, ways of speaking, and political persuasion from ephemera that float down the mountain. 
+In a valley, nothing can blow away. An island and peak - moves everything away, nothing stays for too long. A new landscape; a valley is an old one. 
+Bonding through adversity - have the players set back, puzzle together, and then overcome
+Make a tighter experience at the beginning, with the possibility of opening out this world
+How to make sharing more viable
+They are like bards
+Olive, cedar, palm, cyprus puzzle</Text>
         </Document>
         <Document ID="280">
             <Title>Valley Notes</Title>
@@ -990,7 +452,31 @@ A valley breeds out all knowledge or remembrance of the sea. It contains the lea
         </Document>
         <Document ID="284">
             <Title>Audio Recordings Introduction</Title>
-            <Text>AUDIO RECORDINGS Unified Features VARIETY OF CONTENT The recordings will vary in both quality and style, ranging from interviews, to songs, to field recordings, to speeches, to epistolary entries, to reminders, to other ephemera. They can either be embedded into Miasma Content that already exists, or stand on their own as a piece of “evidence”. NO DRM I think that, given that they are ostensibly free anyway, we should allow people to download these recordings in whatever format they choose. This allows them to distribute them, remix them, take them apart, and otherwise allows us to embed other puzzles into them. LOW BUDGET Given the low budget set aside for the Miasma Content, the audio recordings need to be kept short, low budget, and easily reproducible. This can usually be achieved by having them be of a low quality, with many aural artefacts. I may in fact buy some old audio equipment with which to record these sections, and conduct this independently of Random House, unless they can allocate some funds for it. RESKINNED We can use a standard player, but for little effort we can reskin it to make it look like a Widsith player, or even that belonging to the Eremite, a large musical “box.” This could come within the game element. Potential Collaborators Loic Wall - Sound editor and musician Paddy Johnston and Rob Gordon - Musicians and sound editors Bethnal Green Studio - Recording The Band - Charlotte, Jen, Paddy, Rob, Henry, Alex Features - The townspeople speak in a certain way, related in his writing. On record, this is distorted somehow, into a high-pitched keening, or an extremely low register. Whatever we decide on, it should be very different from the Eremite when on record.</Text>
+            <Text>AUDIO RECORDINGS
+
+Unified Features
+
+VARIETY OF CONTENT
+The recordings will vary in both quality and style, ranging from interviews, to songs, to field recordings, to speeches, to epistolary entries, to reminders, to other ephemera. They can either be embedded into Miasma Content that already exists, or stand on their own as a piece of “evidence”.
+
+NO DRM
+I think that, given that they are ostensibly free anyway, we should allow people to download these recordings in whatever format they choose. This allows them to distribute them, remix them, take them apart, and otherwise allows us to embed other puzzles into them. 
+
+LOW BUDGET
+Given the low budget set aside for the Miasma Content, the audio recordings need to be kept short, low budget, and easily reproducible. This can usually be achieved by having them be of a low quality, with many aural artefacts. I may in fact buy some old audio equipment with which to record these sections, and conduct this independently of Random House, unless they can allocate some funds for it. 
+
+RESKINNED
+We can use a standard player, but for little effort we can reskin it to make it look like a Widsith player, or even that belonging to the Eremite, a large musical “box.” This could come within the game element.
+
+Features
+
+- The townspeople speak in a certain way, related in his writing. On record, this is distorted somehow, into a high-pitched keening, or an extremely low register. Whatever we decide on, it should be very different from the Eremite when on record.  
+
+
+
+
+
+</Text>
         </Document>
         <Document ID="285">
             <Title>Considerations - The Town</Title>
@@ -1107,7 +593,6 @@ Language
    - They can only describe it as being parts of animals they had seen, or already factored - how can this change? Describe as one thing. 
    - If it is not to moralise, what is it for? To instruct, to lie, to console, to entertain, 
    - SHOULD the animals be symbolic?
-
 
 	Romance And Relationships
 
@@ -1286,15 +771,9 @@ Its placement is never an accident.”
 In a valley, nothing can blow away. An island and peak - moves everything away, nothing stays for too long. A new landscape; a valley is an old one.
 </Text>
         </Document>
-        <Document ID="289">
-            <Title>The Town *</Title>
-        </Document>
         <Document ID="290">
             <Title>Frontispiece</Title>
             <Text>(The font here is official and grandiose, like something a Victorian pharmacist would use to advertise his products. The paper is very, very old, almost like papyrus in its consistency. It is burnt in one corner.) I AM (Here is written “The Miasma Eremite” in a child-like hand, quite different from other handwriting in the piece, in red ink) Who Came After HERMIT LANCELOT Who Came After LEPER SAVANT Who Came After SADHU NEMO UPON MY DEATH, OR DISAPPEARANCE, OR TRANSCENDENCE, OR BOREDOM, THIS GRIMOIRE SHALL BE MY EPITAPH AND MY LAST AND MOST FULL RECORD OF LOSS A TOWN INDIVISIBLE BY MAPS, MORTALITY OR SENSE IN MEMORIAM MY SACRED PACK IS LIGHT MY RESPIRATOR BRIGHT MY TAROT HARP MIMICS VOICE MY CLOAK AND CLASP MY CHOICE PLEASE RETURN THIS BOOK TO: Myrging Publishing London N22 (This last section is crossed through many times, as if in a hurry to conceal it).</Text>
-        </Document>
-        <Document ID="291">
-            <Title>New</Title>
         </Document>
         <Document ID="292">
             <Title>Sea Charts &amp; Maps</Title>
@@ -1311,24 +790,15 @@ In a valley, nothing can blow away. An island and peak - moves everything away, 
             <Title>Tarot Harp</Title>
             <Text>This is the instrument of the Eremite, rendered in a digital format. It is an “improvisational participation engine”, providing a way to play the music puzzles if one is not a musician. Description - It has the basic form of an autoharp, but it has been heavily modified. It is much larger, with ornate buttons and levers all over it. - It is battered, dirty, caulked in mud. - One panel is missing, exposing the inside of the body. Features - The harp is fully rotatable, and every angle may be seen. - If the players zoom in on the broken panel, they see a very small, ripped label that says “C.F. Zimmerman Shifter, 1886” - There is a ship at sea carved into one corner of the Harp. - There are two points of input; the chord buttons, and the strings. Pressing a chord button before pressing the strings changes their sound. There are 3 chord buttons, and 15 strings. - Both the chord buttons and the strings are labelled. The chord buttons are labelled: Crisis Road Stars And the strings are labelled: Sword Key Raven Lake Chest Monk Beast Hero Cloak Elder Castle Pipes Princess Pauper Blood - When initially discovered, the strings make a disonant, untuned sound, as if they have not been stored well for some time. However, if a player has a certain item in his inventory in the Office Content, is logged in, and accesses the harp, it plays properly, having been tuned and cleaned. - On the reverse of the harp is found a poem, written in the Eremite’s handwriting on the same parchment, and affixed with thick glue: I will scan, iron muscle I will guess, bowel rustle I will run, voice giver I will love, tune shiver I will jump, finger lover I will sing, hole mother I will tell, story seeker You will know, I weaker. - The harp is accompanied by a Widsith note: Artefact Report 98238923JJ:// Loss File Item 12 Argus: The Tarot Harp Scriber: T.W.A.I.N. One C.F. Zimmerman 1886 5-bar “Shifter” model autoharp. Miscellaneous elements damage, salt rot, abrasion consistent with ijolite erosion. Strings have not been replaced since manufacture. Customised with extended cavity, tuning schema and rear-sided paint palette built directly into back plate. Personal Notes: He seems to have customised the instrument for his own purposes: what do these demarcations on the notes and chord buttons signify? He calls it the Tarot Harp; figures here do not represent traditional tarot arcana.</Text>
         </Document>
-        <Document ID="296">
-            <Title>IMG_1846</Title>
-        </Document>
         <Document ID="297">
             <Title>Gas Mask</Title>
             <Text>This is the Eremite’s gas mask. Description - It is mounted as if it were a stag’s head, on a wooden board in same shape as the town’s Escutcheon. - It has a hugely inflated cranial area, and seems to be supported internally by struts. - It is the colour of grey bone. - Two long hoses droop down from the nose, one of which ends in a calcified mess that looks like limescale at the bottom of a kettle. - The words “AHEM ATUM” have been written above the joins of each of the hoses. The word “AHEM” appears above the calcified hose, and “ATUM” above the other. - The accompanying Widsith note contains a biohazard symbol. Features - If the gas mask is turned around, the player can see a short poem written around the inside of the neck seal: “WHOSOEVER BREAKS ME WILL BREATHE MY BREATH AND SEE WHAT I SEE.” - By clicking the gas mask in certain places, the player can remove it from its stand and put it on: this fills the screen with two small circles of light. This, in turn, begins an audio recording that is procedurally generated, and lasts for many hours if the mask is left on. After a long time, they hear a short phrase.</Text>
-        </Document>
-        <Document ID="298">
-            <Title>Considerations</Title>
         </Document>
         <Document ID="299">
             <Title>Entry 2 - Entry</Title>
             <Synopsis>Why does the love of the Mayor live apart from him?</Synopsis>
             <Text>Feasibility Report (Torn Pages Pasted In Journal) (The town's seal is depicted here). THE TOWN OF LOSS TOWN HALL COMMITTEE OFFICIAL DOCUMENT EYES CLOSED, OR FIND REPOSE Feasibility Report 12 February 6th AN APPRAISAL CONCERNING THE REASONABLE ADMITTANCE OF ONE “JOHN CABOOT”, A TRAVELLER, AND ACCESS OF THE TOWN THEREOF, FOR AN EXTENDED PERIOD (EQUALLING NO MORE THAN SIX MONTHS) FOR THE PURPOSE OF RESEARCH Report Made and Signed By: Death By Strange Light, Liaison To The Town Hall and Master of Phylacteries This report, to be delivered to the committee this Spring First in the Year That Crocus Blossomed For The First Time Amongst The Brubbage Ribs, must make clear that the man such as this John Caboot, who even now is installed patiently, I must confess, on our borders, must be requested to leave peacefully. He poses a danger to our health, our way of life and the base sanctity of our community. I must respectfully impeach that he is removed at the earliest opportunity. I was amongst those that witnessed this man ride down into the valley along with one of the woodcutters. His appearance, to say the least, was frightening and unwelcoming; a long vestment, high peasant sandals for riding, his haversack stuffed full with dangerous shapes, a strange wooden augur at his side clutched in one gloved hand, and a ghoulish mask on his face, with glass over his eyes and a long trunk where his mouth should be. Such an individual, with such evident malice, could not enter our lives as a friend. His visage is an invite to war. Though the man has abided by our wishes to remain outside the town gates until this report is published, he has shown little respect for any of our other purities. He constantly coquettes with the girls that come to watch him by the gateposts, but ignores the boys that follow them; he has often thrown them scraps of paper with mysterious passages scrawled on them, strange food from outside the valley, and trinkets and baubles that he pulls from his pack. My own daughter will rarely come home before midnight, entranced by this exotic wight who claims to have crossed the dark sea. I propose that his presence will only provoke a dangerous ambition within our young, to our detriment; the outside world is a tempting lure for the stupid. How this man found his route here is a completely separate matter; when quizzed by myself earlier on in the week, he stated that he had come “writing in the saddle, pouring drink to us, ready to drink with us, to work demons with us.” Even if such an odd statement were true (which we have no way of verifying) the thought of a fugitive conjurer (or whatever his provenance must be) cataloguing our way of life is complete anathema to what this civil thane believes this town stands for. I have asked him for credentials, and he has only given me scraps of paper with strange symbols and ranked lines upon them, more spells and problems for a town with enough of its own. If these uncertainties and dangers were not enough to warrant this man's ejection from our community, I would like to draw the committee's attention to the Hidden Press, in its wisdom, and I know that I draw no friends with this tactic. Though the word of the Press is no longer writ by law, its teachings still hold some value for this humble servant, and will, hopefully, have some bearing on the committee's decision. I speak only for Whisper, and his eternal absence. His wisdom still moves me. Let it move you. I have consulted with the Mayor on this matter and he shares my fears. I respectfully request that the man be led to the edge of our domain, given fresh water and sent on his way. I propose no violence (unless made necessary by his actions), merely respect for tradition and the safety of our way of life. Your slave in all, sirs, Death In Strange Light (Here is found a strange sigil, depicting a frowning, bearded face) REJECTED By Order of the Town Committee and the Mayor. Stranger is to be allowed access to the town for half a year to study and observe the town's people. Discretion must be exercised. Stranger to be billeted in the dead lecturer's room at the expense of Building 4's commune tin for the duration of his stay; however, the rights of Ancient Lights and Wake Of The Room shall be null and void in his case, should they be requested. Food and spiritual sustenance to be provided by the Town Hall. The plans for a small welcome celebration, in order to showcase the hospitality of our valley, are being finalised, with funds coming from the Mayor's personal finances. (What follows is a diary entry written directly into the journal). February 9th I was in my tent carving stakes when I heard the trumpet; one can never be too careful, as Baden once told me. It had sounded as if it was right outside, though stepping into the open air I realised it came from far off, right across the valley in the crumpled lee of one of the mountains, ricocheting off my surroundings on the clearest morning in days. The gates were being opened. They were large and cast in iron inexpertly, bubbles and fissures erupting over the strange cuneiform that was carved into them. I was greeted by a cavalcade of what I assumed to be dignitaries; I eventually realised, in hallooing them, that they were merely well-wishers and the curious, ordinary folk; yet more rubes. I packed up my tent under their watchful eyes, enduring their questions about the eyeholes in the tent sheet and the Hellenist script stitched into the lining, and crossed with them into the town. I found myself on a long dirt road lined with small homes, leading towards the haze of what I assumed to be the city itself. Long brown pennants hung on flagpoles, like those that myself and the children hung to greet Lancelot in Lyonesse, though they were far smaller and hung limply like elderly coughs in the frigid stillness. The people were dirty and silent, then, as if they were smuggling me in, and I wondering briefly if this is what was happening. I began to fret that this was not the right town, that I had stumbled on some Hyperborean refuge sheltered from civilisation and proper breeding. There was no fanfare, no crowds; even the curiosity of the rubes had waned. In the bright sparkling horror of that morning I do remember seeing something remarkable; in a small copse to the side of the road, almost obscured by the trees, another of the great “Mother Kilns” could be seen, with the thrusting member, smoke pouring from her breast-holes. Behind her, like ducklings, were several smaller stoves, perhaps the size of kennels, into which people dressed in blue tunics stuffed some sort of fish, turning to watch me as I passed. I smelt halibut, but the specimen had been long-raked, red with a scissoring beak. Our group passed along the road until we reached greasy cobbles that looked like un-yeasted rolls. This rude civilisation seemed to put a glamour on my party, and they dashed in all directions, calling to me. I set off after them, stumbling past dwarf firs and beds of wild sage with my pack swinging, and rounded the corner of a watchtower into what appeared to be a very facile likeness of the Palatine Hill. A paved square of granite looked over by buildings of an almost Teutonic regularity. They were more like slabs of base stuff, not hollow at all, but rather solid blocks that pretended to be inhabited. I could see no obvious apertures on any of them. Around the square were huge, glass fishbowls set on lampposts, though they were empty of motion or colour. There was a middling crowd in the centre of the plaza, nothing like those that I greeted me at Lhasa or Machu or Mag Mell, but it seemed that I was wanted, after all. The crowd parted for me, and in its centre there stood a tiny Buddha of a man, a grinning wattle that I was to learn was named Star Watching At Sea, and who through some despotic, gangrenous process had become Mayor. After he had greeted me in a rather discourteous tone, he hurried and shooed his people aside to reveal tables laden with jellies, products of pork, and other hardy fare. Then there came music, dancing, more music, wreaths of herbs and garlic and strange lightning-shaped tassels thrown about me; I had seen it before, everywhere I have been. This pathetic god-posturing, the scraping of pride, the jizz-like pomade in every hairstyle. At least the kappas had eaten fruit; scurvy still haunts me at night with lecherous little prods. I was asked to speak, briefly, behind a lectern made of one old oak trunk, and was given a bare wire that ran through the crowd like a forest trail into the bare flank of one of the buildings. Luckily, my week-long solitude had given in to writing, and I read my poem with great solemnity, though their primitive personal address system shocked my teeth and rattled the thin walls of the speaker-house so badly that I felt that my bowel would pop. I shook the hands of many women and girls, including the thin one to whom I had given the leopard seal jerky after she had climbed the gatepost and let her legs out to the sun, singing. She was held on the shoulder by her father. I touched a great, golden key, held out to me in utter silence, and the town broke into applause. I do not know what it is for. An orchestra seemed to materialise out of nowhere, thirty of them or so, the crowd filled with waistcoats and ruffs, cravats fluffed and primmed like inflated mating sacs on Asian birds. After they had greeted me they waved bashfully to their stern wives, half of them lamed by milk leg. They were all quite drunk, and sheltered a menagerie of instruments both strange and familiar; the mandolin sat next to harps twenty feet tall, plucked with long hooks, and men who stroked their hands as if comforting the most fragile songbird, rubbing them against the elderly, marbled fat striated through their cheeks.. I asked them several times if I could record one of their songs and take some photographs, and after some confusion I produced my Lavalier box and my camera. As they crowded at the invisible line they had drawn between themselves and the technology, the thin girl’s father wandered over, and gruffly stated his name as Death in Strange Light. He implied quite plainly, almost immediately, that I was considered beneath him, and should name him Mr. Light when in public. His daughter followed him at heel, and stated that her name was Death of a Friend, before her father silenced her with a finger. He asked me what the devices were, and I explained, trying to stay clear of religious imagery or witch-speak. Finally, he agreed that I could record one song and take six photographs, and so I chose wisely as I was steadily introduced to the town’s inhabitants. Death of a Friend spent much of her time close by, when her father was not watching, and quietly told me that I was to lodge in the same building as her, a few floors below, where a man had died the previous year. She is plainer up close, but still pretty, and I like that she washes her hair to the point of needing a comb-over; cleanliness seems an idiosyncrasy in this community of beet-wind and long, mournful belches. The valley is, I will admit, very beautiful; it has no obvious magic, or ruin of grandeur, but the town nestles into its lee appropriately, and in a funny way it reminds me of Asphodel; clean, bright, where souls chase each other through quiet streets. I asked the Mayor if there existed a map of the town that I might study; he told me that he would fetch me the one in his personal collection from which to take notes. I can feel the heat of Mr. Light's glare upon me constantly, as if he expects me to stab his friends before him, or explode into shards of metal. The ruddy, dim-witted children kept tugging at my mask; I had to bat them away with as much force as I dared. After the celebrations the whole town trailed behind me as I was led on a tour. I swiftly grew tired; the air here is close and humid, hemmed in by the contours around us, and my legs were stiff after my week-long meditation. The well-wishers began to disappear home to dreams of electricity and the wall, and soon a compact bolus of entourage, including the sweating Mr. Lights and his daughter, was making its way through conifer groves to the tree-line. The path here was sculpted into the rock in scalloped steps; how odd that it should smell so like a sewer up in the clean air! We began to pass eyelets in the rock, tiny, drilled holes that were widened by the rain’s fingering, and the smell grew a source; I attempted to look within them, but some poured creamed, rancid smoke in pillars, and from others the smell of excrement was so strong that I nearly fell to my death on more than one occasion. The mayor, tied to the man behind by means of a thick rope, swallowed his catarrh and said plainly that we were passing their least holy shrines. I did not know what to say to this, and instead looked out, down again to the dark, evergreen groves. In amongst them, in the dying light, I could see deep holes in the knots of root at their base, wide warrens around which was splashed colourful paint as if by children, and more of those odd little lightning strips, tied down against an illusory wind. I pointed to them, but the mayor merely shook his head, and ushered me on. The mountains are unbroken and high around the whole valley, and disappear into the blue screen of distance. There is one mountain that seems sculpted from iron filings, it is so whipped and uninviting. It towers over everything else, and I see it is too high for even water vapour or ice to settle on its climes. The Mayor calls it the “north” Mountain, though perhaps this is a nickname, as it seems to lie to the east of the town by the sunset’s reckoning. We eventually came to a little caldera, and those behind the mayor gratefully shut their eyes for a few minutes and spoke of dinner and work as I surveyed all that I could see. I will try to commit as much to a drawn map as possible, for it is much larger than I thought at first. The town is laid out in both irregular and regular angles, with some streets wide and Roman, while others evoke a old Balkan city, with redoubts, doublings back, the twist of alleys and gardens; all of the roofs are coloured teal, or cerulean, or other colours that resemble the human eye from space. There is a vast forest, broken with minuscule clearings, over to the west, and at that time it was lit in such a way as to be unspeakable. Though the distance made it hard to judge, it may be even larger than the town itself. I remember now, some days later, the smell, over everything. There was a mix of smoke in the air; from wood, from meat, from peat and rock, they rubbed together like fuel at altitude. We took so many paths I cannot remember how we returned; I had seen the hint of a burial-place, ritual or common, and we trod the board-walk of new wood by the river; how I marvelled at the icebergs, some as large as cottages, wedged resolutely in the stream itself! The ambient heat made such saurians, such elemental things, seem impossible and the stuff of dreams. I was shown the gates of the town zoo, locked up and quite pathetic, and the slender, cosmopolitan profile of the First Loss (a hotel of some luxury where, oddly, I am not staying), and finally to my lodgings. The building is tall and wooden, surrounded by identical brothers in a pattern like buttons on a typewriter; canals diverted from the river flow between them, crossed by tiny, humped bridges. I write this on my bunk; the walls are Spartan, and alien with a waxy fish oil used as varnish. I have posted my effects around me, but not even Bismark’s Tooth REF//::12018476393923 Folders 9J-10P: “Effects, Burnt, Drowned, Misc.” can lift this strangeness, and such is its only real use. I feel something that I have not felt in a long while. There is a great warmth that surrounds the building even at night, and a gushing of drains or the river; oddly, it seems to come from above me. The Mayor and his council bid me goodnight at the door, and Death of a Friend and her father led me to my room. Indeed, they live a few floors above me, though there is a staircase that winds all the way up to my floor, around the outside of the building, like scaffolding on an abbey. Reminder – I must try and see inside this silent, foreboding hotel; perhaps renovations are being undertaken, and as such I am billeted here amongst locals. However, my impression is that the town does not receive enough visitors for such a building to make enough gold or gems or paper or stone or whatever they use to barter here; it’s as splendid as the Stanley before that little goblin Bachman ruined everything. I hope that they can exchange my molars; I have held onto them too long. But what use has a secret such as this place for currency?</Text>
             <Notes>Oannes knows how such a report as this was rejected, but I was allowed into the town against the best wishes of Mr. Light. It all seemed to sprout from my attraction to his daughter he cannot deny that she is a beauty, at least by the local troglodytic standards. A waifish neck, long hair cleaner than most, stunning skin beneath her eyes, no tiredness. And moody too, much like her father, but with a pout that I cannot resist. Even I make mistakes; I will not use the name for long. A true joke; he is a gravedigger, one who constantly smells of earth and the onions of that earth. However, I have seen some of the people here wearing small caskets on their foreheads and strapped to the wrists like watches. Merely my measurements. So grandiose! A man who loves words like a wall, or a umbrella to keep out rain. I loathe him more and more. As I was soon to find out, this consultation was of a rather thorough variety; Mr. Lights is the lover of the Mayor, and seems to bend his ear in whatever way he can. There is a rather Greek brashness about their love; hungry kisses between two ugly men in public are never attractive. Not up to scratch, it seems. Everywhere this proliferation of English! And completely unaccented, with little hoarseness so often found in alpine folk; when I speak of accents, it has not the dull whitter of a London English, but a true lack of intonation and vowel excitement beyond the very basic sounds themselves. An isolate dullness. They try to repeat my own accent like mixing spring water in an oil-spill, and I must be careful not to generate a creole. Their ethnicity, at first glance and without phrenology seems mainly Nordic Caucasian, though the wide brows and flat nasals bring to mind Linnaeus Asiaticus or the burly Mongoloid. The women are pappish and long-nippled, though shy to the point of aggression, whereas the men seem complacent, lazy, and sneering in the manner of the Afer. I have seen these since, often hidden in a grove of trees or behind a flint wall leading to farmland. Their purpose cannot be for the cooking of food, as one can see fishbones within, mingling alongside streaked cushions of ash. They leave the meat to dissolve and char. I have noticed, however, that they are never placed in front of a Mother Kiln, but trail behind, cast like fat children. To this day I only know that the library and the town hall were truly habitable; the others I never saw entered, though occasionally men in smocks would open hatches in their side to remove hammers, or cloth, or long poles. Why does the love of the Mayor live apart from him?</Notes>
-        </Document>
-        <Document ID="300">
-            <Title>The Eremite *</Title>
         </Document>
         <Document ID="301">
             <Title>A Note On Lodgings</Title>
@@ -1344,11 +814,36 @@ In a valley, nothing can blow away. An island and peak - moves everything away, 
             <Text>I am a small man. I am five feet four inches in height, “the proper length of an oorang”, as Brutus loved to remind me. I have acne on my shoulders that irezumi has failed to swallow up, back ache, gallstones, a septic thumb from playing with my reflexes at Tom Wat; it is still swollen, and that girl still rises, black almost to a shade of green in my skull, where I left her weeping, my thumb weeping. The littoral of my hair is gone floating with the rub and heft of the rubber that I must wear, and my backside sweats if I sit too long. But these men and women are not my betters; they are almost Neanderthal. The tallest of them do not even reach me, and their chests are quite pigeoned; perhaps this is why only a few of them will scale the mountains. In my first days emerging from my dwelling they milled around me like buoys against a sandbar, confused and confusing in the clothing they wear. Their names are long, heavy constructions, and each seemingly a story; I met Young Bird Snared By Badger, his younger, petulant brother Badger And Emphysema, the dancer Uncle Felled By Gorse and her babe Cycle Crash By Moonlight; and yet they are so unwelcoming when I ask of their etymology! They tell me that their names make them angry, or happy, and will offer no more. Why on earth would someone choose a name that brings them only irritation? They will not tell me. Maybe others will. I have time enough for that. Coming downstairs on my second day I met two serious young men racing out of the main door to the apartment block. One was slighter, paler than the other, and his soul seemed to know that it was sickly; he is not seen to smile. The other is heavier set, and tanned; he obviously spends more time outdoors. Maybe the first one is a writer, I remember thinking. As I engaged them with a rap of my book against the wall they scratched to a stop, shuffled nervously, and introduced themselves as Discovering Leprosy and Love For All Gods, and I realised that I had taken photographs of them on my first day here; I met so many people I had quite forgotten about them. They said that they were sportsmen, though Discovering Leprosy gave Love For All Gods a sharp look when he said this. Death of a Friend follows me, every time I leave the building; I never see her door open, and I am wary, for Mr. Lights, her father, most definitely hates me; no one else has fallen under his spell, but I hear him shouting about me from his room, and the few times we have crossed paths in the last few days he has flashed me a look the likes of which I haven't seen since Alexandria and that delightful little kelpie. I have no wish for a shotgun wedding in this place, no matter how beautiful it is; the harpoon has left its traces in my thigh before. But when I am crossing Main Street, with gibbering children following me, trying to gift me souvenirs and their parent's prized chattels in exchange for pieces of my costume, she peeks around the doors and windows of the mullioned tea rooms, or tries not to splutter as she leers from the shop that pours acrid smoke constantly, and wishes me good day. Our paths seem to cross an awful lot. Today, though, she came to my door, and offered to show me more of the town. I had yet to explore much deeper than the main thoroughfare and the channels and bridges surrounding the water and my apartment. I agreed; her dress was short and I was sick of what I had seen. The back of her legs were like a piebald velour, that shimmered when the muscles moved. We walked through the tributaries and the high arching bridges in blocked granite, where those long lightning strips trail into the water. As I peered over the railings I saw the terrified ripples of living things, a shimmer of chitin amongst ghostly arenas of frond and paddle, and I asked what they were. She giggled, peering over with me, before sending an arcing spittle past me and answering, “fairies!” I must ask her about her heritage, and watch her brow for any Cro-Magnon abutment. With her father fucking the Mayor, who knows what forks in the road her ancestors took. There were signs on every corner, tall and yellow against the dark windows, that forbade the dumping of corpses or urine into the stream; the black outline of a prostrate man was on fire, black grains of himself falling into the stencilled waves below. The apartment district, the smallest sliver of the great terraces of Ry'leh, an organising hand sweeping away the tracery of dead gods, opens out into a wide plaza where the official buildings are found. The scaffolding constructed for my welcome, thrown up in under two hours by teams of bored youths, was still standing. I was due at the Town Hall the following day to see the Mayor's collection of maps; it is a tall, utilitarian structure, with no obvious doors or windows, no entrants or exeunts, like all of the buildings around the square. I can imagine Ioseb as I knew him, with a patterned tribal scarf around his neck, wearing the suit of a savant, his beard full of pork jelly, walking in the pure strident noiselessness between these places, touching the stone with hand suited for moleculars, and smiling at how smooth is was, how perfect, how unmarred by chisel or transport. I had no idea how they were constructed, or how men or women entered them for business; perhaps the Mayor wished to test me. I strode slightly ahead of Death of a Friend to take a photograph of the entire plaza. Without warning, however, she ran at me, crowing and baying and calling for me to stop. I did so, ruffled by her intrusion, and she pointed to a Venn Diagram inlaid in gold and red bone in the cobbles. She pointed out that this was the Execution Venn, whatever such a thing means; she explained that anyone stepping inside the rings, guilty or not, would be executed by the Town Council. Such a thing seemed laughable to me, and I hovered my foot over the ring, as she pulled me back from the border. The cobbles seemed so clean! I felt that she must have lied to me, to impress me. We passed an edifice that could only be religious, great suppurating mounds vomiting rainwater from the night before into the waiting mouths of not-gargoyles, not even grotesques. It was as if someone had draped a dead, heavy-breasted colossus over the structure, fusing its mammaries with the stone, the memories of its tubes flowing with calcite and limescale. She looked at it, suppressed a belch and clicked her fingers at it, once, twice, a third time behind her back. I looked at her, and she frowned and motioned for me to do the same, though I would not belch in my mask, as only I would suffer. We headed from the square into small streets that run in all directions, high walls and hedges holding chapels or museums that no-one visits, or the lowing of great mysterious beasts. People dodged to and fro between ancient buildings, some of them wattle and daub, some timbered, some made of pristine metal. There were shops and cafés; I felt like I was in Europe again. We stopped to drink what I thought was coffee, but was more like a sour, black syrup; she asked me which books I had read, and I tried to list them, starting from the beginning. I think that she was pretending to know the titles that I recounted, as every so often her head would bounce and she would grin and sigh into the near distance, as if remembering a certain plot-twist that we could both share. It grew dark as we set off back to the square. Someone had lit the street-lights, and I saw then what these huge bulbs were for. Death of a Friend called them “the universe”, as if she had some concept of 'universe' that I was unaware of, though I had to admit that the lights within could be imagined as some primordial borscht – they spread out like bright acid, in long lines, pulsing and casting an eerie glow over the whole space. I think of Tesla. He would be more suited to such a trip. We mounted the steps to a vast rotunda, again portal-less, decorated with statues of vast men and beasts, all of them being tortured by vile devices or projections. Both Friend and I searched for any crevice or depression that might give a way an opening, before there was a sharp click, and a small man, so frail he seemed to be a man of motes, a man of dust, appeared in a slobber of light. His voice did not waver, as he began to scream vile murder. Friend stepped forward, obsequious and quivering. The man stopped his commotion, smiled, and apologised to Friend. He beckoned us inside. The girl had revived the old bugger, and he introduced himself as Spider's Nest in Barn. There was a touch of the double Humberts about him, busy fingers, woollen vest, filthy, crenellated ears, veins that ran through the stout bulkhead of nose and pipe. He finally recognised my presence, and asked me, by way of greeting, when I had last had sex. I started at his impertinence, before remarking that it had been three months, and he wove a little sign on the air, danced a small jig of happiness, and remarked that he was still a virgin, before lambasting foreigners in all their guises. I did not know whether to console him or celebrate. He breathed deeply and showed me into the library that he curated. He noticed the velour, also. It was small. I had imagined phalanxes of scrolls bound in alligator teeth, or letters suspended in viscous jelly, or lights that played across steel screens, or tablets and statues that would give me something to read; something spectacular. But there were three shelves of books, one of them a collection of pulp adventure stories, yellowing and thumbed heavily by oily pads, I balked at this expression of otherness that seemed to precede me, seeing one pressed open on a small table beside a rickety ladder ascending to a loft. A phrase jumped at me from the page, and I thought that I had imagined it circled, but it could not have been; the cloak hid him from the heathen eyes, and the darkness brought him.I asked the little chap, politely, if there were any more books. He snorted, and asked the need. I was inclined to agree with him, and worried; was Loss not what I had read of? Was it this scruffy, muddy town, with none of Rome's glory, or Ethiop's palaces, or Glastonbury's trilling masses and bleating sacrifice? Was it merely the last suction of these inbred limpets before the disappeared into the deep of the mountains, the oceans I had crossed? I resolved to spend much of my time reading, and proving myself wrong. I had not travelled as far as I had to be disappointed and to leave without answers. Perhaps Friend can be persuaded to tell me more. I also cannot keep writing her name out in full; it is too long. She is just Friend, now. An Essay On Ancient Lights Any building in the town limits may rise as high as is feasible and physical, but may not spread more in width than five times the arm-span of its lawful owner. There is a certain quaint concept of “vacuum light”, received from space and unsullied by air, that each person has a birthright to strive for. Each building conducts its own, private Babel, basking in venerable rays that lance towards Earth from their ancestral home – that is, anywhere but here. MacArthur was right; I have finally met my little green men! See further notes on the “Hidden Press”. The ancient lights princiuple needs to be changed. They would not want to be seen from space. “Create a cone of time”</Text>
             <Notes>I had been led to believe it was January when I arrived here; there was ice on the sea, and the sailors wore greased jackets. But now they tell me it is the height of summer, and the weather is certainly of that season. They say that it is maybe June, or August, but they do not know. I will continue to use my own calendar, to preserve morale, but I do not think that I have passed far enough from Greenwich. I see no clocks, or watches.</Notes>
         </Document>
-        <Document ID="304">
-            <Title>IMG_1846</Title>
-        </Document>
         <Document ID="305">
             <Title>Considerations - Characters</Title>
+            <Text>CHARACTERS
+
+The townspeople, whilst not stupid, are generationally naive - there is an obvious disconnect between what they believe happens and what actually happens in their town. There are degrees to which this is obvious to the readers, and at other times the truth is almost unattainable.
+
+The Witch Doctor
+
+- At the moment, she is too much like a Christ figure. I think that she does need to die, but not as a vessel for everybody else’s hatred. 
+- Are these beasts her children?
+- Saman - shaman - “correct, excited, moved, raised”.
+- The shaman comes face-to-face with the spirits. They benefit the society as a whole, as opposed to a magician. Relationship is one of control: I suppose, then that she is not a shaman at all. A shaman needs a community to protect and serve. 
+- Shamanism is a complex, the role of an actor and ecstatic intermediary. “The Wounded Healer”, as Joan Halifax said. 
+- She is the only one who bathes, and is therefore sexualised. 
+- A juxtaposition of fear and trust.
+- Hexen Meester.
+- Music is linked to trance. 
+- The witch is a construction of his mind. 
+- Is she a monster? Does she get involved in childbirth?
+
+Death Of A Friend
+
+- She is very talkative.
+- Her hair hangs in her eyes like the skin in a medical diagram.
+- She becomes a figurehed and a psychopomp for talking to him. 
+- She wants to bathe for him, but cannot. 
+
+Mr. Lights
+
+- If he is really Death Of A Friend’s lover, why is he attracted to the Mayor? What has caused this to arise? He likes the man as a friend</Text>
         </Document>
         <Document ID="306">
             <Title>Small Framed Photograph </Title>
@@ -1470,9 +965,6 @@ Experiments
             <Text>We shared dinner in the common room this evening; of course I had to eat alone, in my room, but as soon as I was done and had replaced my mask I joined the group. Almost the whole building was there, though the quiet man and his daughter had apparently excused themselves as soon as they had finished eating and retired for the night. Some sat and chatted about things that required frenzied hushing and fidgeting with their dinner knives and lines of salt that they eventually brought to their mouths on wet fingers, snorting at the strength. The adults drink from dented tin mugs, but the children are given slender wooden tubes that, when blown into, produce a honk that sends them into fits of giggles. They let the fire burn down to a shimmer in the air before disappearing. I walked Friend to her room, and she kept trying to stop me in my pace, but I was itching to speak to Discovering Leprosy and Love For All Gods about K!K!K!; they were out at harvest almost every day, and this was the first opportunity that had presented itself in weeks. When I returned and tried to rouse them to conversation they were cagey and reserved, playing at some competition that involved them slapping each others hands like schoolchildren. Most people had gone to bed. They finally finished their game, and I poured them both coffee. Gods looked out the window, mostly, as if expecting somebody to cross the street, or perhaps sulking at his loss; it was hard to tell who had won the thing, they were both so grave. Leprosy was more open. He had done better as a K!K!K! Player, completing a match in less than ten years. Gods rose without a word and left for bed, without even nodding back at us. I saw him pocket something on his way out, something that sat heavy in his pocket. When he had shut the door Leprosy leant forward and told me that he had been dismissed from his match. I asked Leprosy to elaborate, but he refused. Their friendship is close, and mainly silent. They are, after all, farmers at heart. Though I am close to them, I'm still the Eremite. Maybe its the mask. I have been told that the children don't like it, that I look like a cow's skull on a stick. I asked Leprosy about the match itself; I still knew little of the actual mechanics. He pointed to the window, and told me that the town crier blew his horn at the start of every match, and at its close. The players are grouped at the Gables, elaborate huts that are almost like grand wickets, or an extensive warren that is “safe” in the style of Bulldog. He drew me a sketch on a scrap of paper I gifted him, though he is no artist, and I worry about his recollection; he has festooned it with fetishes, paintings of deities and sweeping beams. (Here is found a scrap of paper stuck into the journal, with a rough approximation of a tall hut, with many flourishes in its construction). Next the players line up, facing the tree line, the edge of the pitch, with a number of paths winding into the trees. They then sing Whisper's March, the ceremonial start of the match. It is a catchy tune, as close to an anthem as these people have, and you may often hear people whistling it as they work at meat or accounts, or hammer the beat of the middle eighth on the poles of their hoes. I set up my recording device before asking Leprosy to sing it, to provide me with something definite; out of guilt and pagan shock at seeing my device he began to recite it softly for me, barely over the whirr of the machine and the crackle of the fire, so as not to wake Kicking Sods Into The Sea, the tumour-ridden geriatric who doesn't seem to have a room in the building, but haunts the bathroom attached to the common chambers, pulling on the netty cord and playing the pipes like a marimba. He woke anyway, and grumbled and shoved us out, before returning to his sleep and his crisp toes, propped by the oven. Retiring to my quarters, I asked Leprosy to explain the small bottle hanging from the belt of the K!K!K! player in the picture I had found; he told me that it was a vial of scatterbird blood, caught and slain at the beginning of the match and given to the players to do with as they will. I asked him what he had done with his but he had merely shook his head, prodding at my Tarot harp. The pig-headedness of these people! He has a tendency to fiddle; he is nervous, slow by personality, uncharmed by celebrity; he resolutely ignores the girls that coo after him as he goes about his day. I asked him what he did when he was let into the woods, at the start of the match. He turned to me, smiled for the first time since I had met him, and told me that he had split from the group, and run off on his own. He is a very ugly man and rebellious, scared, feeble and foolish; from what I have heard, he is the best sort of player. He told me about Child Sleeps Through Fire, the first ever player to win K!K!K!, nine years after Whisper had supposedly given it to the people of Loss. He said that he had seen the champion, in the woods, two months into his first match. He had been in deep woodland, he said, and he had spied a ruined castle on the next rise; something ancient, perhaps Stygian, “the very type of wrong”, as he so eloquently put it. It had not stopped raining in two weeks, and as he searched for a way to cross the wide, lazy tributary that blocked his path, the man had floated up the river. I asked him if he was dead, and he said that I did not understand, that the man floated above the water, like Jesu or insect striders in my mind. He trailed his feet in the water, and floated straight past Leprosy, up and around the bend of the river. The water boiled as he passed. I could imagine him, trailing ribbons of prehistoric cotton, his staff lax in one hand, his body emaciated and and pulsating with sag. It seems that there were forgotten things in the woods, things that even the Mayor did not know about, but I grew tired of wondering who was lying. I asked him if this had happened. He told me that it had, and turned in my cubby where he had installed himself like a child allowed to stay up late. That was that. I could not ask him again. The way that the man had looked at me was enough. I never really understood, in all that he told me, how points were scored, how rivalries were settled, whether the teams really mattered at all; he told me about the Whisper Cross-Section, the great maze, the caves, the mountain and the Aground, a huge wrecked galleon sunk into the rock and filled with spirits; all of them are challenges to be overcome. He would not tell me who, or what they contained, what armour he wore, what swords he plucked, what maidens he kissed. I told him of Friend's theories that the pitch went under the mountains, under the town, under the river, beneath our very feet. He wiped the scar on his hand, the lateral one that has the shine of a pie casing, and swore at her, softly, smiling again. He called her a “civilian”, with every hatred. He too seemed to carry something. He was bent by it. He produced small nuts from his gown pocket, and as we ate we devised a game of flicking discarded shells into the corners of the small travel desk I had brought with me; the inkwells served as goals. The game (K!K!K!, that is) seems to end if the Mayor becomes bored, if any one of numerous prophecies is fulfilled, if the sun hits the bark of a certain tree in a certain light; there are many more conditions. The town crier is notified, and he blows his trumpet again, and the players must turn back from their journey, and return to where they began; like all good heroes must, I imagine. Leprosy took me to his room and showed me his vial of scatterbird blood; it was dusty and empty. He told me that when he heard the trumpet, he was the only one who made it back; he had lain a trail of blood, winding through trees, back home. He did not wink, and I knew that there was no Grimm contained amongst the Haggard and the yellowing Munsey in the library. Those who return to the Gables, whether triumphant warrior or dejected failure, are greeted by the Comeirh, a ceremonial, costumed role. His sketch this time was subdued, his hand hesitant, and there was a fearsome mismatch of beasts, a Nemean monstrosity, raised up on stilts and furnished with four legs, tusks – every protuberance imaginable. But what took me most were the eyes, and these he spent many minutes on, shading, filling with colour. They were dead, those of a puppet, this was sure; but the way that beasts can look through you was not present. They were the eyes of an accountant, of Anubis and Thoth, of a judge or your own mother, who treated you as the idiot son, the wastrel, or the runt. With all the solemnity of a Mason, he said that he was then asked to tell the Comeirh everything he had done in the forest. He had completed very few challenges, in all truthfulness; he had run, for the most part, lost, pissing in mulberry bushes. But he lied. He told the Comeirh of the Algebra Lizard, fighting haunted helmets, crossing the lake with his pole, bridges for mice, band-saws that walked and danced in great convents. It poured off of him like sweat. And he was believed. To this day he still receives gifts, letters of love, professions of admiration and endless favours from his fellow townsfolk, in an example of those minuscule religions that exist everywhere; he is like a saint, but almost opposed, the epitome of the deceit that is so integral to the game. He had nothing to drink, and it was that late, childish hour when men like to, so I led him back to my room and let him demolish my stores. I asked him about other matches, other players he had met; had he ever killed anyone? He cut me off, called me an arsehole foreigner, kissing me on the forehead; I did not think that he had drunk that much. He then climbed into my bed and fell loudly asleep. I tried to rouse him several times, but eventually left him and went walking. I climbed the building on light feet, but Friend's father was asleep outside her door, an extinguished cheroot on the floor beside him. He was dreaming of running or chasing, the way he was twitching, as a dog does. I thought it wise to go to Leprosy's bed. He had left his door unlocked, and I entered. A pile of letters was stacked on the desk, and the bed was slung with filthy clothes that blocked out the light and the husks of nuts long eaten. The desk held several rolls of maps and jars of pens, and I finally had time to study them. There were scrawls of wide ovals, burrowed penmanship, deep ink in the table, fury that he could not hide. He had scrawled names, questions, interrogations and interviews with himself into that paper. It seems that he was trying to draw the pitch from memory. - When he adds to the K!K!K! Map, things are not added in real life.</Text>
             <Notes>He looked at me sideways, and told me that the water in K!K!K! should never be touched; he told me that he had heard terrible stories.</Notes>
         </Document>
-        <Document ID="317">
-            <Title>Miasma Content</Title>
-        </Document>
         <Document ID="318">
             <Title>Entry 13 - Things Worsen</Title>
             <Text>Something has happened to Friend; her behaviour over the last week has become more and more erratic. We were parading on the board-walk today, myself taking her hand before the scandalised eyes of the basking labourers, scared to be locked indoors, and, quite without merit, as I was speaking about my theories on the pointless derma-mythologising of cartographile skin cults, she pulled her hand away, snatched my armful of books and threatened to throw them into the river if I didn't desist. It is as if she has started to hate me. She called me an “boring old elephant” without knowing what one was. I had shown her a picture once from my journals and she had shown no interest, but now she uses this to hurt me. She does not know that it is quite pointless to try. I endured the staring eyes and managed to calm her down, lightly retrieving Spider's books from her grasp, before she strode ahead, pulling the sausage I had bought her from her pinafore, where it had stained in a wide oval as if the moon was up. We do not see the little girl and her father anymore; someone has shut their cubby and sealed it with nails. Today at breakfast I heard the sound of heavy machinery from the other side of the building, and the walls shook and dislodged dynasties of insects like mobiles of spare legs above my head. I thought that I would finally see the Byzantine mechanics that these people hide from me, but I was waylaid by old Kicking Sods, who blocked my path with an old broom and began asking for passwords and hexes and other such nonsense. By the time I got outside there was no more noise, and no tracks in the small gardens that rim the apartment blocks; I was defeated once more, and I also saw that the missing pair's room, their entire apartment, had been ripped from the building, as smoothly as one selects eggs from a shelf. I had only seen this once before, after the funeral of an old woman from a neighbouring building a month ago; it seems that at every turn these people confound me, demolishing whatever I can build of sense. My fears are constantly assuaged by those I meet; that the illnesses are nothing serious, that the people of Loss are delicate, rare, and proudly so, and that it will pass and that death is not so serious, for them, especially children; they are prepared for the next life early in years. They seem right; only two or three have died, though I worry about the little girl's father. I try to get Friend to stay away from the young, but she communes with them like a mother owl, feeding them chocolate and joining their games with no invitation or even words passed between them. But, she seems well, and even though she barely speaks to me she seems content. I can breathe without numbers, again, I think. I had thought their parents were preoccupied, for it seemed that every child was filthy, their faces and necks black with what I thought was coal dust or soil, though there were too many, and in such a regular pattern for this to be case. I had then thought that they wore their hats too tight, or that there was some pixish game being played on the fool foreigner, but more and more of them appear with it, and they do not play games anymore; they cough, and gaze at the ground, drooling and dragging their feet, and their knuckles are dirty though they do not work. I must plot the viral implications of such a sickness; if pathogenic, exit plan twelve seems likely best; it avoids the graveyard, and can be adapted for daylight. I went to the Mayor's office to find out what had happened to my neighbours, the image of the father embossed in my head. After offering me a strong, bark-like jerky, he told me through violent chews that they had been moved down the valley for their own safety, and the safety of their immediate neighbours. His son, Book Burnt For Secrets, played with a papier-mache volcano that had been constructed for him on the floor. He is a fat, sweaty little boy, one for whom I have had a dislike ever since the incident with the dung-heap. The Mayor tugged at his clothing, and has now begun to sweat in symbiosis with his son, thick patches rubbing themselves into his crotch and neck. I finally summoned the courage to ask after the boy's mother, and he ejected me from his office with as much aplomb as he could muster. I was escorted to the square, where two men I had not seen before, heavily bearded and with flour dusting their flanks, stood by the Execution Venn, staring at some hidden spot in its ellipsis, sharing a cheroot. The sickness, despite the authority's insistence of its mild nature, is making the townsfolk uneasy, superstitious to the point of madness. The last few days I have begun to smell something that I have only smelt twice before, once at Belsen and once in Ur; the scent of cooking meat, toffee-sweet in a way that only one animal is when burnt, and I felt the tingling of my nostrils as my allergies to ash and hot air remembered themselves and kicked. I retreated to the apartment, my little knock-hole becoming more and more comforting with each passing day, and found the present I had given to Friend in two pieces, nestled in its wrapping at my door. I brought it inside. That was at around four o'clock; it is long past dark now, and I have not eaten all day. I will write for the evening, and watch for corpse fires. If they are burning bodies, I will know. They may not talk to me, these inbred, but they cannot hide the lights of their fires at night.</Text>
@@ -1494,36 +986,13 @@ Experiments
             <Title>Entry 17 - Last Entry</Title>
             <Text>He finally died last night. Mr. Light has finally stopped pretending that he has any chance of living, and died. I helped Friend baste him with tar last night, leaving him to rest like a Christmas turkey in the common chambers, and set him alight this morning, floating him down the river on a makeshift raft that I pulled together from abandoned street worker's poles and the nets of fishermen..The flames burped as they touched the tar, and when he had dissolved utterly his burning fat turned into a thick, musky soup that drifted downstream like some malignant, sentient carpet mould. His clothes fell away before this, as if at some preordained signal, and I saw that his member was tiny, wrinkling in the fire like a dead leaf. I pulled Friend's head away, but she almost seemed bored, and turned back to the apartment district, dragging the small trolley of provisions we had collected. She may be crying, but as her face is always wet now I cannot tell. As I write this we are in my quarters; Friend refuses to go back to her own. It is nice, in a way, to have her to stay, finally. The night is very dark with no fires to light it, and the sweet smell of the pines now meld with the mealy crust on the water. The once-leaping torrent is an orange waste, full of mud, poison and the dead. The town is quiet. We are the only two left. I thought a few days ago that I saw others, stripping a tree of half-cored fruit, a precision set of dentures that moved as one, but it could have been raccoons, or one of the impossible things that live here, tempted down from the mountains. I feel no real urge to write; we spend our evening throwing the last scions of the mushroom caverns onto the fire, eating them browned and tart from the wood and peppered with eggs the white insects laid a few weeks before. The black ones lie poisonous on the griddle. This whole town seems like a giant trap, now that I have no one to show me where to tread. I wish there was more to read. I sometimes want to dash my brains out against the floor, but then I sit instead. Friend will not speak. The advice about the poisonous eggs in our meals was one of the last things she said to me out loud. I may as well be alone, as she does not seem to care what I write, or the fact I am writing; I head into the town to bring her food that she heats over the stove, staring into the cracked tiles painted with idyllic valley scenes on the wall behind it. She lets me kiss her, but with no enthusiasm or hint of wanting me, and when I tried to reach up her skirt this morning she climbed back into the bed we cannot both fit into, even with the closeness of lovers, and my hand slipped down as her legs moved. I want to help her. She does not display any symptoms of disease yet, but her eyes are baggy and her cheeks are sunken, rickets and kwashiokor settling in. She is still very pretty, however; not beautiful, but there is a pinch of what she once was. I will find her some chocolate. My trips into town for food have been augmented with research; with the people gone, animals have begun to materialise in the town; Genial Wort, the stubby deer they breed here, scatterbird splitting in great squadrons that multiply as I approach cadavers. One thing I must note is that I see more and more of the pageant weevils, at first massing only by the river and the docks, but as the days go on they have reached Main Street, and their hive must be close by. Many of them have all their legs intact. Such a thing helps me, to see that at least something is benefiting from this mess. I still avoid them, though, making sure that I can see the newborns as I walk, brown on the road, unpainted, seeming to guide their less-fortunate parents. The Mayor's death has left the Town Hall open like a grieving thing; rot and silverfish jam themselves into its layers. I realise that underneath this steely façade the structure is just cheap wood, varnished and warped by years of supporting the weight of the outside. The doors that opened for me only at the behest of officials now hang like a dislocated mouth, and an acacia has leapt forward like a tongue of Bunsen flame, extending into the sunlight. Ash is arrayed there in a moribund beach, and, listening for the tell-tale scratchings of weevils, I risked a final trip inside to search for artefacts. I remember my routes very well; I did not want to get lost. The statues and busts were mostly intact, but many of the rooms were locked, or seemed to have disappeared. I wish to salvage something from what I have done, but I fear that much of this town will perish with its inhabitants. Some new, thuggish myths will shoulder their way into history, and squat over the town, letting it die and thinking of the lies they can tell now that everyone is dead. The bust will be reworked into new smoothness, and no-one will know a human ever signed a document or tickled a woman's back in this horrid place. I found the missing rooms today. They are in the south, past the river, stacked atop on another, the furniture broken or fallen in their interiors. Some of them are already becoming overgrown, and I heard a strange whirring from within a long kitchen, as if some machine had started up afresh. The Mayor's office was unlocked, the carpet grown with spidery blue algae that swayed in the movement of my entry. I would have picked it, but I saw that Book Burnt For Secret's papier-mache volcano was rooted in the centre of the room, growing fungus and fur, infested with lice, termites and arachnids. I remembered that he had used bleach in it, and burnt his hand, and so turned to the desk and the bookshelves, the one-way window that looked out across the western forests. Only one of the drawers was unlocked, and there was the official key to the town, a bright gold still, and reflecting off the bloated ceiling. It was the very same one I had touched on the day of my entry into the town, and seemed to be the only thing not wearing a musty coat of rot. Without thinking I added it to my growing pack, and as it got dark I brought it back for Friend. She regarded it without speaking, and I had her pose with it for the camera, beseeching her and offering her strips of ham and sweets. The heiress of Loss, with her birthright. The town now belongs to her. She is the only one left. I realised in that moment that I have no idea how old she is. I have asked her but she just sleeps. I am thinking now. The ash is starting to settle in this capsuled mountain air, but there are still black, foul-smelling spores, like human hair, that settle on everything that does not move. Every morning more and more of it is gathering in drifts six or seven feet deep. Yesterday I went to the edge of the K!K!K! Pitch, to leave a token for Discovering Leprosy, and found that a wall of edelweiss and chrysanthemum had exploded into growth along its border, run through with briars, marjoram and all kinds of herbs. The ash is feeding the soil, and it all seems futile, really, our little hollow, cooking and keeping it tidy, when the place is beginning to overgrow and decay. It seems that the secrets of the K!K!K! Pitch will die with the town; I can find no way into the pitch, and I keep seeing the dead man float up the river, and I am frightened, very frightened. The castle, or folly, sits at the point that the river enters the pitch – but the gluey consistency of the water keeps me from it, and I must look, trying to guess if those stones were quarried hundreds of years ago, or if they are merely plaster, painted and to be viewed from afar. An hour has passed, and Friend has gone to sleep with a bad cough. It seems stupid, now. I have taken off my mask as any benefit it may bestow seems wasted; she has seen my face once before, on that night we decided it would be right to kiss, and she said that I had the most peculiar mouth, and the most brilliant eyes. I have never destroyed a people before. My breath and its contents does not matter. It is startling how quickly the pathogen can enter the atmosphere after I take it off; it is a hard thing to wear all day, every day, and you learn to crave your own company so that you may remove it. I had only taken it off for a moment to kiss her. And yet, how was she not dead? Surely she should have died first, breathing it in? Maybe they are all wrong. Maybe I don't carry this damned disease. But it does not matter, now. There was no point counting all those breaths, all those cubed units of air, all that dividing and multiplying. It did its job. Bravo, (Huge amount of crossing out here) I thought I saw a light to the north, a few moments ago; as if the sun was hitting the mountain as depicted on the town's seal. In all my time here I have never bothered to check if the sun really does rise in the north as they say. I will check tomorrow. It is all I can do, really. But there is so much, and I am a small man; I cannot carry it. There is so much I do not understand, that these stupid, secretive folk would not give me. Tomorrow I will find medicine for her, something to make her feel better, and try to break into the K!K!K! Field. I have things to pick up. Things to catalogue. There is still much to do here. I sign off here, and commend myself to you. I hope I have been of use, given the circumstances. I may see you again. I will take her to Minerva's. Look for us there. To Do Pick up milk (not rancid in Hotel safe) Pick up medicine Polish relief on Apartment 34's East Wall Visit Cunt's hut. Pick up customer ledger from the art cave. Burn the last of the bodies Bake pie for Friend. Raspberry? Onion? See what has rotted. Last Page Of The Journal There is a scrap of paper here - it is burnt, ripped and smeared with dirt, almost beyond recognizance. At the head of the page is a short passage in the Tachygraph, and the words “Order Of Service” in flowered type. This accompanied by a coloured print of a scatterbird - it emerges from behind a tree, smaller birds splitting from it as it rises. Below, in the Eremite’s hand, are the words: MOVE, MY LOVE, BENEATH WITH THE ORBIT OF BONES, OF BUGS STILL YOUR VENGEFUL FEET FROM KICKING THROUGH TO MY TRAITOR LUNGS</Text>
         </Document>
-        <Document ID="323">
-            <Title>Death of a Friend</Title>
-            <Text>Her hair hangs in her eyes like the skin in a medical diagram. She becomes a figurehed and a psychopomp for talking to him. Everyone’s username becomes a scrambled (or unscrambled) part of the narrative - email to: and from: Game the numbers - “phantom efficiency”. Reward players for doing this. They owned the Ogden Land Company - a later link. She wants to bathe for him, but cannot.</Text>
-        </Document>
         <Document ID="324">
             <Title>Office Content Introduction</Title>
             <Text>OFFICE CONTENT Unified Features THE GAME This side of the content is the ludographical, text-based side of the project, where players use the Miasma Content to work their way through the world of the Widsith Institute, solving puzzles and making text-based choices, in a free-to-play environment based on Failbetter Games’ Storynexus platform. ACCESS CODES AND WAYS IN Signing up should be as smooth as possible. Readers can come across Miasma Content, the log-in page itself, or have the page shared with them by friends. When they sign up, they are told that “we do not care about who you are” - that their sign-up allows them to take on another personality, if they so wish. The access codes either change something within their existing account or provide them a bonus when they begin playing. To conclude, there should be as many ways into the game as possible; this does not, however, mean that those ways need to be well signposted. The idea of the two sides of the experience is to disseminate each other; the Office Content provides a spine for the Miasma Content to hang off, and a reason to access it and seek it out, and the Miasma Content provides the push to the Office Content as a way of collating it and framing the experience. The web is random-access, even more so than books, and this should be taken advantage of. As a reference piece (referential, I suppose, to itself) this approach to the Institute is ideal. RANGE OF PLAYERS We are expecting a large proportion of our players to be ARG enthusiasts or Storynexus converts. However, given Random House’s reach we should not underestimate the influx of non-gamers and readers of traditional literature with a new tablet. We should make cultural, literary and technological compatibility a priority, to allow as many people to play Black Crown as possible. I want a large part of this experience to be learning; from the gamer’s perspective, this is of interesting subjects; from the non-gamer’s perspective, this is gaming techniques and the possibilities of hypertext literature. Intuition should be rewarded, as this combined with learning drives comprehension and thus the thirst for more content. A balance must be struck between counter-intuitiveness and a guiding hand. STORYLETS These are branching stories represented by pieces of text with outcomes that affect different qualities. I have agreed with Alexis that these will be a little more verbose than those found in Fallen London, though the idea is that they are a counterpoint to the longer-form Miasma Content. Their form is generally that of a memo, or action to be taken, and then the corresponding actions. They may relate to the Miasma Content, or just to the character’s life within the Institute. Strong and weak paths do occasionally exist, but most often they are merely different. Emotions should not be qualified; rather, the storylets describe emotions that you could feel that would in turn affect your decision-making. The best way is a hopscotch approach, or a redoubt approach - doublings-back, returning to past events, promotes contemplation, lowers costs, and gives a sense of body to the weight of the experience. Diverging paths create this in an even greater variety, allowing distractions and even encouraging them as part of the story process. MONETISATION Monetisation will come from separate different mediums; through the unlocking of time-based storylets, the direct purchase of storylets, vanity items, and perhaps, in the future, a Premium account that relates to our wider community initiative. MIASMA CONTENT CONNECTIONS I think that organisation of the Miasma Content is something that casual users, or curious “passers-by”, will struggle with; other than listing URLs, there is no way to show them in any sort of order. It is imperative, therefore, that signing up for an Office Content account allows one to collate the pieces of Miasma Content they have already found, and re-order them in any way they see fit. This could be achieved with an API built into the engine, and recognising when a website has been visited. META-CONNECTIONS As this is a hypertext narrative, at its heart, there are several real-world websites that may benefit from being altered to reflect a previous presence of this narrative, sites such as Wikipedia and IMDB. Alexis has also found an API that allows documents to be sent to an address, though this is far in the future in terms of our deployment, if we were to investigate it. The Office Content, to conclude, exists within the wider ecosystem of the web, and its connections to it should reflect this. LENGTH The length must be fairly tight to begin with, containing the main story and some depth, with open threads for later content (especially that in Phase 3). We are looking at an average playtime of 2 months (for someone who is not a speedrunner, but who plays it more than once a week, perhaps even a little every day). This equates to around 60 distinct storylets, or about 4000 words of content. INVENTORY The player will have an inventory, which will provide a linchpin for those coming from old-school adventure games to this experience. It will be easy to navigate and use, and will not bear too heavily on the experience; it is really there to give objects a home, and give some physicality to the desk-based gameplay. SHARING Sharing is vital to something like this, but we must be careful, and find a way that does not plaster the page with immersion-breaking buttons and sigils. Players can connect their Facebook profiles to their account, for example, but social networking is more there for dissemination, messaging in-game and community support. Sites such as Reddit and Delicious are built for this sort of fragmental categorising, and should be supported from the outset. Though this may complicate things (see ‘Asynchronous Multiplayer, below) players could trade diseases secretly, and perhaps infect their friends; they may add, but never take away. This would be an essentially benevolent action, in the logic of the Institute. ASYNCHRONOUS MULTIPLAYER A player’s progress through the world of both the Miasma Content and Office Content is singleplayer - they are not interacting with other players in a real-time sense that we know as multiplayer. However, by encouraging players to communicate and bond outside the game, we can simulate a sort of multiplayer. This relates to the tradition of puzzle notebooks and Myst journals in the past - players will document their progress, document their findings, share them with others, and talk about possible solutions. By annotating the Miasma Content, inviting their friends, speaking about choices in Office Content, and roleplaying in forums outside the game, knowledge, learning and community are disseminated widely, and the game is played collaboratively, without the need to keep players actively playing to recruit and support new players in the future. A pertinent comparison might be a Multi-User Dungeon, a place where many people explore the same space but communicate asynchronously. The sense of presence, of an inhabited world, and not communication, is key here. REWARDS AND INCENTIVES Rewards are vital to driving the ergodic nature of the text; it is “work” to move through and sort the narrative, and so rewards and incentives can be an aid to driving this forward. In addition to the qualities, items and diseases that one recieves from playing the game, there may be other rewards for being the first to do something, or within the first hundred or thousand. Those who are not doing well could be chosen at random to do something spectacular, or play some part in the narrative; they are not special at the start, being part of this Institute, but they have powerful abilities. There is a desire everywhere to rise above the mass and prove oneself important; if someone has a History degree, or is good at cryptography, they may find their own reward in the wider community. This is the Imgeii Effect. The players, in a way, come to mirror the townspeople in their pursuit of reward and meaning within a community. Players may even have the chance to impress themselves upon the world, perhaps influencing storylets and other players, becoming like bards for what we have created. Sometimes, given the opaqueness of the world, players will not know which rewards they will recieve, but they will always recieve something, they will always make a “dent”; a positive/negative impact that still allows progression. Some of the time this will be HIMBL - Hierarchical, Immediately Meaningful Bling, other times a negative disease, sometimes a piece of text or a quality increase. Depth is relative to storylet, and a player can often go deeper. We need to make sure that we build in this depth. Diseases are one of the key badges of progression, other than qualities and the inventory. It instantly shows one’s rank within the Institute, and serves as an achievement system also. NO GRINDING Grinding storylets for high numbers of qualities was a feature of Fallen London, and we are moving away from this. There does need to be repetition of content, but there is a way to do it that does not involve grinding. It is an interruption of the journey. Thankfully, we have a storied reason to repeat content, but that does not indemnify us against making it interesting. The TQEs are a way to combat this. DRM DRM is not desirable, and we should avoid it; in fact, the sharing element of this work speaks against it. We should combat the text being copied wholesale, but apart from this, the ecosystem keeps everything in place. CHOICE AND CONSEQUENCE Choice is central to the concept of storylets. One makes a choice, feels complicity, and experiences the conserquence. Choices can be emotional and moral, or mechanical and strategic. They may be necessary or superfluous, binary or complex, illusory, secretive or clear. Complicity is key; there must be a visceral reaction to the choice, a sense of agency and effect. The consequence can be immediate, delayed, or both.</Text>
         </Document>
-        <Document ID="325">
-            <Title>Daibutsu-kaibutsu-Mysterious-pile-of-crumbling-skulls-300x417</Title>
-        </Document>
-        <Document ID="326">
-            <Title>Writing *</Title>
-            <Text>Ligatures The alphabet could be glyph-based, with closely-packed, atypical and alogical writing. Its path on the page is philsophical - Letters look like animals The “Great Scrapbook” tradition - an attempt to frame his/the experience No under-reaction - Chris is right! “Text solidifies ideas” Main narrative breezes through the town, and you wonder who lives in the houses - expansion. Their language based around hatred of the sea - sibilance is evil, here, too, as it sounds like the waves? The weapon letters - only used for insults? Later letters, for modern things? What is their genealogy and history? Where did these “conveniences” come from? Sound? How many uses of feedback are there? More light pollution as more fires are lit. They become a snapshot of just outside the town, a bar that he can see and transmits to the reader. “An accumulation of ideas over time, with refinement” “Maugre” “Briddes” “Wrot” “Tellith” “Maervilles” Lengthy titles Illumination Pyring - burning - glazing - falsifying and patina-in of a text. Gold leaf - Yale Lancelot (name of Eremite) Bodleian Alexander Inherent logic and gravity of these manuscripts - Subvert occasionally or constantly - support - shelter - ascension Without text, ideas collect at the bottom of the page like leaves. English (their version) Revamp The Tachygraph - no message there Comes without cultural aspiration How can you tell what a word means? It categorises experience Glossary Appendices Bibliographies Marginalia Comments Footnotes Equations Asides Lists Drawing and writing interwoven Fleetscript Don’t break the flow of the work too much Diary of another Eremite Collection of folk tales GENERAL EVENTS TO ADD - They find a corpse. - He helps with an accident in the village. - Later on, the Eremite wonders which of his orifices will exude the disease. - He admonishes a townsperson for dropping their rubbish. - More censorship, crossings out, additions etc. PIECES OF WRITING TO ADD - A phylogenetic tree, showing the evolutionary relationships of the townsfolk to the animals of the town, to human biology and human culture at large. - Pieces of self-analysis by people of the town, overseen (and in some cases edited) by the Eremite. - An extended essay on one man who cleans the streets, going into semi-ludicrous detail on his views, routine, and life in general. - He follows other people, looking at their social movements - (Movement 1, 2 etc.) and tries to pin them down. Some are important, and others are not. This is a sequel, of sorts, to the previous essay. - An infection chart and graph, obfuscated initially but becoming more clear as time goes on. - Poetry, both his and that of others. - More of the holy text. - Lists - Registers - Transcripts of interviews - Misheard lyrics of folk songs - Medical texts - Chemical structures - Life Histories of some of the townspeople. - Jokes - Urban legends - Gossip - Ethnic Stereotypes - Popular beliefs - A psychotherapy test - Birth/Death rates - Mouth shapes for the tachygraph - Different types of graph Many voices, not just the Eremite - Sword-fighting manual - Exploration of burial practices, a running commentary - New English slang - The language is called “New English”, “Retarded English” etc. - Kit list</Text>
-        </Document>
-        <Document ID="327">
-            <Title>Artwork *</Title>
-        </Document>
         <Document ID="328">
             <Title>Diagram Of The Orchestra</Title>
             <Text>This piece shows the layout and composition of the orchestra, drawn on a scrap of vellum and covered in numerous stains from the party that followed. Features</Text>
-        </Document>
-        <Document ID="329">
-            <Title>Religion *</Title>
-        </Document>
-        <Document ID="330">
-            <Title>Futsukeshibaba-a.k.a.-Hikeshibaba-Mysterious-old-woman-in-white-who-extinguishes-lanterns-300x413</Title>
-        </Document>
-        <Document ID="331">
-            <Title>Kasha-Cat-like-demon-that-descends-from-the-sky-to-feed-on-corpses-before-cremation-300x421</Title>
         </Document>
         <Document ID="332">
             <Title>Artwork Introduction</Title>
@@ -1536,111 +1005,6 @@ Experiments
         <Document ID="334">
             <Title>Interview</Title>
             <Text>This is an interview with [to be decided]. It features a much lower-frequency section which needs to be digitally enhanced in order to be understood, as well as numerous gaps, false starts, and distortion. Features</Text>
-        </Document>
-        <Document ID="335">
-            <Title>Mikoshi-nyūdō-Monk-like-creature-that-grows-taller-the-more-you-look-at-it-300x419</Title>
-        </Document>
-        <Document ID="336">
-            <Title>Noderabō-Strange-creature-standing-near-a-temple-bell-300x419</Title>
-        </Document>
-        <Document ID="337">
-            <Title>Nue-Chimera-like-bringer-of-misfortune-that-can-fly-and-morph-into-a-dark-cloud-300x419</Title>
-        </Document>
-        <Document ID="338">
-            <Title>Shuten-Dōji-Fearsome-oni-known-for-kidnapping-enslaving-and-devouring-young-Kyoto-maidens-300x427</Title>
-        </Document>
-        <Document ID="339">
-            <Title>Tengu-Bird-like-demon-300x419</Title>
-        </Document>
-        <Document ID="340">
-            <Title>Ubagabi-Fiery-ghost-of-old-woman-encountered-along-the-Hozu-River-in-Kyoto-300x417</Title>
-        </Document>
-        <Document ID="341">
-            <Title>Ubume-Ghost-of-woman-who-died-during-childbirth-300x420</Title>
-        </Document>
-        <Document ID="342">
-            <Title>vsvv</Title>
-        </Document>
-        <Document ID="343">
-            <Title>w680</Title>
-        </Document>
-        <Document ID="344">
-            <Title>Waraime-a.k.a.-Kerakera-onna-Giant-cackling-woman-300x425</Title>
-        </Document>
-        <Document ID="345">
-            <Title>wwbb5</Title>
-        </Document>
-        <Document ID="346">
-            <Title>Yamao-One-eyed-mountain-creature-possibly-related-to-the-yama-waro-of-Kyushu-300x424</Title>
-        </Document>
-        <Document ID="347">
-            <Title>Yanari-Little-demons-that-produce-the-creaking-sounds-heard-in-old-houses-300x420</Title>
-        </Document>
-        <Document ID="348">
-            <Title>000038-e1312814568720</Title>
-        </Document>
-        <Document ID="349">
-            <Title>000137-e1312814392342</Title>
-        </Document>
-        <Document ID="350">
-            <Title>450px-G(012)</Title>
-        </Document>
-        <Document ID="351">
-            <Title>466px-KellsFol291vPortJohn</Title>
-        </Document>
-        <Document ID="352">
-            <Title>Aldrovandi-1570-0023</Title>
-        </Document>
-        <Document ID="353">
-            <Title>Aldrovandi-1570-0049</Title>
-        </Document>
-        <Document ID="354">
-            <Title>Aldrovandi-1570-0087</Title>
-        </Document>
-        <Document ID="355">
-            <Title>Aldrovandi-1570-0163</Title>
-        </Document>
-        <Document ID="356">
-            <Title>asversdva</Title>
-        </Document>
-        <Document ID="357">
-            <Title>BookDurrowCarpetPage</Title>
-        </Document>
-        <Document ID="358">
-            <Title>BookDurrowCarpetPage4</Title>
-        </Document>
-        <Document ID="359">
-            <Title>BookOfDurrowFolio125vCarpetPage</Title>
-        </Document>
-        <Document ID="360">
-            <Title>P009432</Title>
-        </Document>
-        <Document ID="361">
-            <Title>P009435</Title>
-        </Document>
-        <Document ID="362">
-            <Title>P009416_l_2</Title>
-        </Document>
-        <Document ID="363">
-            <Title>P009421_l</Title>
-        </Document>
-        <Document ID="364">
-            <Title>P009411_l</Title>
-        </Document>
-        <Document ID="365">
-            <Title>P009412_l</Title>
-        </Document>
-        <Document ID="366">
-            <Title>P009425_l</Title>
-        </Document>
-        <Document ID="367">
-            <Title>P009467_l</Title>
-        </Document>
-        <Document ID="368">
-            <Title>Codex_Ebnerianus_Prolog_J_1,_5b-10</Title>
-        </Document>
-        <Document ID="369">
-            <Title>original (1)</Title>
         </Document>
         <Document ID="370">
             <Title>Fragment of Mural</Title>
@@ -1656,10 +1020,6 @@ Features
         <Document ID="371">
             <Title>The Escutcheon</Title>
             <Text>This is a related piece to the Town’s Coat of Arms - it is a picture of Death of a Friend’s pubic hair. Features - These two pieces share a lot of attributes. - They are both puzzles, and lock housings. The key to both is the penis at the centre of the Coat Of Arms.</Text>
-        </Document>
-        <Document ID="372">
-            <Title>Environment And Geography</Title>
-            <Text>ENVIRONMENT AND GEOGRAPHY To Add</Text>
         </Document>
         <Document ID="373">
             <Title>The Institute Introduction</Title>
@@ -1766,15 +1126,6 @@ As A Charity
         </Document>
         <Document ID="374">
             <Title>Considerations - Texts</Title>
-        </Document>
-        <Document ID="375">
-            <Title>The Institute</Title>
-        </Document>
-        <Document ID="376">
-            <Title>IMG_1848</Title>
-        </Document>
-        <Document ID="377">
-            <Title>800px-WLA_metmuseum_Olmec_Jadeite_Mask_3</Title>
         </Document>
         <Document ID="378">
             <Title>Considerations - The Eremite</Title>
@@ -2515,24 +1866,13 @@ Their states reflect some message about them.
 
 </Text>
         </Document>
-        <Document ID="382">
-            <Title>Other Texts</Title>
-            <Text>Useful Tidbits</Text>
-        </Document>
         <Document ID="383">
             <Title>Disease Ideas</Title>
             <Text>Apoplectic Miscellaneous Symptoms - Sheets of blisters. - Erythema - redness of the skin Dyscrasia and Eucrasia - unbalanced and balanced humors. Viruses Bacteria Fungi Protozoa Multi-Cellular Prions No symptoms for a while Colour red treats smallpox - draws blood up to meet its fellows Edema, Dropsy Cytokine Sotrm Spreads to the arctic Explosive diarrhoea finds new hosts Zymote - Zymotic Apoplexy - heart attach - bleeding - a striking away, like flint, haemorrhage Scrapie - taking off of clothes, rubbing off of body hair, lip smacking, altered gaits, convulsive collapse. Only affects people who follow the herd and desire to be popular. Remove the spinal cords. Creutzfeldt-Jakob disease - dementia, muscle wasting, twitching, hallucinations. Can only be confirmed by cutting into the brain. Storing sperm - spiny genitalia</Text>
         </Document>
-        <Document ID="384">
-            <Title>Executioner</Title>
-        </Document>
         <Document ID="385">
             <Title>God Statue</Title>
             <Text>Features - It has another god carved on the back of it.</Text>
-        </Document>
-        <Document ID="386">
-            <Title>Promotion Introduction</Title>
-            <Text>PROMOTION What Features Of The Work Should Be Emphasised Before We Launch? - Water, and its relationship to exploration and illness. - Anthropology</Text>
         </Document>
         <Document ID="387">
             <Title>Issues (Collected)</Title>
@@ -2707,12 +2047,6 @@ Deviant Burial
 
 Scientology
 </Text>
-        </Document>
-        <Document ID="390">
-            <Title>wtf-photos06</Title>
-        </Document>
-        <Document ID="391">
-            <Title>wtf-photos23</Title>
         </Document>
         <Document ID="392">
             <Title>Cloaktent</Title>
