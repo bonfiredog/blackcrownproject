@@ -7,9 +7,12 @@
 Given how much of a mycelial, entropic mess *Black Crown* was at the time of its operation, I thought that it would be best to provide some very straightforward guidance on how to use this archive; where to find particular documents, how to renovate something of the original's heft, or to chart how things used to connect to each other.
 
 ###The Project Itself
--------------------------------
 
 The *Black Crown Project* was a narrative endemic to the Internet. It was always meant to exist as a hypertext in the most general sense, and would suit this medium again, if it was reconstructed. I wrote it, designed it and led the process of building it, and it was actually built by Failbetter Games, Popleaf Games and the publishers Random House, who also financed and promoted it. The entire thing was hosted across various web servers, (both Failbetter's, Random House's and Tumblr's), but was mainly indexed and accessed by the interactive fiction which was the headmeat of the experience; a sort of stagger-through-your-own-adventure game, in which the user selected stories to play, read text which set up a scenario, and then made a choice from the available options as to what their character was to do next. It was constructed using a modified version of Failbetter Games' Storynexus platform. The rest of the material, either accessed through the Storynexus game itself or by happenstance across the internet, were 'supplementary' to the main story, in the sense that they were end-nodes, with little concrete narrative of their own; they consisted of audio recordings, PDF documents, web-based manipulable objects, player forums and other things. 
+Shortlisted for the New Media Writing Prize
+
+
+I wrote it, and it was developed by Popleaf Games, Failbetter Games and published by Random House. Unfortunately, due to [[a variety of vectors]], it was taken offline and archived in 2015. [[The copyright reverted to me entirely]] this year, and subsequently this archive represents, to the best of my effort, ability and desires, a complete and organised archive of everything relating to the project. 
 
 ###Its Narrative
 ---------------------------
@@ -18,8 +21,7 @@ The narrative had little planning before I started, though it was based on an ol
 
 In the Black Crown Project, this journey is only one of many which this man took; the player takes on the role of a newly-employed clerk at the Widsith Institute, an archaeological project devoted to disinterring, and interpreting, the different writings of this figure. The Institute has no walls, or departments; the clerks sit atop a silent hill amongst silent hills, by a long straight sea, in desks separated by circles of quarantine. 
 
-To the people of Loss, the man, a quarter-god, was known as the Miasma Eremite; to your character, he was known as something else. The reader's character must traverse the 
-
+To the people of Loss, the man, a quarter-god, was known as the Miasma Eremite; to your character, he was known as something else. The reader's character must traverse the
 
 
 The project was online for around two years, between 2012 and 2014, when due to technical issues, and an accelerating culture, it was taken offline. The archive was split between my own personal one, sealed in vaccuum bags or humming in swiftly-griming revolutions on my hard drives, and on the servers of the various partners in the process.
@@ -27,11 +29,73 @@ The project was online for around two years, between 2012 and 2014, when due to 
 Early this year the full copyright for the project reverted to me, and I tried to take stock,
 
 
-
-
-
-
 The player took the role of a new employee of the Widsith Institute, a decayed survival of an organisation which served to excavate, document and profile the writings of a long-dead explorer. He seemed to have had many different names, in different periods of his life, but for the purposes of the player's assignment he was called the Miasma Eremite. The assignment, called The Black Crown Project, concerned his visit to a small mountain town called Loss, and his adventures and misadventures there.
+
+
+
+
+
+###Using This Archive
+
+As the Project was so mycelial and interpolated in its original form, and such a bloody mess, I have tried to lay out its archive in as simple and segregated a manner as possible. Everything should be easy to find, and any attempt at reconstructing the project, either completely or partially, should be significantly easier than if I had just done a straight data dump; something that was never going to happen, as I enjoy tidying data far more than producing it new.
+
+Everything can be found in the `/assets` folder, organised into separate folders:
+
+####`/audio` - These files were **Miasma Objects** . Included are my original notes and directions for the recordings.
+####`/bcp_scrivener_project` - I used the [Scrivener](https://www.literatureandlatte.com/scrivener.php) project software for collating notes and planning assets during the production process: to open this `.scriv` file, you will also need a copy of this (paid-for) software: however, I think that you can explore this folder's structure and find the various pages of the project as `.rtf` files.
+####`main_if` - These are all the files I have relating to the main interactive fiction of the Project, originally built using Storynexus. The `/art` folder contains all the icons for the Storynexus cards painted by Paul Arendt at Failbetter, as well as the area banners, as well as many of the work-in-progress icons and their original `.psd` files. The `/drafts` folder contains many of the Storynexus storylets in word documents, which is where I tended to draft them in groups of ten or twenty. The `/planning` folder is a mixed bag of notes, scraps of storylet, design instructions, pointless screeds, mock-ups, reference images, icon sketches and photographs from the production of the project. The `bcp_narrative_export.xlsx` spreadsheet is a raw JSON export of *all* the storylets, with their branches, from the Storynexus project. There are hundreds of thousands of words in here, with all the original HTML markup, arranged in no particular order. Good luck.
+####`objects`
+####`old_project`
+####`promo`
+####`screenshots`
+####`supplements`
+####`text_shards`
+
+Planning folder, drafts of storylets, art assets
+
+the painting are at random house, I think
+
+Only infoboxes and planning documents included with miasma objects.
+
+old project - with original work (both sander project and contextualising essay, and my final dissertation)
+
+what things are still to come.
+
+some are odt - openoffice needed.
+
+
+Broken up with text shard art.
+Some GDocs are missing. 
+A lot of random notes as well. 
+
+in main_if - reference images mainly from wellcome collection and british library.
+
+
+Other parts
+------------
+
+audio - part of the objects.
+forums - all gone now. Used for access codes. People talked in character. It was great.
+supplements - short stories and other things used in marketing. Linked to BCP but not entirely of it.
+scrivener project - need scrivener to open, but can look at text files within it.
+screenshots folder.
+
+
+
+
+###Acknowledgements
+
+
+If I have forgotten anyone, it is entirely my own fault for being forgetful, and not theirs for being forgettable. 
+
+- [Sam North](https://humanities.exeter.ac.uk/english/staff/snorth/), the closest thing to a benevolent rock-spirit that I have, albeit with far better (and more opaque) shirts, hair and soul. Thank you for your guidance, your attention, your humour, the white wine, the traipsing around London with a heavy suitcase covered in biohazard stickers, dinner on Dartmoor, and for everything else. I miss you. 
+- Sarah, who comes first in any other order of thanks in my life.
+- [Vael](http://vaelvictus.com/), for his exactitude, advice and expansive self-vivisection.
+- Joseph McShea and [Isley Lynn](http://www.isleylynn.com/) for their continued, selective silence, alongside [Freesound](http://freesound.org) users `soundmary`, `natashachubbuck`, `ciccarelli`, `al-barbosa`, `sphion`, `landub`, `zaem`, `miklovan` and `productionnow`.
+- Paddy, Rob, Harry, Nick, Alex, Loic, Lucy, Melissa, Ed, [The Real McCoy](http://www.therealmccoy.co.uk/) and [Otto Retro's](https://www.ottosantiques.co.uk) Sarah for helping me put together the suitcase, for posing as the survivors of Loss, despite the stares of shoppers, and making that year in the South-West one of my best so far.
+- Dan Franklin, [Harriet Horobin-Worley](https://twitter.com/HarrietHW) and everybody still and once at [Random House](http://www.penguinrandomhouse.com/). I'm sorry that I didn't become what was expected. I never seem to.
+- Jo Rodgers and Elizabeth Sheinkman at [WME](http://wmeentertainment.com/) for being kind and helpful for far longer than they had to.
+- Alexis, Jon, Berb, Ahron, Paul, Henry, Liam and everybody else at [Popleaf Games](http://www.popleaf.com/) and [Failbetter Games](http://www.failbettergames.com/).
 
 
 
@@ -55,44 +119,6 @@ The player took the role of a new employee of the Widsith Institute, a decayed s
 
 
 
-Acknowledgements
--------------------
-
-If I have forgotten anyone, it is entirely my own fault for being forgetful, and not theirs for being forgettable. 
-
-Sam North, the closest thing to a ghost guide that I have, albeit with far better (and more opaque) shirts, hair. Thank you for your guidance, your attention, your humour, the white wine, the traipsing around London with a heavy suitcase covered in biohazard stickers, dinner on Dartmoor, and for everything else. I miss you. 
-
-Sarah, who comes first in any other order of thanks in my life.
-
-Vael, for his exactitude, advice and expansive self-vivisection.
-
-Joseph McShea and Isley Lynn for their continued silence, and Freesound users soundmary, natashachubbuck, ciccarelli, al-barbosa, sphion, landub, zaem, miklovan and productionnow for carefully sectioning theirs.
-
-Paddy and Rob again, Harry, Nick, Alex, Loic, Lucy, Melissa, Ed, Sarah again and Otto Retro's Sarah for helping me put together the suitcase, posing as the people of Loss for photographs despite the stares of passersby, and making that year down south one of the best of life so far.
-
-Shortlisted for the New Media Writing Prize
-
-Dan Franklin, Harriet Horobin-Worley and everybody once at Random House. I'm sorry I didn't become what was expected. 
-
-Jo Rodgers and Elizabeth Sheinkman from WME for their help far longer than they had to.
-
-Alexis, Jon, Berb, Ahron, Paul, Henry, Liam and everybody else at Popleaf Games.
-
-
-the painting are at random house, I think
-
-
-in main_if - reference images mainly from wellcome collection and british library.
-
-
-
-
-I wrote it, and it was developed by Popleaf Games, Failbetter Games and published by Random House. Unfortunately, due to [[a variety of vectors]], it was taken offline and archived in 2015. [[The copyright reverted to me entirely]] this year, and subsequently this archive represents, to the best of my effort, ability and desires, a complete and organised archive of everything relating to the project. 
-
-
-
-
-
 Brief Overview of the story
 
 
@@ -102,14 +128,13 @@ The interactive text game at the core was built for Failbetter Games' Storynexus
 
 Storynexus is in maintenance mode - development of new features is unlikely. 
 Not sure how long it will be around for.
-Links to Storynexus docs.
+
 
 -  BCP is a Storynexus 'World', complete in itsself.
 - Storynexus worlds require you to create a character at the start. Your character was the main part of this. Everything about a character. (qualities)
 - Storylets, also known as 'cards' in Storynexus (though we called them 'files' for BCP) are the meat of the experience. They describe an event, provide choices, and tell you the outcome of those choices. The outcome of those choices often involve qualities being added, delted or changed on your character. Each file also had a thumbnail image associated with it. Multiple storylets in chains. Success or fail events based on qualities. Rare success event.
 - Qualities (I think we did just call them qualities for BCP) represent, according to failbetter, 'events that have happened'. They can be used to represent character traits, markers of events, items, progress in a task. The quality has a number attached to it. QLDs change numbers into words. Change the numbers in consequences. Notes were for me to understand qhat qualities and storylets were for. Qualities have categories (see SN documentation). Qualities also had thumbnails, but also could have different thumbnails for different levels.
 
-Planning folder, drafts of storylets, art assets
 
 
 Game was split into areas - describe them, what they were for. Had their own title-bar.
@@ -144,53 +169,6 @@ Text Shards represented pages from the Eremite's diaries which, in a similar fas
 
 Both types also included a commentary underneath; notes by past Widsith archivists about their interpretations of the object.
 
-Only infoboxes and planning documents included with miasma objects.
-
-old project - with original work (both sander project and contextualising essay, and my final dissertation)
-
-what things are still to come.
-
-some are odt - openoffice needed.
-
-Other parts
-------------
-
-audio - part of the objects.
-forums - all gone now. Used for access codes. People talked in character. It was great.
-
-
-
-
-supplements - short stories and other things used in marketing. Linked to BCP but not entirely of it.
-scrivener project - need scrivener to open, but can look at text files within it.
-screenshots folder.
-
-
-thaanks to isley lynn on the track.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -203,9 +181,4 @@ Look at Pixel Prospector for other publication ideas.
 
 -----------------
 
-How to reconstruct.
-Broken up with text shard art.
-Despite BCP being so weird and mycelial, this lays all the strands out as neatly as I can.
-Some GDocs are missing. 
-A lot of random notes as well. 
-Other blog posts about it.
+
