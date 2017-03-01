@@ -2,9 +2,7 @@
 <img src="https://bonfiredog.co.uk/ooo/bcp/areamarvelouse.png" width="60%" height="auto">
 </p>
 
-##Using This Archive
 
-Given how much of a mycelial, entropic mess *Black Crown* was at the time of its operation, I thought that it would be best to provide some very straightforward guidance on how to use this archive; where to find particular documents, how to renovate something of the original's heft, or to chart how things used to connect to each other.
 
 ###The Project Itself
 
@@ -30,93 +28,6 @@ Early this year the full copyright for the project reverted to me, and I tried t
 
 
 The player took the role of a new employee of the Widsith Institute, a decayed survival of an organisation which served to excavate, document and profile the writings of a long-dead explorer. He seemed to have had many different names, in different periods of his life, but for the purposes of the player's assignment he was called the Miasma Eremite. The assignment, called The Black Crown Project, concerned his visit to a small mountain town called Loss, and his adventures and misadventures there.
-
-
-
-
-
-###Using This Archive
-
-As the Project was so mycelial and interpolated in its original form, and such a bloody mess, I have tried to lay out its archive in as simple and segregated a manner as possible. Everything should be easy to find, and any attempt at reconstructing the project, either completely or partially, should be significantly easier than if I had just done a straight data dump; something that was never going to happen, as I enjoy tidying data far more than producing it new.
-
-Everything can be found in the `/assets` folder, organised into separate folders:
-
-####`/audio` - These files were **Miasma Objects** . Included are my original notes and directions for the recordings.
-####`/bcp_scrivener_project` - I used the [Scrivener](https://www.literatureandlatte.com/scrivener.php) project software for collating notes and planning assets during the production process: to open this `.scriv` file, you will also need a copy of this (paid-for) software: however, I think that you can explore this folder's structure and find the various pages of the project as `.rtf` files.
-####`main_if` - These are all the files I have relating to the main interactive fiction of the Project, originally built using Storynexus. The `/art` folder contains all the icons for the Storynexus cards painted by Paul Arendt at Failbetter, as well as the area banners, as well as many of the work-in-progress icons and their original `.psd` files. The `/drafts` folder contains many of the Storynexus storylets in word documents, which is where I tended to draft them in groups of ten or twenty. The `/planning` folder is a mixed bag of notes, scraps of storylet, design instructions, pointless screeds, mock-ups, reference images, icon sketches and photographs from the production of the project. The `bcp_narrative_export.xlsx` spreadsheet is a raw JSON export of *all* the storylets, with their branches, from the Storynexus project. There are hundreds of thousands of words in here, with all the original HTML markup, arranged in no particular order. Good luck.
-####`objects`
-####`old_project`
-####`promo`
-####`screenshots`
-####`supplements`
-####`text_shards`
-
-Planning folder, drafts of storylets, art assets
-
-the painting are at random house, I think
-
-Only infoboxes and planning documents included with miasma objects.
-
-old project - with original work (both sander project and contextualising essay, and my final dissertation)
-
-what things are still to come.
-
-some are odt - openoffice needed.
-
-
-Broken up with text shard art.
-Some GDocs are missing. 
-A lot of random notes as well. 
-
-in main_if - reference images mainly from wellcome collection and british library.
-
-
-Other parts
-------------
-
-audio - part of the objects.
-forums - all gone now. Used for access codes. People talked in character. It was great.
-supplements - short stories and other things used in marketing. Linked to BCP but not entirely of it.
-scrivener project - need scrivener to open, but can look at text files within it.
-screenshots folder.
-
-
-
-
-###Acknowledgements
-
-
-If I have forgotten anyone, it is entirely my own fault for being forgetful, and not theirs for being forgettable. 
-
-- [Sam North](https://humanities.exeter.ac.uk/english/staff/snorth/), the closest thing to a benevolent rock-spirit that I have, albeit with far better (and more opaque) shirts, hair and soul. Thank you for your guidance, your attention, your humour, the white wine, the traipsing around London with a heavy suitcase covered in biohazard stickers, dinner on Dartmoor, and for everything else. I miss you. 
-- Sarah, who comes first in any other order of thanks in my life.
-- [Vael](http://vaelvictus.com/), for his exactitude, advice and expansive self-vivisection.
-- Joseph McShea and [Isley Lynn](http://www.isleylynn.com/) for their continued, selective silence, alongside [Freesound](http://freesound.org) users `soundmary`, `natashachubbuck`, `ciccarelli`, `al-barbosa`, `sphion`, `landub`, `zaem`, `miklovan` and `productionnow`.
-- Paddy, Rob, Harry, Nick, Alex, Loic, Lucy, Melissa, Ed, [The Real McCoy](http://www.therealmccoy.co.uk/) and [Otto Retro's](https://www.ottosantiques.co.uk) Sarah for helping me put together the suitcase, for posing as the survivors of Loss, despite the stares of shoppers, and making that year in the South-West one of my best so far.
-- Dan Franklin, [Harriet Horobin-Worley](https://twitter.com/HarrietHW) and everybody still and once at [Random House](http://www.penguinrandomhouse.com/). I'm sorry that I didn't become what was expected. I never seem to.
-- Jo Rodgers and Elizabeth Sheinkman at [WME](http://wmeentertainment.com/) for being kind and helpful for far longer than they had to.
-- Alexis, Jon, Berb, Ahron, Paul, Henry, Liam and everybody else at [Popleaf Games](http://www.popleaf.com/) and [Failbetter Games](http://www.failbettergames.com/).
-
-
-
-###Links To Elsewhere
----------------------
-
-*All links were functioning at the time of creating this archive, but I cannot supervise them any longer.*
-
-[[The Guardian, December 2012]](https://www.theguardian.com/books/2012/dec/30/future-publishing-2013-predictions-digital)
-[[Interview With Mijns Inziens, December 2012]](http://edwinmijnsbergen.nl/2012/12/het-mysterieuze-black-crown-project-van/#.UPGDgm9Wx8F)
-[[The Guardian, August 2013]](https://www.theguardian.com/technology/2013/aug/18/black-crown-project-rob-sherman?INTCMP=ILCNETTXT3487)
-[[The Atlantic, August 2013]](https://www.theatlantic.com/entertainment/archive/2013/08/slow-steady-rise-interactive-novel/312024/)
-[[The Gameological Society, July 2013]](http://gameological.com/2013/07/interview-black-crown-project/)
-[[The Verge, May 2013]](http://www.theverge.com/2013/5/30/4377014/random-house-interactive-fiction-game-black-crown)
-[[MTV, May 2013]](http://www.mtv.com/news/2467283/random-house-dips-into-game-publishing-with-free-to-play-the-black-crown-project/)
-[[Interview With VideogameTourism, sometime in 2013]](http://videogametourism.at/content/wordplay-can-you-imagine-all-interview-robert-sherman-author-black-crown-pt-1)
-[[A brave attempt at a wiki.]](http://blackcrown.wikia.com/wiki/Black_Crown_Project_Wiki)
-[[Interview with RPS, September 2013]](https://www.rockpapershotgun.com/2013/09/25/wandering-in-words-black-crown-interview/)
-
-
-
 
 
 Brief Overview of the story
@@ -147,10 +58,6 @@ They are in some sort of order. Child Event is the result of a branch. But not i
 
 The qualities are gone, however.
 
-draft folder...
-
-ask liam re. quality output?
-
 In BCP, files were displayed on the main screen, representing your character's desk. Files would only appear if you had the correct qualities for them; this was how the flow of story was controlled. Typically, completing certain files would give you qualities that made availble other files. BCP had what was called a 'river structure'; there was a chain of files which moved you forward through the story, but along the way there were alternate routes you could take, and short diversions before rejoining the main 'flow'.
 
 Some files had a 'Nex' value. This was to do with Storynexus' micropayments system, which works very well for games like Fallen London but which, in retrospect, was a dismally bad decision for the game I was making. Please ignore them, and please, even if we agree that you can make a commercial version of BCP, DO NOT use micropayments. I am not a big fan. 
@@ -171,7 +78,7 @@ Both types also included a commentary underneath; notes by past Widsith archivis
 
 
 
-
+ask liam re. quality output?
 Contact journos who wrote about BCP
 Publicise on Reddit, Twitter, Tumblr, TIGSource
 Email Popleaf again about 2.5D objects and add to archive.
@@ -180,5 +87,80 @@ Look at Pixel Prospector for other publication ideas.
 
 
 -----------------
+
+
+
+
+
+
+<p align="center">
+<img src="https://bonfiredog.co.uk/ooo/bcp/ts1.png" width="30%" height="auto">
+</p>
+
+
+
+### Using This Archive
+
+As the Project was so mycelial, entropic and interpolated in its original form (or, such a bloody *mess*), I have tried to lay out its archive in as simple and segregated a manner as possible. Everything should be easy to find, and any attempt at reconstructing the original heft of the project, either completely or partially, should be significantly easier than if I had just done a straight data dump; something that was never going to happen, as I enjoy tidying up data far more than producing it new.
+
+Some things are missing, and seem to be irretrievable: many of the production notes, design documents and early drafts were hosted on Google Docs, and due to my lumpeness only their file pointers were left behind. Unfortunately the forums, where I pretended to be an omniscient Yorkshireman and everybody used my invented grammar, were never backed up. 
+
+Everything that was saved can be found in the `/assets` folder, organised into separate folders:
+
+- `/audio` - These files were attached to some of the virtual objects found in the `/objects` folder: in their excavations, the player could discover a sort of ouija teapot that played the sound of its leaves. I don't know why either. These two files were created by me in my back garden: included are their design documents.
+
+- `/bcp_scrivener_project` - I used the [Scrivener](https://www.literatureandlatte.com/scrivener.php) project software for collating notes and planning assets during the production process: to open this `.scriv` file, you will also need a copy of this (paid-for) software: however, I think that you can explore this folder's structure and find the various pages of the project as `.rtf` files.
+
+- `main_if` - These are all the files I have relating to the main interactive fiction of the Project, originally built using Storynexus. The `/art` folder contains all the icons for the Storynexus cards painted by Paul Arendt at Failbetter, as well as the area banners, as well as many of the work-in-progress icons and their original `.psd` files. The `/drafts` folder contains many of the Storynexus storylets in word documents, which is where I tended to draft them in groups of ten or twenty. The `/planning` folder is a mixed bag of notes, scraps of storylet, design instructions, pointless screeds, mock-ups, reference images (mainly from the [British Library](http://bl.co.uk) and te [Wellcome Library](http://wellcomeimages.org/) online archives), icon sketches and photographs from the production of the project. The `bcp_narrative_export.xlsx` spreadsheet is a raw JSON export of *all* the storylets, with their branches, from the Storynexus project. There are hundreds of thousands of words in here, with all the original HTML markup, arranged in no particular order. Good luck. in main_if - reference images mainly from wellcome collection and british library.
+
+- `objects` - At the moment, this folder only contains sketches, design documents and descriptions of the Miasma Objects. I'm trying to get hold of the actual HTML files and art assets for the digital objects themselves.
+
+- `old_project` - This contains all the files relating to the original version of the project as work done during my Master's degree at the University of Exeter.
+
+- `promo`- All of the assets that we used to promote the project, and which I could retrieve, I have put in here: talks I gave at various events, blog posts, teaser videos and artwork.
+
+- `screenshots` - These selected shots are mainly for reference as to how the project looked onscreen: both the main interactive fiction, the 'text shards' and the Miasma Objects.
+
+- `supplements` - As part of the marketing of the project, I created several documents which introduced readers to the themes of the Black Crown Project, all of which were written under pseudonyms: transcribed interviews between pig farmers and government employees, short stories about Abraham Lincoln jugging his aides (you should have seen the Amazon reviews), dissertations on valley civilisations, and several others. All drafts, final and working, are collected here.
+
+- `text_shards` - This contains the drafts, notes, design direction, Photoshop files and final PDFs of the fragments of the Eremite's diary that the player could dig from beneath the Institute. The original paintings, of which there are only photos, are still at the Random House offices, I think.
+
+<p align="center">
+<img src="https://bonfiredog.co.uk/ooo/bcp/ts3.png" width="30%" height="auto">
+</p>
+
+### Remains Elsewhere
+
+*All links were functioning at the time of creating this archive, but I cannot supervise them forever.*
+
+- [The Guardian, December 2012](https://www.theguardian.com/books/2012/dec/30/future-publishing-2013-predictions-digital)
+- [Interview With Mijns Inziens, December 2012](http://edwinmijnsbergen.nl/2012/12/het-mysterieuze-black-crown-project-van/#.UPGDgm9Wx8F)
+- [The Guardian, August 2013](https://www.theguardian.com/technology/2013/aug/18/black-crown-project-rob-sherman?INTCMP=ILCNETTXT3487)
+- [The Atlantic, August 2013](https://www.theatlantic.com/entertainment/archive/2013/08/slow-steady-rise-interactive-novel/312024/)
+- [The Gameological Society, July 2013](http://gameological.com/2013/07/interview-black-crown-project/)
+- [The Verge, May 2013](http://www.theverge.com/2013/5/30/4377014/random-house-interactive-fiction-game-black-crown)
+- [MTV, May 2013](http://www.mtv.com/news/2467283/random-house-dips-into-game-publishing-with-free-to-play-the-black-crown-project/)
+- [Interview With VideogameTourism, sometime in 2013](http://videogametourism.at/content/wordplay-can-you-imagine-all-interview-robert-sherman-author-black-crown-pt-1)
+- [A brave attempt at a wiki.](http://blackcrown.wikia.com/wiki/Black_Crown_Project_Wiki)
+- [Interview with RPS, September 2013](https://www.rockpapershotgun.com/2013/09/25/wandering-in-words-black-crown-interview/)
+
+<p align="center">
+<img src="https://bonfiredog.co.uk/ooo/bcp/ts2.png" width="30%" height="auto">
+</p>
+
+
+
+### Late Acknowledgements
+
+If I have forgotten anyone, it is entirely my own fault for being forgetful, and not theirs for being forgettable. 
+
+- [Sam North](https://humanities.exeter.ac.uk/english/staff/snorth/), the closest thing to a benevolent dolmen-spirit that I have, albeit with far better (and more transparent) shirts, hair and soul. Thank you for your guidance, your attention, your humour, the white wine, the traipsing around London with a heavy suitcase covered in biohazard stickers, dinner on Dartmoor, and for everything else. I miss you. 
+- Sarah, who comes first in any other order of thanks in my life.
+- [Vael](http://vaelvictus.com/), for his exactitude, advice and expansive self-vivisection.
+- Joseph McShea and [Isley Lynn](http://www.isleylynn.com/) for their continued, selective silence, alongside [Freesound](http://freesound.org) users `soundmary`, `natashachubbuck`, `ciccarelli`, `al-barbosa`, `sphion`, `landub`, `zaem`, `miklovan` and `productionnow`.
+- Paddy, Rob, Harry, Nick, Alex, Loic, Lucy, Melissa, Ed, [The Real McCoy](http://www.therealmccoy.co.uk/) and [Otto Retro's](https://www.ottosantiques.co.uk) Sarah for helping me put together the suitcase, for posing as the survivors of Loss, despite the stares of shoppers, and making that year in the South West one of my best so far.
+- Dan Franklin, [Harriet Horobin-Worley](https://twitter.com/HarrietHW) and everybody still and once at [Random House](http://www.penguinrandomhouse.com/). I'm sorry that I didn't become what was expected. I never seem to.
+- Jo Rodgers and Elizabeth Sheinkman at [WME](http://wmeentertainment.com/) for being kind and helpful for far longer than they had to.
+- Alexis, Jon, Berb, Ahron, Paul, Henry, Liam and everybody else at [Popleaf Games](http://www.popleaf.com/) and [Failbetter Games](http://www.failbettergames.com/).
 
 
