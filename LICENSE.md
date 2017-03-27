@@ -2,7 +2,7 @@
 <img src="https://bonfiredog.co.uk/ooo/bcp/areaendgame.png" width="60%" height="auto">
 </p>
 
-##License For Use Of This Archive
+<h2>License For Use Of This Archive</h2>
 
 This archive is completely free ([both *gratis* and *libre*](https://en.wikipedia.org/wiki/Gratis_versus_libre)) for **anybody** to **use non-commercially**. 
 
