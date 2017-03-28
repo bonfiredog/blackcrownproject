@@ -4,49 +4,10 @@
 
 
 
-###The Project Itself
-
-The *Black Crown Project* was a narrative endemic to the Internet. It was always meant to exist as a hypertext in the most general sense, and would suit this medium again, if it was reconstructed. I wrote it, designed it and led the process of building it, and it was actually built by Failbetter Games, Popleaf Games and the publishers Random House, who also financed and promoted it. The entire thing was hosted across various web servers, (both Failbetter's, Random House's and Tumblr's), but was mainly indexed and accessed by the interactive fiction which was the headmeat of the experience; a sort of stagger-through-your-own-adventure game, in which the user selected stories to play, read text which set up a scenario, and then made a choice from the available options as to what their character was to do next. It was constructed using a modified version of Failbetter Games' Storynexus platform. The rest of the material, either accessed through the Storynexus game itself or by happenstance across the internet, were 'supplementary' to the main story, in the sense that they were end-nodes, with little concrete narrative of their own; they consisted of audio recordings, PDF documents, web-based manipulable objects, player forums and other things. 
-Shortlisted for the New Media Writing Prize
-
-
-I wrote it, and it was developed by Popleaf Games, Failbetter Games and published by Random House. Unfortunately, due to [[a variety of vectors]], it was taken offline and archived in 2015. [[The copyright reverted to me entirely]] this year, and subsequently this archive represents, to the best of my effort, ability and desires, a complete and organised archive of everything relating to the project. 
-
-###Its Narrative
----------------------------
-
-The narrative had little planning before I started, though it was based on an older project which I had submitted as my final project for my Masters; a suitcase full of strange objects, and a diary describing a man's journey to a sequestered and hermetic little mountain town called Loss, and the lives he ruined there.
-
-In the Black Crown Project, this journey is only one of many which this man took; the player takes on the role of a newly-employed clerk at the Widsith Institute, an archaeological project devoted to disinterring, and interpreting, the different writings of this figure. The Institute has no walls, or departments; the clerks sit atop a silent hill amongst silent hills, by a long straight sea, in desks separated by circles of quarantine. 
-
-To the people of Loss, the man, a quarter-god, was known as the Miasma Eremite; to your character, he was known as something else. The reader's character must traverse the
-
-
-The project was online for around two years, between 2012 and 2014, when due to technical issues, and an accelerating culture, it was taken offline. The archive was split between my own personal one, sealed in vaccuum bags or humming in swiftly-griming revolutions on my hard drives, and on the servers of the various partners in the process.
-
-Early this year the full copyright for the project reverted to me, and I tried to take stock,
-
-
-The player took the role of a new employee of the Widsith Institute, a decayed survival of an organisation which served to excavate, document and profile the writings of a long-dead explorer. He seemed to have had many different names, in different periods of his life, but for the purposes of the player's assignment he was called the Miasma Eremite. The assignment, called The Black Crown Project, concerned his visit to a small mountain town called Loss, and his adventures and misadventures there.
-
-
-Brief Overview of the story
-
-
- However, BCP was built for a very specific scenario, and there is no reason that with some work it could not be converted into another format. However, I think it's best if you understand how the original was put together, and how to navigate this archive, before you attempt this. 
-
-The interactive text game at the core was built for Failbetter Games' Storynexus platform; therefore, it has some structures baked in. The Storynexus platform is still available at http://www.storynexus.com/s. However, BCP used a custom version of Storynexus (one of the reasons why it is no longer available online). All files relating to the game are marked with main_if. The main_if_backup_filename is the main, exported archive of all the text and other meta-data from the text game. All of this information was iinputted into Storynexus' CMS, and so there are some things to mention:
+ 
 
 Storynexus is in maintenance mode - development of new features is unlikely. 
 Not sure how long it will be around for.
-
-
--  BCP is a Storynexus 'World', complete in itsself.
-- Storynexus worlds require you to create a character at the start. Your character was the main part of this. Everything about a character. (qualities)
-- Storylets, also known as 'cards' in Storynexus (though we called them 'files' for BCP) are the meat of the experience. They describe an event, provide choices, and tell you the outcome of those choices. The outcome of those choices often involve qualities being added, delted or changed on your character. Each file also had a thumbnail image associated with it. Multiple storylets in chains. Success or fail events based on qualities. Rare success event.
-- Qualities (I think we did just call them qualities for BCP) represent, according to failbetter, 'events that have happened'. They can be used to represent character traits, markers of events, items, progress in a task. The quality has a number attached to it. QLDs change numbers into words. Change the numbers in consequences. Notes were for me to understand qhat qualities and storylets were for. Qualities have categories (see SN documentation). Qualities also had thumbnails, but also could have different thumbnails for different levels.
-
-
 
 Game was split into areas - describe them, what they were for. Had their own title-bar.
 
@@ -99,13 +60,6 @@ Look at Pixel Prospector for other publication ideas.
 
 
 
-### Using This Archive
-
-As the Project was so mycelial, entropic and interpolated in its original form (or, such a bloody *mess*), I have tried to lay out its archive in as simple and segregated a manner as possible. Everything should be easy to find, and any attempt at reconstructing the original heft of the project, either completely or partially, should be significantly easier than if I had just done a straight data dump; something that was never going to happen, as I enjoy tidying up data far more than producing it new.
-
-Some things are missing, and seem to be irretrievable: many of the production notes, design documents and early drafts were hosted on Google Docs, and due to my lumpeness only their file pointers were left behind. Unfortunately the forums, where I pretended to be an omniscient Yorkshireman and everybody used my invented grammar, were never backed up. 
-
-Everything that was saved can be found in the `/assets` folder, organised into separate folders:
 
 - `/audio` - These files were attached to some of the virtual objects found in the `/objects` folder: in their excavations, the player could discover a sort of ouija teapot that played the sound of its leaves. I don't know why either. These two files were created by me in my back garden: included are their design documents.
 
