@@ -3,12 +3,6 @@
 </p>
 
 
-
- 
-
-Storynexus is in maintenance mode - development of new features is unlikely. 
-Not sure how long it will be around for.
-
 Game was split into areas - describe them, what they were for. Had their own title-bar.
 
 Social Acts were used briefly to allow limited interaction between players. Competitive or cooperative, quality changes.
