@@ -1,0 +1,550 @@
+{
+	"name": "yourgreatwork",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "Your Great Work",
+	"description": "",
+	"link": "",
+	"code": "youstepindoors",
+	"completion_text": "",
+	"completion_link_text": "You step indoors.",
+	"property_defaults": {
+		"view": "s",
+		"doors": "0",
+		"selection1": "1",
+		"selection2": "1",
+		"selection3": "1",
+		"selection4": "1",
+		"lock": "locked"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"states": [
+		{
+			"properties": "view:s",
+			"hotspots": [
+			{
+				"polygon":[535,297,514,326,515,348,537,360,562,346,560,323],
+				"on_click": "if ( getProperty('lock') == 'unlocked' || getProperty('lock') == 'removed' ) { playSound('open.mp3'); completed(1); } else { }"
+			}
+			],
+			"states": [
+				{
+					"properties": "lock:unlocked", 
+					"image": "front-unlocked.jpg",
+					"ui_actions": {
+						"left": "setProperty('view', 's_w');",
+						"right": "setProperty('view', 's_e');"
+					}
+				},		
+				{
+					"properties": "doors:0", 
+					"image": "rotation-1.jpg",
+					"hotspots": [
+					{
+						"polygon":[375,253,402,256,423,269,434,291,434,317,423,337,399,355,362,358,334,346,323,329,322,296,338,266],
+						"on_click": "setProperty('doors','0'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[345,265,329,286,319,307,224,306,222,154,333,140],
+						"on_click": "setProperty('doors','1'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[404,141,510,142,505,314,435,316,431,281,401,252],
+						"on_click": "setProperty('doors','2'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[219,342,320,333,347,355,341,487,256,491,216,476],
+						"on_click": "setProperty('doors','3'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[424,337,502,338,502,463,465,489,401,489,393,354],
+						"on_click": "setProperty('doors','4'); playSound('panel.mp3');"
+					}
+					],
+					"ui_actions": {
+						"left": "setProperty('view', 's_w');",
+						"right": "setProperty('view', 's_e');"
+					}
+				},		
+				{
+					"properties": "doors:1", 
+					"states": [
+					{
+						"properties": "selection1:1",
+						"image": "front-1-1.jpg"
+					},
+					{
+						"properties": "selection1:2",
+						"image": "front-1-2.jpg"
+					},
+					{
+						"properties": "selection1:3",
+						"image": "front-1-3.jpg"
+					}
+					],
+					"ui_actions": {
+						"zoom": "pushProperty('view', 'panel1');"
+					},
+					"hotspots": [
+					{
+						"polygon":[375,253,402,256,423,269,434,291,434,317,423,337,399,355,362,358,334,346,323,329,322,296,338,266],
+						"on_click": "setProperty('doors','0'); playSound('panel.mp3');"
+					},			
+					{
+						"polygon":[345,265,329,286,319,307,224,306,222,154,333,140],
+						"on_click": "pushProperty('view','panel1');"
+					},
+					{
+						"polygon":[404,141,510,142,505,314,435,316,431,281,401,252],
+						"on_click": "setProperty('doors','2'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[219,342,320,333,347,355,341,487,256,491,216,476],
+						"on_click": "setProperty('doors','3'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[424,337,502,338,502,463,465,489,401,489,393,354],
+						"on_click": "setProperty('doors','4'); playSound('panel.mp3');"
+					}
+					]
+				},				
+				{
+					"properties": "doors:2", 
+					"states": [
+					{
+						"properties": "selection2:1",
+						"image": "front-2-1.jpg"
+					},
+					{
+						"properties": "selection2:2",
+						"image": "front-2-2.jpg"
+					},
+					{
+						"properties": "selection2:3",
+						"image": "front-2-3.jpg"
+					}
+					],
+					"ui_actions": {
+						"zoom": "pushProperty('view', 'panel2');"
+					},
+					"hotspots": [
+					{
+						"polygon":[375,253,402,256,423,269,434,291,434,317,423,337,399,355,362,358,334,346,323,329,322,296,338,266],
+						"on_click": "setProperty('doors','0'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[345,265,329,286,319,307,224,306,222,154,333,140],
+						"on_click": "setProperty('doors','21'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[404,141,510,142,505,314,435,316,431,281,401,252],
+						"on_click": "pushProperty('view','panel2');"
+					},
+					{
+						"polygon":[219,342,320,333,347,355,341,487,256,491,216,476],
+						"on_click": "setProperty('doors','3'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[424,337,502,338,502,463,465,489,401,489,393,354],
+						"on_click": "setProperty('doors','4'); playSound('panel.mp3');"
+					}			
+					]
+				},				
+				{
+					"properties": "doors:3", 
+					"states": [
+					{
+						"properties": "selection3:1",
+						"image": "front-3-1.jpg"
+					},
+					{
+						"properties": "selection3:2",
+						"image": "front-3-2.jpg"
+					},
+					{
+						"properties": "selection3:3",
+						"image": "front-3-3.jpg"
+					}
+					],
+					"ui_actions": {
+						"zoom": "pushProperty('view', 'panel3');"
+					},
+					"hotspots": [
+					{
+						"polygon":[375,253,402,256,423,269,434,291,434,317,423,337,399,355,362,358,334,346,323,329,322,296,338,266],
+						"on_click": "setProperty('doors','0'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[345,265,329,286,319,307,224,306,222,154,333,140],
+						"on_click": "setProperty('doors','1'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[404,141,510,142,505,314,435,316,431,281,401,252],
+						"on_click": "setProperty('doors','2'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[219,342,320,333,347,355,341,487,256,491,216,476],
+						"on_click": "pushProperty('view','panel3');"
+					},
+					{
+						"polygon":[424,337,502,338,502,463,465,489,401,489,393,354],
+						"on_click": "setProperty('doors','4'); playSound('panel.mp3');"
+					}
+					]
+				},				
+				{
+					"properties": "doors:4", 
+					"states": [
+					{
+						"properties": "selection4:1",
+						"image": "front-4-1.jpg"
+					},
+					{
+						"properties": "selection4:2",
+						"image": "front-4-2.jpg"
+					},
+					{
+						"properties": "selection4:3",
+						"image": "front-4-3.jpg"
+					}
+					],
+					"ui_actions": {
+						"zoom": "pushProperty('view', 'panel4');"
+					},
+					"hotspots": [
+					{
+						"polygon":[375,253,402,256,423,269,434,291,434,317,423,337,399,355,362,358,334,346,323,329,322,296,338,266],
+						"on_click": "setProperty('doors','0'); playSound('panel.mp3');"
+					},			
+					{
+						"polygon":[345,265,329,286,319,307,224,306,222,154,333,140],
+						"on_click": "setProperty('doors','1'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[404,141,510,142,505,314,435,316,431,281,401,252],
+						"on_click": "setProperty('doors','2'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[219,342,320,333,347,355,341,487,256,491,216,476],
+						"on_click": "setProperty('doors','3'); playSound('panel.mp3');"
+					},
+					{
+						"polygon":[424,337,502,338,502,463,465,489,401,489,393,354],
+						"on_click": "pushProperty('view','panel4');"
+					}
+					]
+				}				
+
+			]
+		},
+
+		{
+			"properties": "view:panel1",
+			"states": [
+			{
+				"properties": "selection1:1",
+				"image": "panel-1-1.jpg",
+				"hotspots": [
+				{
+					"polygon":[326,151,235,185,186,290,225,392,332,434,450,370,474,278,427,180],
+					"on_click": "setProperty('selection1','2',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]
+			},
+			{
+				"properties": "selection1:2",
+				"image": "panel-1-2.jpg",
+				"hotspots": [
+				{
+					"polygon":[326,151,235,185,186,290,225,392,332,434,450,370,474,278,427,180],
+					"on_click": "setProperty('selection1','3',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]				
+			},
+			{
+				"properties": "selection1:3",
+				"image": "panel-1-3.jpg",
+				"hotspots": [
+				{
+					"polygon":[326,151,235,185,186,290,225,392,332,434,450,370,474,278,427,180],
+					"on_click": "setProperty('selection1','1',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]				
+			}
+			],
+			"image": "front-spine.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		},
+		{
+			"properties": "view:panel2",
+			"states": [
+			{
+				"properties": "selection2:1",
+				"image": "panel-2-1.jpg",
+				"hotspots": [
+				{
+					"polygon":[508,143,413,187,363,272,372,364,446,440,527,459,626,421,670,351,662,227,574,151],
+					"on_click": "setProperty('selection2','2',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]
+			},
+			{
+				"properties": "selection2:2",
+				"image": "panel-2-2.jpg",
+				"hotspots": [
+				{
+					"polygon":[508,143,413,187,363,272,372,364,446,440,527,459,626,421,670,351,662,227,574,151],
+					"on_click": "setProperty('selection2','3',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]				
+			},
+			{
+				"properties": "selection2:3",
+				"image": "panel-2-3.jpg",
+				"hotspots": [
+				{
+					"polygon":[508,143,413,187,363,272,372,364,446,440,527,459,626,421,670,351,662,227,574,151],
+					"on_click": "setProperty('selection2','1',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]				
+			}
+			],
+			"image": "front-spine.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		},
+		{
+			"properties": "view:panel3",
+			"states": [
+			{
+				"properties": "selection3:1",
+				"image": "panel-3-1.jpg",
+				"hotspots": [
+				{
+					"polygon":[307,158,195,211,161,306,193,398,307,459,430,404,464,311,417,195],
+					"on_click": "setProperty('selection3','2',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]
+			},
+			{
+				"properties": "selection3:2",
+				"image": "panel-3-2.jpg",
+				"hotspots": [
+				{
+					"polygon":[307,158,195,211,161,306,193,398,307,459,430,404,464,311,417,195],
+					"on_click": "setProperty('selection3','1',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]				
+			},
+			{
+				"properties": "selection3:3",
+				"image": "panel-3-3.jpg",
+				"hotspots": [
+				{
+					"polygon":[307,158,195,211,161,306,193,398,307,459,430,404,464,311,417,195],
+					"on_click": "setProperty('selection3','1',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]				
+			}
+			],
+			"image": "front-spine.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		},
+		{
+			"properties": "view:panel4",
+			"states": [
+			{
+				"properties": "selection4:1",
+				"image": "panel-4-1.jpg",
+				"hotspots": [
+				{
+					"polygon":[457,153,342,210,309,296,366,423,469,450,591,378,610,292,569,197],
+					"on_click": "setProperty('selection4','2',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]
+			},
+			{
+				"properties": "selection4:2",
+				"image": "panel-4-2.jpg",
+				"hotspots": [
+				{
+					"polygon":[457,153,342,210,309,296,366,423,469,450,591,378,610,292,569,197],
+					"on_click": "setProperty('selection4','3',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]				
+			},
+			{
+				"properties": "selection4:3",
+				"image": "panel-4-3.jpg",
+				"hotspots": [
+				{
+					"polygon":[457,153,342,210,309,296,366,423,469,450,591,378,610,292,569,197],
+					"on_click": "setProperty('selection4','1',true); playSound('click.mp3'); if (getProperty('selection1') == '3' && getProperty('selection2') == '2' && getProperty('selection3') == '2' && getProperty('selection4') == '3') { setProperty('lock','unlocked',true); playSound('unlock.mp3'); setProperty('doors','0'); setProperty('view','s');}"
+				}
+				]				
+			}
+			],
+			"image": "front-spine.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		},
+		{
+			"properties": "view:s_e",
+			"states": [
+			{
+				"properties": "lock:locked",
+				"image": "rotation-2.jpg"
+			},
+			{
+				"properties": "lock:unlocked",
+				"image": "removed-2.jpg"
+			}
+			],
+			"hotspots": [
+			{
+				"polygon":[482,253,458,259,441,283,434,312,447,339,478,346,506,333,521,308,521,273,500,259],
+				"on_click": "pushProperty('view','s');"
+			}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 's');",
+				"right": "setProperty('view', 'e');"
+			}
+		},
+		{
+			"properties": "view:e",
+			"states": [
+			{
+				"properties": "lock:locked",
+				"image": "rotation-3.jpg"
+			},
+			{
+				"properties": "lock:unlocked",
+				"image": "removed-3.jpg"
+			}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 's_e');",
+				"right": "setProperty('view', 'n_e');"
+			}
+
+		},
+		{
+			"properties": "view:n_e",
+			"states": [
+			{
+				"properties": "lock:locked",
+				"image": "rotation-4.jpg"
+			},
+			{
+				"properties": "lock:unlocked",
+				"image": "removed-4.jpg"
+			}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'e');",
+				"right": "setProperty('view', 'n');"
+			}
+		},		
+		{
+			"properties": "view:n",
+			"states": [
+			{
+				"properties": "lock:locked",
+				"image": "rotation-5.jpg"
+			},
+			{
+				"properties": "lock:unlocked",
+				"image": "removed-5.jpg"
+			}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'n_e');",
+				"right": "setProperty('view', 'n_w');"
+			}
+		},
+		{
+			"properties": "view:n_w",
+			"states": [
+			{
+				"properties": "lock:locked",
+				"image": "rotation-6.jpg"
+			},
+			{
+				"properties": "lock:unlocked",
+				"image": "removed-6.jpg"
+			}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'n');",
+				"right": "setProperty('view', 'w');"
+			}
+		},
+		{
+			"properties": "view:w",
+			"states": [
+			{
+				"properties": "lock:locked",
+				"image": "rotation-7.jpg"
+			},
+			{
+				"properties": "lock:unlocked",
+				"image": "foreedge-unlocked.jpg"
+			},
+			{
+				"properties": "lock:removed",
+				"image": "foreedge-removed.jpg"
+			}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'n_w');",
+				"right": "setProperty('view', 's_w');"
+			}
+		},
+		{
+			"properties": "view:s_w",
+			"image": "rotation-8.jpg",
+			"hotspots": [			
+			{
+				"polygon":[274,248,243,270,232,303,242,330,277,349,313,325,321,285,302,253],
+				"on_click": "setProperty('view','s');"
+			}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'w');",
+				"right": "setProperty('view', 's');"
+			}
+		}
+	]
+}

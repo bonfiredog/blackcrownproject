@@ -1,0 +1,264 @@
+{
+	"name": "address",
+	"type": "object",
+	"title": "The Dunnage Label",
+	"description": "A luggage tag, a scrap of skin from some larger cow...",
+	"link": "http://bit.ly/12KXCg7",
+	"base_resolution": [800, 600],
+	"state_defaults": {
+		"view": "tag01"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "up",
+			"image": "icon-arrow-up.png",
+			"size": "50, 50",
+			"alignment": "top,center"
+		},
+		{
+			"name": "down",
+			"image": "icon-arrow-down.png",
+			"size": "50, 50",
+			"alignment": "bottom,center"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"states": [
+		{
+			"properties": "view:tag01",
+			"image": "luggage_tag_1.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'tag02');",
+				"down": "setProperty('view', 'tag08');"
+			}
+		},		
+		{
+			"properties": "view:tag02",
+			"image": "luggage_tag_2.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'tag03');",
+				"down": "setProperty('view', 'tag01');"
+			}
+		},		
+		{
+			"properties": "view:tag03",
+			"image": "luggage_tag_3.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'tag04');",
+				"down": "setProperty('view', 'tag02');"
+			}
+		},		
+		{
+			"properties": "view:tag04",
+			"image": "luggage_tag_4.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'tag05');",
+				"down": "setProperty('view', 'tag03');"
+			},
+			"hotspots": [
+				{
+					"polygon":[222,247,586,235,563,374,256,380],					
+					"on_click": "pushProperty('view', 'label01');"
+				}
+			]
+		},		
+		{
+			"properties": "view:tag05",
+			"image": "luggage_tag_5.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'tag06');",
+				"down": "setProperty('view', 'tag04');"			},
+			"hotspots": [
+				{
+					"polygon":[228,214,227,400,569,396,560,200],
+					"on_click": "pushProperty('view', 'label01');"
+				}
+			]
+		},		
+		{
+			"properties": "view:tag06",
+			"image": "luggage_tag_6.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'tag07');",
+				"down": "setProperty('view', 'tag05');"
+			},
+			"hotspots": [
+				{
+					"polygon":[228,231,205,362,578,359,540,222],
+					"on_click": "pushProperty('view', 'label01');"
+				}
+			]
+		},		
+		{
+			"properties": "view:tag07",
+			"image": "luggage_tag_7.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'tag08');",
+				"down": "setProperty('view', 'tag06');"
+			}
+		},		
+		{
+			"properties": "view:tag08",
+			"image": "luggage_tag_8.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'tag01');",
+				"down": "setProperty('view', 'tag07');"
+			}
+		},
+		{
+			"properties": "view:label01",
+			"image": "luggage_label_1.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'label02');",
+				"down": "setProperty('view', 'label08');",
+				"zoom": "pushProperty('view','zoom1');"
+			},
+			"hotspots": [
+				{
+					"polygon":[0,165,150,165,150,438,0,441],
+					"on_click": "pushProperty('view', 'tag05');"
+				}
+			]
+		},		
+		{
+			"properties": "view:label02",
+			"image": "luggage_label_2.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'label03');",
+				"down": "setProperty('view', 'label01');",
+				"zoom": "pushProperty('view','zoom1');"
+			},
+			"hotspots": [
+				{
+					"polygon":[0,165,150,165,150,438,0,441],
+					"on_click": "pushProperty('view', 'tag05');"
+				}
+			]
+		},		
+		{
+			"properties": "view:label03",
+			"image": "luggage_label_3.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'label04');",
+				"down": "setProperty('view', 'label02');"
+			},
+			"hotspots": [
+				{
+					"polygon":[0,165,150,165,150,438,0,441],
+					"on_click": "pushProperty('view', 'tag05');"
+				}
+			]
+		},		
+		{
+			"properties": "view:label04",
+			"image": "luggage_label_4.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'label05');",
+				"down": "setProperty('view', 'label03');",
+				"zoom": "pushProperty('view','zoom2');"
+			},
+			"hotspots": [
+				{
+					"polygon":[0,165,150,165,150,438,0,441],
+					"on_click": "pushProperty('view', 'tag05');"
+				}
+			]
+		},		
+		{
+			"properties": "view:label05",
+			"image": "luggage_label_5.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'label06');",
+				"down": "setProperty('view', 'label04');",
+				"zoom": "pushProperty('view','zoom2');"
+			},
+			"hotspots": [
+				{
+					"polygon":[0,165,150,165,150,438,0,441],
+					"on_click": "pushProperty('view', 'tag05');"
+				}
+			]
+		},		
+		{
+			"properties": "view:label06",
+			"image": "luggage_label_6.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'label07');",
+				"down": "setProperty('view', 'label05');",
+				"zoom": "pushProperty('view','zoom2');"
+			},
+			"hotspots": [
+				{
+					"polygon":[0,165,150,165,150,438,0,441],
+					"on_click": "pushProperty('view', 'tag05');"
+				}
+			]
+		},		
+		{
+			"properties": "view:label07",
+			"image": "luggage_label_7.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'label08');",
+				"down": "setProperty('view', 'label06');"
+			},
+			"hotspots": [
+				{
+					"polygon":[0,165,150,165,150,438,0,441],
+					"on_click": "pushProperty('view', 'tag05');"
+				}
+			]
+		},		
+		{
+			"properties": "view:label08",
+			"image": "luggage_label_8.jpg",
+			"ui_actions": {
+				"up": "setProperty('view', 'label01');",
+				"down": "setProperty('view', 'label07');",
+				"zoom": "pushProperty('view','zoom1');"
+			},
+			"hotspots": [
+				{
+					"polygon":[0,165,150,165,150,438,0,441],
+					"on_click": "pushProperty('view', 'tag05');"
+				}
+			]
+		},		
+		{
+			"properties": "view:zoom1",
+			"image": "zoom1.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		},		
+		{
+			"properties": "view:zoom2",
+			"image": "zoom2.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		}
+	]
+}

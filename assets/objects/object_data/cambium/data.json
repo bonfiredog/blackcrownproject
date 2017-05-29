@@ -1,0 +1,108 @@
+{
+	"name": "cambium",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Cambium",
+	"description": "A bolus out of some wet throat...",
+	"link": "http://bit.ly/10DQII4",
+	"code": "peatsvariouscambiumentire",
+	"completion_text": "You take something flat and regular and dig into the cambium. A sliver of cortex comes away cleanly, and crumbles into a piebald powder.",
+	"completion_link_text": "Scoop",
+	"state_defaults": {
+		"view": "n"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	]
+	,
+	"states": [
+		{
+			"properties": "view:s_e",
+			"image": "cambium_2.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's');",
+				"right": "setProperty('view', 'e');"			
+			}
+		},
+		{
+			"properties": "view:e",
+			"image": "cambium_3.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's_e');",
+				"right": "setProperty('view', 'n_e');"			
+			}
+		},
+		{
+			"properties": "view:n_e",
+			"image": "cambium_4.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'e');",
+				"right": "setProperty('view', 'n');"
+			}
+
+		},
+		{
+			"properties": "view:n",
+			"image": "cambium_5.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n_e');",
+				"right": "setProperty('view', 'n_w');"
+			}
+		},		
+		{
+			"properties": "view:n_w",
+			"image": "cambium_6.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n');",
+				"right": "setProperty('view', 'w');"
+			}
+		},
+		{
+			"properties": "view:w",
+			"image": "cambium_7.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n_w');",
+				"right": "setProperty('view', 's_w');"
+			}
+		},
+		{
+			"properties": "view:s_w",
+			"image": "cambium_8.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'w');",
+				"right": "setProperty('view', 's');"
+			}
+		},
+		{
+			"properties": "view:s",
+			"image": "cambium_1.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's_w');",
+				"right": "setProperty('view', 's_e');"
+			},
+			"hotspots": [
+			{
+				"polygon":[415,147,347,188,350,261,423,354,482,278,482,178],
+				"on_click": "trace('You have won'); completed();"
+			}
+			]
+		}
+	]
+}

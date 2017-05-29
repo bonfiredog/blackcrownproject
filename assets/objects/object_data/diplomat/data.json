@@ -1,0 +1,318 @@
+{
+	"name": "diplomat",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Diplomat",
+	"description": "A table at which to take tea, and learn civilisation... ",
+	"link": "http://bit.ly/172IeOs",
+	"code": "theporcelaininthewoods",
+	"completion_text": "With the scream that fired clay screams, the flutes around the edge of the table begin to play the wind in a tune. You had forgotten how exposed you were up here, how freely it blew, until it had something to squeeze through.",
+	"completion_link_text": "Can You Place It?",
+	"property": {"door": "closed"},
+	"property_defaults": {
+		"view": "s_e",
+		"door": "closed"
+	},
+	"on_load": "setInfoboxSection('section-main');",
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},		
+		{
+			"name": "zoom1",
+			"image": "icon-zoom_1.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},		
+		{
+			"name": "zoom2",
+			"image": "icon-zoom_2.png",
+			"size": "50, 50",
+			"alignment": "bottom,right"
+		},
+		{
+			"name": "up",
+			"image": "icon-arrow-up.png",
+			"size": "50, 50",
+			"alignment": "top,center"
+		},
+		{
+			"name": "down",
+			"image": "icon-arrow-down.png",
+			"size": "50, 50",
+			"alignment": "bottom,center"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"ui_actions": {
+		"infobox-close": "setInfoboxSection('section-main');"
+	},
+	"states": [
+		{
+			"properties": "view:s_e",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Rotation_2.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Rotation_2.jpg"
+				}
+			],
+			"hotspots": [
+				{
+					"polygon":[499,310,495,423,606,424,627,299],
+					"on_click": "pushProperty('view', 'oven');"
+				}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 's');",
+				"right": "setProperty('view', 'e');",
+				"zoom": "pushProperty('view', 'oven');",			
+				"up": "pushProperty('view', 'above');"			
+			}
+		},
+		{
+			"properties": "view:e",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Rotation_3.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Rotation_3.jpg"
+				}
+			],
+			"hotspots": [
+				{
+					"polygon":[539,254,536,358,590,315,595,219],
+					"on_click": "pushProperty('view', 'oven');"
+				}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 's_e');",
+				"right": "setProperty('view', 'n_e');",
+				"zoom": "pushProperty('view', 'oven');",
+				"up": "pushProperty('view', 'above');"			
+			}
+		},
+		{
+			"properties": "view:n_e",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Rotation_4.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Rotation_4.jpg"
+				}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'e');",
+				"right": "setProperty('view', 'n');",
+				"up": "pushProperty('view', 'above');"
+			}
+
+		},
+		{
+			"properties": "view:n",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Rotation_5.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Rotation_5.jpg"
+				}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'n_e');",
+				"right": "setProperty('view', 'n_w');",
+				"up": "pushProperty('view', 'above');"
+			}
+		},		
+		{
+			"properties": "view:n_w",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Rotation_6.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Rotation_6.jpg"
+				}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'n');",
+				"right": "setProperty('view', 'w');",
+				"up": "pushProperty('view', 'above');"
+			}
+		},
+		{
+			"properties": "view:w",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Rotation_7.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Rotation_7.jpg"
+				}
+			],
+			"hotspots": [
+				{
+					"polygon":[189,308,197,413,321,491,328,362],
+					"on_click": "pushProperty('view', 'buttons');"
+				}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'n_w');",
+				"right": "setProperty('view', 's_w');",
+				"zoom": "pushProperty('view', 'buttons');",
+				"up": "pushProperty('view', 'above');"
+			}
+		},
+		{
+			"properties": "view:s_w",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Rotation_8.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Rotation_8.jpg"
+				}
+			],
+			"hotspots": [
+				{
+					"polygon":[317,381,331,522,510,505,532,378],
+					"on_click": "pushProperty('view', 'buttons');"
+				}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 'w');",
+				"right": "setProperty('view', 's');",
+				"zoom": "pushProperty('view', 'buttons');",
+				"up": "pushProperty('view', 'above');"
+			}
+		},
+		{
+			"properties": "view:s",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Rotation_1.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Rotation_1.jpg"
+				}
+			],
+						"hotspots": [
+				{
+					"polygon":[392,329,388,443,491,493,517,371],
+					"on_click": "pushProperty('view', 'oven');"
+				}
+			],
+			"ui_actions": {
+				"left": "setProperty('view', 's_w');",
+				"right": "setProperty('view', 's_e');",
+				"zoom": "pushProperty('view', 'oven');",
+				"up": "pushProperty('view', 'above');"
+			}
+		},
+		{
+			"properties": "view:above",
+			"image": "Diplomat_Zoom_TopDown.jpg",
+			"ui_actions": {
+				"down": "popProperty();"
+			}
+		},		
+		{
+			"properties": "view:oven",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Zoom_Door_Open.jpg"
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Zoom_Door_Closed.jpg"
+				}
+			],
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+
+		},		
+		{
+			"properties": "view:buttons",
+			"on_show": "progress = 0;",
+			"states": [
+				{
+					"properties": "door:open",
+					"image": "Diplomat_Open_Zoom_Buttons.jpg",
+					"hotspots": [	
+					{
+						"polygon":[260,283,228,302,228,333,261,351,295,334,295,302],
+						"on_click": "playSound('click.mp3'); setProperty('door', 'closed', true);"
+					}]
+				},
+				{
+					"properties": "door:closed",
+					"image": "Diplomat_Zoom_Buttons.jpg",
+					"hotspots": [	
+					{
+						"polygon":[260,283,228,302,228,333,261,351,295,334,295,302],
+						"on_click": "playSound('click.mp3'); setProperty('door', 'open', true);"
+					}]
+				}
+			],
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [	
+				{
+					"polygon":[407,283,376,299,376,338,408,352,441,336,441,301],
+					"on_click": "playSound('click.mp3'); if (progress == 0) progress ++;"
+				},	
+				{
+					"polygon":[556,180,521,197,522,234,558,251,586,237,590,195],
+					"on_click": "playSound('click.mp3'); if (progress == 1) progress ++; else progress = 0;"
+				},	
+				{
+					"polygon":[554,284,522,300,522,339,557,352,585,335,586,295],
+					"on_click": "playSound('click.mp3'); if (progress == 2) { progress ++; playSound('noise.mp3'); completed(); } else progress = 0;"
+				}
+			]
+
+		}
+	]
+}

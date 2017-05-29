@@ -1,0 +1,46 @@
+{
+	"name": "fretgay2",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Fretgay",
+	"description": "A stained rag, fit only for the wind and some far-off heap... ",
+	"link": "http://bit.ly/17z8BJU",
+	"code": "fretgay2",
+	"completion_text": "You thumb through the ruin sneezed into this rag; it was once a blemish, or perhaps a mark of great favour, not to be covered with clay or powder, but worn proudly on the cheek. Now, the mole is severed, and any favour lost.",
+	"completion_link_text": "Pluck",
+	"state_defaults": {
+		"view": "no_mole"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"states": [
+		{
+			"properties": "view:no_mole",
+			"image": "Fretgay_Unfolded_No_Mole.jpg"
+		}
+	]
+}

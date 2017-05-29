@@ -1,0 +1,179 @@
+{
+	"name": "waylemap2",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Wayle Map",
+	"description": "The scrimmed carcass of a leviathan, put to better use...",
+	"link": "http://bit.ly/14ja0Ib",
+	"code": "waylemap",
+	"completion_text": "Around where, you imagine, the sex of the beast would have been found, where the cloth of its skin met that particular cage, is a golden ring. The shimmer is undeniable. You reach down for it.",
+	"completion_link_text": "Touch",
+	"property_defaults": {
+		"view": "s_e"
+	},
+	"on_load": "setInfoboxSection('section-main');",
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"ui_actions": {
+		"infobox-close": "setInfoboxSection('section-main');"
+	},
+	"states": [
+		{
+			"properties": "view:s_e",
+			"image": "WayleMap_Rotation_2.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's');",
+				"right": "setProperty('view', 'e');"			
+			}
+		},
+		{
+			"properties": "view:e",
+			"image": "WayleMap_Rotation_3.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's_e');",
+				"right": "setProperty('view', 'n_e');"			
+			}
+		},
+		{
+			"properties": "view:n_e",
+			"image": "WayleMap_Rotation_4.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'e');",
+				"right": "setProperty('view', 'n');"
+			}
+
+		},
+		{
+			"properties": "view:n",
+			"image": "WayleMap_Rotation_5.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n_e');",
+				"right": "setProperty('view', 'n_w');"
+			}
+		},		
+		{
+			"properties": "view:n_w",
+			"image": "WayleMap_Rotation_6.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n');",
+				"right": "setProperty('view', 'w');"
+			}
+		},
+		{
+			"properties": "view:w",
+			"image": "WayleMap_Rotation_7.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n_w');",
+				"right": "setProperty('view', 's_w');"
+			}
+		},
+		{
+			"properties": "view:s_w",
+			"image": "WayleMap_Rotation_8.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'w');",
+				"right": "setProperty('view', 's');"
+			}
+		},
+		{
+			"properties": "view:s",
+			"image": "WayleMap_Rotation_1.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's_w');",
+				"right": "setProperty('view', 's_e');"
+			},
+			"hotspots": [
+				{
+					"polygon":[357,226,350,386,409,391,418,229],
+					"on_click": "setProperty('view', 'tag_removed');"
+				}
+			]
+
+		},		
+		{
+			"properties": "view:tag_removed",
+			"image": "WayleMap_Tag_removed.jpg",
+			"hotspots": [
+				{
+					"polygon":[104,324,265,235,544,234,699,342,665,380,144,368],
+					"on_click": "setProperty('view', 'unfold');"
+				}
+			]
+
+		},		
+		{
+			"properties": "view:unfold",
+			"image": "WayleMap_Partial_Unfold_Noring.jpg",
+			"hotspots": [
+				{
+					"polygon":[214,276,564,284,376,528],
+					"on_click": "setProperty('view', 'map');"
+				}
+			]
+
+		},
+		{
+			"properties": "view:map",
+			"on_show": "progress = 0;",
+			"image": "WayleMap_Map_NoRing.jpg",
+			"hotspots": [
+				{
+					"polygon":[345,13,492,20,490,112,341,119],
+					"on_click": "setInfoboxMaximised(true); setInfoboxSection('legend_top');"
+				},		
+				{
+					"polygon":[389,544,384,552,392,561,402,558,400,547],
+					"on_click": "setInfoboxMaximised(true); setInfoboxSection('legend_1');"
+				},
+				{
+					"polygon":[442,469,450,479,462,476,462,463,449,459],
+					"on_click": "setInfoboxMaximised(true); setInfoboxSection('legend_2');"
+				},
+				{
+					"polygon":[420,340,436,339,439,320,425,314,412,324],					
+					"on_click": "setInfoboxMaximised(true); setInfoboxSection('legend_3');"
+				},
+				{
+					"polygon":[229,264,217,275,225,288,237,288,242,275],
+					"on_click": "setInfoboxMaximised(true); setInfoboxSection('legend_4');"
+				},
+				{
+					"polygon":[378,235,400,235,405,211,388,207,372,220],
+					"on_click": "setInfoboxMaximised(true); setInfoboxSection('legend_5');"
+				},
+				{
+					"polygon":[523,258,540,257,547,242,530,228,517,237],
+					"on_click": "setInfoboxMaximised(true); setInfoboxSection('legend_6');"
+				},
+				{
+					"polygon":[387,481,373,488,372,502,387,507,401,500,396,485],
+					"on_click": "setInfoboxMaximised(true); setInfoboxSection('legend_ring');"
+				}
+			]
+		}
+	]
+}

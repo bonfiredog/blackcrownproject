@@ -1,0 +1,114 @@
+{
+	"name": "weevil",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Pageant Weevil",
+	"description": "A fearsome venom, finished upon the s-word...",
+	"link": "http://bit.ly/15enqmw",
+	"state_defaults": {
+		"view": "e"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	]
+	,
+	"states": [
+		{
+			"properties": "view:s_e",
+			"image": "Weevil_2.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's');",
+				"right": "setProperty('view', 'e');",
+				"zoom": "pushProperty('view', 'limb');"
+			}
+		},
+		{
+			"properties": "view:e",
+			"image": "Weevil_3.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's_e');",
+				"right": "setProperty('view', 'n_e');",
+				"zoom": "pushProperty('view', 'limb');"
+			}
+		},
+		{
+			"properties": "view:n_e",
+			"image": "Weevil_4.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'e');",
+				"right": "setProperty('view', 'n');"
+			}
+
+		},
+		{
+			"properties": "view:n",
+			"image": "Weevil_5.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n_e');",
+				"right": "setProperty('view', 'n_w');"
+			}
+		},		
+		{
+			"properties": "view:n_w",
+			"image": "Weevil_6.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n');",
+				"right": "setProperty('view', 'w');"
+			}
+		},
+		{
+			"properties": "view:w",
+			"image": "Weevil_7.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n_w');",
+				"right": "setProperty('view', 's_w');"
+			}
+		},
+		{
+			"properties": "view:s_w",
+			"image": "Weevil_8.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'w');",
+				"right": "setProperty('view', 's');"
+			}
+		},
+		{
+			"properties": "view:s",
+			"image": "Weevil_1.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's_w');",
+				"right": "setProperty('view', 's_e');"
+			}
+		},
+		{
+			"properties": "view:limb",
+			"image": "Weevil_zoom.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		}
+	]
+}

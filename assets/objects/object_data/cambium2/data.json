@@ -1,0 +1,99 @@
+{
+	"name": "cambium2",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Cambium",
+	"description": "I tore the skin from across its belly...",
+	"link": "http://bit.ly/18pueCr",
+	"state_defaults": {
+		"view": "e"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	]
+	,
+	"states": [
+		{
+			"properties": "view:s_e",
+			"image": "cambium_STRIP_2.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's');",
+				"right": "setProperty('view', 'e');"			
+			}
+		},
+		{
+			"properties": "view:e",
+			"image": "cambium_STRIP_3.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's_e');",
+				"right": "setProperty('view', 'n_e');"			
+			}
+		},
+		{
+			"properties": "view:n_e",
+			"image": "cambium_STRIP_4.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'e');",
+				"right": "setProperty('view', 'n');"
+			}
+
+		},
+		{
+			"properties": "view:n",
+			"image": "cambium_STRIP_5.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n_e');",
+				"right": "setProperty('view', 'n_w');"
+			}
+		},		
+		{
+			"properties": "view:n_w",
+			"image": "cambium_STRIP_6.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n');",
+				"right": "setProperty('view', 'w');"
+			}
+		},
+		{
+			"properties": "view:w",
+			"image": "cambium_STRIP_7.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'n_w');",
+				"right": "setProperty('view', 's_w');"
+			}
+		},
+		{
+			"properties": "view:s_w",
+			"image": "cambium_STRIP_8.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'w');",
+				"right": "setProperty('view', 's');"
+			}
+		},
+		{
+			"properties": "view:s",
+			"image": "cambium_STRIP_1.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 's_w');",
+				"right": "setProperty('view', 's_e');"
+			}
+		}
+	]
+}

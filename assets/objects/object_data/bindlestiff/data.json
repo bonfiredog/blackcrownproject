@@ -1,0 +1,216 @@
+{
+	"name": "bindlestiff",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Bindlestiff",
+	"description": "The most exotic meal that the sea has ever eaten... ",
+	"link": "http://bit.ly/18mWr8d",
+	"code": "itwillbemissed",
+	"completion_text": "The ruined casing crumbles and curls into jerky; you only have eyes for that fine instrument, glinting up through the coral and the wrack and the salt. You run a trotter over it; it is anchored to the dying bone.",
+	"completion_link_text": "Strain",
+	"state_defaults": {
+		"view": "covered",
+		"lights": "on"
+	},
+	"on_load": "setInfoboxSection('empty');",
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},		
+		{
+			"name": "lightsoff",
+			"image": "icon-arrow-down.png",
+			"size": "50, 50",
+			"alignment": "bottom,center"
+		},
+		{
+			"name": "lightson",
+			"image": "icon-arrow-up.png",
+			"size": "50, 50",
+			"alignment": "bottom,center"
+		}
+	]
+	,
+	"states": [
+		{
+			"properties": "view:covered",
+			"states": [
+				{
+					"properties": "lights:on",
+					"image": "Bindlestiff_Seaweed_2.jpg"
+				},
+				{
+					"properties": "lights:off",
+					"image": "Bindlestiff_Dark.jpg",
+					"ui_actions": {
+						"lightsoff": "setProperty('lights','on');"
+					}
+				}
+			],
+			"ui_actions": {
+				"zoom": "pushProperty('view','whale');"
+			},
+			"hotspots": [
+			{
+				"polygon":[594,256,719,223,724,253,701,312,741,380,708,430,545,426,516,376],
+				"on_click": "playSound('crunch.mp3'); setProperty('view', 'crack1');"
+			}
+			]
+		},		
+		{
+			"properties": "view:crack1",
+			"states": [
+				{
+					"properties": "lights:on",
+					"image": "Bindlestiff_Seaweed_3.jpg"
+				},
+				{
+					"properties": "lights:off",
+					"image": "Bindlestiff_Dark.jpg",
+					"ui_actions": {
+						"lightsoff": "setProperty('lights','on');"
+					}
+				}
+			],
+			"ui_actions": {
+				"zoom": "pushProperty('view','whale');"
+			},
+			"hotspots": [
+			{
+				"polygon":[594,256,719,223,724,253,701,312,741,380,708,430,545,426,516,376],
+				"on_click": "playSound('crunch2.mp3'); setInfoboxMaximised(true); setInfoboxSection('lights_off'); pushProperty('lights', 'off'); setProperty('view', 'crack2');"
+			}
+			]
+		},		
+		{
+			"properties": "view:crack2",
+			"states": [
+				{
+					"properties": "lights:on",
+					"image": "Bindlestiff_Seaweed_4.jpg"
+				},
+				{
+					"properties": "lights:off",
+					"image": "Bindlestiff_Dark.jpg"
+				}
+			],
+			"hotspots": [
+			{
+				"polygon":[505,409,760,409,749,289,513,285],
+				"on_click": "setInfoboxSection('empty'); setProperty('view', 'case');"
+			}
+			]
+		},		
+		{
+			"properties": "view:case",
+			"on_show": "rip1 = 0; rip2 = 0",
+			"states": [
+				{
+					"properties": "lights:on",
+					"image": "Bindlestiff_Body_Zoom.jpg",
+					"ui_actions": {
+						"lightsoff": "setProperty('lights','off');"
+					}
+				},
+				{
+					"properties": "lights:off",
+					"image": "Bindlestiff_Body_Zoom_Dark.jpg",
+					"hotspots": [
+					{
+						"polygon":[214,173,171,228,191,282,245,276,276,214],
+						"on_click": "if (rip1 == 0) { playSound('rip01.mp3'); } rip1 = 1; if (rip1 == 1 && rip2 == 1) { setProperty('view','inside'); }"
+					},
+					{
+						"polygon":[482,156,459,192,476,232,538,238,571,207],
+						"on_click": "if (rip2 == 0) { playSound('rip02.mp3'); } rip2 = 1; if (rip1 == 1 && rip2 == 1) { setProperty('view','inside'); }"
+					}
+					]
+				}
+			]
+		},
+		{
+			"properties": "view:inside",
+			"states": [
+				{
+					"properties": "lights:on",
+					"image": "Bindlestiff_Body_Zoom.jpg",
+					"ui_actions": {
+						"lightsoff": "setProperty('lights','off');"
+					}
+				},
+				{
+					"properties": "lights:off",
+					"image": "Bindlestiff_Inside_Zoom_Dark.jpg",
+					"hotspots": [
+					{
+						"polygon":[482,159,622,470,201,370],
+						"on_click": "completed();"
+					}
+					]
+				}
+			]
+		},
+		{
+			"properties": "view:inside_removed",
+			"states": [
+				{
+					"properties": "lights:on",
+					"image": "Bindlestiff_Inside_Zoom_Compass_Removed.jpg",
+					"ui_actions": {
+						"lightsoff": "setProperty('lights','off');"
+					}
+				},
+				{
+					"properties": "lights:off",
+					"image": "Bindlestiff_Inside_Zoom_Compass_Removed_Dark.jpg",
+					"ui_actions": {
+						"lightson": "setProperty('lights','on');"
+					}
+				}
+			]
+		},		
+		{
+			"properties": "view:whale",
+			"states": [
+				{
+					"properties": "lights:on",
+					"image": "Bindlestiff_Whale_Zoom.jpg"
+				},
+				{
+					"properties": "lights:off",
+					"image": "Bindlestiff_Whale_Zoom_Dark.jpg"
+				}
+			],
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [
+			{
+				"polygon":[251,305,334,359,485,370,574,306,499,194,404,168,324,191],
+				"on_click": "setProperty('view','open_bowl');"
+			}		
+			]
+		}
+	]
+}

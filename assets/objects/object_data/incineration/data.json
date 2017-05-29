@@ -1,0 +1,30 @@
+{
+	"name": "incineration",
+	"type": "object",
+	"base_resolution": [700, 1000],
+	"title": "Incineration Order [Incinerated Misc. K97]",
+	"description": "A casualty of heat, painted with a cooler fire...",
+	"link": "http://bit.ly/10DR2qe",
+	"use_mobile_assets": false,
+	"property_defaults": {
+		"view": "page1"
+	},
+	"ui": [
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"ui_actions": {
+		"zoom": "toggleZoomMode();"
+	},
+
+	"states": [
+		{
+			"properties": "view:page1",
+			"image": "incineration.jpg"
+		}
+	]
+}

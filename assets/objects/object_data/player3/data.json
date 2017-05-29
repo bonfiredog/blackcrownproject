@@ -1,0 +1,200 @@
+{
+	"name": "player3",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "New Breath 1",
+	"description": "A steeping of breath, boiled up like tea...",
+	"link": "http://bit.ly/10ZtnPX",
+	"property_defaults": {
+		"view": "player01"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},		
+		{
+			"name": "zoom1",
+			"image": "icon-zoom_1.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},		
+		{
+			"name": "zoom2",
+			"image": "icon-zoom_2.png",
+			"size": "50, 50",
+			"alignment": "bottom,right"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"states": [
+		{
+			"properties": "view:player01",
+			"image": "Audio_Player_Rotation_1.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'player08');",
+				"right": "setProperty('view', 'player02');",
+				"zoom": "pushProperty('view', 'dials0');"
+			}
+		},		
+		{
+			"properties": "view:player02",
+			"image": "Audio_Player_Rotation_2.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'player01');",
+				"right": "setProperty('view', 'player03');"
+			}
+		},		
+		{
+			"properties": "view:player03",
+			"image": "Audio_Player_Rotation_3.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'player02');",
+				"right": "setProperty('view', 'player04');"
+			}
+		},		
+		{
+			"properties": "view:player04",
+			"image": "Audio_Player_Rotation_4.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'player03');",
+				"right": "setProperty('view', 'player05');"
+			}
+		},		
+		{
+			"properties": "view:player05",
+			"image": "Audio_Player_Rotation_5.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'player04');",
+				"right": "setProperty('view', 'player06');"
+			}
+		},		
+		{
+			"properties": "view:player06",
+			"image": "Audio_Player_Rotation_6.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'player05');",
+				"right": "setProperty('view', 'player07');"
+			}
+		},		
+		{
+			"properties": "view:player07",
+			"image": "Audio_Player_Rotation_7.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'player06');",
+				"right": "setProperty('view', 'player08');"
+			}
+		},		
+		{
+			"properties": "view:player08",
+			"image": "Audio_Player_Rotation_8.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'player07');",
+				"right": "setProperty('view', 'player01');"
+			}
+		},		
+		{
+			"properties": "view:dials0",
+			"image": "Audio_Player_Zoom_1.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [
+				{
+					"polygon":[373,153,336,94,253,89,210,136,189,202,243,249,313,274,369,223],
+					"on_click": "setProperty('view','dials1'); playSound('Audio 3.mp3');"
+				},
+				{
+					"polygon":[370,241,435,261,478,318,457,384,406,423,333,411,288,355,309,280],
+					"on_click": "setProperty('view','dials2');"				
+				},
+				{
+					"polygon":[511,368,449,394,420,451,467,496,521,515,578,485,612,443,575,388],
+					"on_click": "setProperty('view','dials3');"				
+				}
+			]
+		},		
+		{
+			"properties": "view:dials1",
+			"image": "Audio_Player_Zoom_2.jpg",
+			"ui_actions": {
+				"back": "popProperty(); stopSound();"
+			},
+			"hotspots": [
+				{
+					"polygon":[373,153,336,94,253,89,210,136,189,202,243,249,313,274,369,223],
+					"on_click": "setProperty('view','dials1'); playSound('Audio 3.mp3');"				
+				},
+				{
+					"polygon":[370,241,435,261,478,318,457,384,406,423,333,411,288,355,309,280],
+					"on_click": "setProperty('view','dials2'); pauseSound('Audio 3.mp3');"				
+				},
+				{
+					"polygon":[511,368,449,394,420,451,467,496,521,515,578,485,612,443,575,388],
+					"on_click": "setProperty('view','dials3'); stopSound('Audio 3.mp3');"	
+				}
+			]
+		},		
+		{
+			"properties": "view:dials2",
+			"image": "Audio_Player_Zoom_3.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [
+				{
+					"polygon":[373,153,336,94,253,89,210,136,189,202,243,249,313,274,369,223],
+					"on_click": "setProperty('view','dials1'); playSound('Audio 3.mp3');"				
+					},
+				{
+					"polygon":[370,241,435,261,478,318,457,384,406,423,333,411,288,355,309,280],
+					"on_click": "setProperty('view','dials2'); pauseSound('Audio 3.mp3');"		
+				},
+				{
+					"polygon":[511,368,449,394,420,451,467,496,521,515,578,485,612,443,575,388],
+					"on_click": "setProperty('view','dials3'); stopSound('Audio 3.mp3');"				
+				}
+			]
+		},		
+		{
+			"properties": "view:dials3",
+			"image": "Audio_Player_Zoom_4.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [
+				{
+					"polygon":[373,153,336,94,253,89,210,136,189,202,243,249,313,274,369,223],
+					"on_click": "setProperty('view','dials1'); playSound('Audio 3.mp3');"				
+					},
+				{
+					"polygon":[370,241,435,261,478,318,457,384,406,423,333,411,288,355,309,280],
+					"on_click": "setProperty('view','dials2'); pauseSound('Audio 3.mp3');"				
+				},
+				{
+					"polygon":[511,368,449,394,420,451,467,496,521,515,578,485,612,443,575,388],
+					"on_click": "setProperty('view','dials3'); stopSound('Audio 3.mp3');"
+				}
+			]
+		}	
+	]
+}

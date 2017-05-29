@@ -1,0 +1,61 @@
+{
+	"name": "gates",
+	"type": "object",
+	"base_resolution": [700, 1000],
+	"title": "No Ingress K29",
+	"description": "Lines and lines of calculations and frustrations..",
+	"link": "http://bit.ly/Zbs0Bc",
+	"use_mobile_assets": false,
+	"property_defaults": {
+		"view": "page1"
+	},
+
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"ui_actions": {
+		"zoom": "toggleZoomMode();"
+	},
+
+	"states": [
+		{
+			"properties": "view:page1",
+			"image": "Waiting at the Gates1.jpg",
+			"ui_actions": {
+				"right": "setProperty('view', 'page2');"
+			}
+		},		
+		{
+			"properties": "view:page2",
+			"image": "Waiting at the Gates2.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'page1');",
+				"right": "setProperty('view', 'page3');"
+			}
+		},		
+		{
+			"properties": "view:page3",
+			"image": "Waiting at the Gates3.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'page2');"
+			}
+		}
+	]
+}

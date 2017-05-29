@@ -1,0 +1,201 @@
+{
+	"name": "guttering",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "Some Guttering",
+	"description": "A holy text, augmented with age ripping from its housing... ",
+	"link": "http://bit.ly/13FOfUk",
+	"code": "quasiholy",
+	"completion_text": "NOT PROVIDED",
+	"completion_link_text": "NOT PROVIDED",
+	"state_defaults": {
+		"view": "covered"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	]
+	,
+	"states": [
+		{
+			"properties": "view:covered",
+			"image": "Guttering_Still_1.jpg",
+			"hotspots": [
+			{
+				"polygon":[237,434,287,250,283,35,186,78,191,344],
+				"on_click": "playSound('crack.mp3'); setProperty('view', 'crack1');"
+			},
+			{
+				"polygon":[290,28,295,387,330,451,376,410,374,35],
+				"on_click": "playSound('crack.mp3'); setProperty('view', 'crack1');"
+			},
+			{
+				"polygon":[389,22,387,546,459,565,464,16],
+				"on_click": "playSound('crack.mp3'); setProperty('view', 'crack1');"
+			},
+			{
+				"polygon":[468,15,469,574,522,592,566,199,537,34],
+				"on_click": "playSound('crack.mp3'); setProperty('view', 'crack1');"
+			}
+			]
+		},		
+		{
+			"properties": "view:crack1",
+			"image": "Guttering_Crack_1.jpg",
+			"hotspots": [
+			{
+				"polygon":[237,434,287,250,283,35,186,78,191,344],
+				"on_click": "playSound('crack2.mp3'); setProperty('view', 'crack2');"
+			},
+			{
+				"polygon":[290,28,295,387,330,451,376,410,374,35],
+				"on_click": "playSound('crack2.mp3'); setProperty('view', 'crack2');"
+			},
+			{
+				"polygon":[389,22,387,546,459,565,464,16],
+				"on_click": "playSound('crack2.mp3'); setProperty('view', 'crack2');"
+			},
+			{
+				"polygon":[468,15,469,574,522,592,566,199,537,34],
+				"on_click": "playSound('crack2.mp3'); setProperty('view', 'crack2');"
+			}
+			]
+		},		
+		{
+			"properties": "view:crack2",
+			"image": "Guttering_Crack_2.jpg",
+			"hotspots": [
+			{
+				"polygon":[237,434,287,250,283,35,186,78,191,344],
+				"on_click": "playSound('shatter.mp3'); setProperty('view', 'crack3');"
+			},
+			{
+				"polygon":[290,28,295,387,330,451,376,410,374,35],
+				"on_click": "playSound('shatter.mp3'); setProperty('view', 'crack3');"
+			},
+			{
+				"polygon":[389,22,387,546,459,565,464,16],
+				"on_click": "playSound('shatter.mp3'); setProperty('view', 'crack3');"
+			},
+			{
+				"polygon":[468,15,469,574,522,592,566,199,537,34],
+				"on_click": "playSound('shatter.mp3'); setProperty('view', 'crack3');"
+			}
+			]
+		},		
+		{
+			"properties": "view:crack3",
+			"image": "Guttering_Crack_3.jpg",
+			"hotspots": [
+			{
+				"polygon":[237,434,287,250,283,35,186,78,191,344],
+				"on_click": "playSound('shatter2.mp3'); setProperty('view', 'crack4');"
+			},
+			{
+				"polygon":[290,28,295,387,330,451,376,410,374,35],
+				"on_click": "playSound('shatter2.mp3'); setProperty('view', 'crack4');"
+			},
+			{
+				"polygon":[389,22,387,546,459,565,464,16],
+				"on_click": "playSound('shatter2.mp3'); setProperty('view', 'crack4');"
+			},
+			{
+				"polygon":[468,15,469,574,522,592,566,199,537,34],
+				"on_click": "playSound('shatter2.mp3'); setProperty('view', 'crack4');"
+			}
+			]
+		},		
+		{
+			"properties": "view:crack4",
+			"image": "Guttering_Crack_4.jpg",
+			"hotspots": [
+			{
+				"polygon":[237,434,287,250,283,35,186,78,191,344],
+				"on_click": "playSound('shatter3.mp3'); setProperty('view', 'uncovered');"
+			},
+			{
+				"polygon":[290,28,295,387,330,451,376,410,374,35],
+				"on_click": "playSound('shatter3.mp3'); setProperty('view', 'uncovered');"
+			},
+			{
+				"polygon":[389,22,387,546,459,565,464,16],
+				"on_click": "playSound('shatter3.mp3'); setProperty('view', 'uncovered');"
+			},
+			{
+				"polygon":[468,15,469,574,522,592,566,199,537,34],
+				"on_click": "playSound('shatter3.mp3'); setProperty('view', 'uncovered');"
+			}
+			]
+		},		
+		{
+			"properties": "view:uncovered",
+			"image": "Guttering_Uncovered_1.jpg",
+			"ui_actions": {
+				"zoom": "pushProperty('view', 'closed_bowl');"
+			},
+			"hotspots": [
+			{
+				"polygon":[486,540,505,560,485,574,467,555],
+				"on_click": "pushProperty('view','closed_bowl');"
+			}
+			]
+
+		},		
+		{
+			"properties": "view:closed_bowl",
+			"image": "Guttering_Closeup_1.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [
+			{
+				"polygon":[251,305,334,359,485,370,574,306,499,194,404,168,324,191],
+				"on_click": "setProperty('view','open_bowl');"
+			}
+			]
+		},		
+		{
+			"properties": "view:open_bowl",
+			"image": "Guttering_Closeup_2.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [
+			{
+				"polygon":[251,305,334,359,485,370,574,306,499,194,404,168,324,191],
+				"on_click": "pushProperty('view','shard');"
+			}
+			]
+		},		
+		{
+			"properties": "view:shard",
+			"image": "Guttering_Shard.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		}
+		
+	]
+}

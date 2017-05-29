@@ -1,0 +1,149 @@
+{
+	"name": "semestress",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Semestress",
+	"description": "A cancerous instrument, resonant with tumours...",
+	"link": "http://bit.ly/10x4YWy",
+	"code": "personaleffects",
+	"completion_text": "You pick an out-of-tune; you think that you can remember the concept. It is so warped and simple that you are not sure whether you remember it or created it yourself.",
+	"completion_link_text": "Listen",
+	"property_defaults": {
+		"view": "harp05"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},		
+		{
+			"name": "zoom1",
+			"image": "icon-zoom_1.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},		
+		{
+			"name": "zoom2",
+			"image": "icon-zoom_2.png",
+			"size": "50, 50",
+			"alignment": "bottom,right"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"states": [
+		{
+			"properties": "view:harp01",
+			"image": "harp_1.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'harp08');",
+				"right": "setProperty('view', 'harp02');",
+				"zoom1": "pushProperty('view', 'bridge');",
+				"zoom2": "pushProperty('view', 'logo');"
+			}
+		},		
+		{
+			"properties": "view:harp02",
+			"image": "harp_2.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'harp01');",
+				"right": "setProperty('view', 'harp03');"
+			}
+		},		
+		{
+			"properties": "view:harp03",
+			"image": "harp_3.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'harp02');",
+				"right": "setProperty('view', 'harp04');"
+			}
+		},		
+		{
+			"properties": "view:harp04",
+			"image": "harp_4.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'harp03');",
+				"right": "setProperty('view', 'harp05');"
+			}
+		},		
+		{
+			"properties": "view:harp05",
+			"image": "harp_5.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'harp04');",
+				"right": "setProperty('view', 'harp06');"
+			}
+		},		
+		{
+			"properties": "view:harp06",
+			"image": "harp_6.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'harp05');",
+				"right": "setProperty('view', 'harp07');"
+			}
+		},		
+		{
+			"properties": "view:harp07",
+			"image": "harp_7.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'harp06');",
+				"right": "setProperty('view', 'harp08');"
+			}
+		},		
+		{
+			"properties": "view:harp08",
+			"image": "harp_8.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'harp07');",
+				"right": "setProperty('view', 'harp01');"
+			}
+		},		
+		{
+			"properties": "view:bridge",
+			"on_show": "progress = 0;",
+			"image": "close_up_bridge.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [
+				{
+					"polygon": [279,241,180,239,98,596,213,599],
+					"on_click": "playSound('harp1.mp3'); if (progress == 4 || progress == 5) progress ++; else progress = 0"
+				},
+				{
+					"polygon": [360,248,445,246,523,594,387,598],
+					"on_click": "playSound('harp2.mp3'); if (progress == 1 || progress == 2 || progress == 7) { if (progress == 7) { completed(); } progress ++; } else progress = 0;"
+				},
+				{
+					"polygon": [496,246,607,244,797,454,796,597,739,597],
+					"on_click": "playSound('harp3.mp3'); if (progress == 0 || progress == 3 || progress == 6) progress ++; else progress = 0;"
+				}
+			]
+		},		
+		{
+			"properties": "view:logo",
+			"image": "close_up_logo.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"name": "bindlestiff2",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Bindlestiff",
+	"description": "The most exotic meal that the sea has ever eaten... ",
+	"link": "http://bit.ly/15GiQeZ",
+	"code": "bindlestiff2",
+	"completion_text": "The ruined casing crumbles and curls into jerky; you only have eyes for that fine instrument, glinting up through the coral and the wrack and the salt. You run a trotter over it; it is anchored to the dying bone.",
+	"completion_link_text": "Strain",
+	"state_defaults": {
+		"view": "inside_removed",
+		"lights": "off"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},		
+		{
+			"name": "lightsoff",
+			"image": "icon-arrow-down.png",
+			"size": "50, 50",
+			"alignment": "bottom,center"
+		},
+		{
+			"name": "lightson",
+			"image": "icon-arrow-up.png",
+			"size": "50, 50",
+			"alignment": "bottom,center"
+		}
+	]
+	,
+	"states": [
+		{
+			"properties": "view:inside_removed",
+			"states": [
+				{
+					"properties": "lights:off",
+					"image": "Bindlestiff_Inside_Zoom_Compass_Removed_Dark.jpg"
+				}
+			]
+		}
+	]
+}

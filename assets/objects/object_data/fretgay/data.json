@@ -1,0 +1,106 @@
+{
+	"name": "fretgay",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "The Fretgay",
+	"description": "A stained rag, fit only for the wind and some far-off heap... ",
+	"link": "http://bit.ly/186CTG6",
+	"code": "thecalculation",
+	"completion_text": "You thumb through the ruin sneezed into this rag; it was once a blemish, or perhaps a mark of great favour, not to be covered with clay or powder, but worn proudly on the cheek. Now, the mole is severed, and any favour lost.",
+	"completion_link_text": "Pluck",
+	"state_defaults": {
+		"view": "closed"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"states": [
+		{
+			"properties": "view:closed",
+			"image": "Fretgay_Front_Seal.jpg",
+			"ui_actions": {
+				"back": "setProperty('view', 'back');"
+			},
+			"hotspots": [
+			{
+				"polygon":[258,160,543,164,538,441,258,441],
+				"on_click": "setProperty('view', 'open01');"
+			}
+			]
+		},		
+		{
+			"properties": "view:open01",
+			"image": "Fretgay_Front_Unfold_1.jpg",
+			"hotspots": [
+			{
+				"polygon":[258,160,543,164,538,441,258,441],
+				"on_click": "setProperty('view', 'open02');"
+			}
+			]
+		},
+		{
+			"properties": "view:open02",
+			"image": "Fretgay_Front_Unfold_2.jpg",
+			"hotspots": [
+			{
+				"polygon":[258,160,543,164,538,441,258,441],
+				"on_click": "setProperty('view', 'open03');"
+			}
+			]
+		},
+		{
+			"properties": "view:open03",
+			"image": "Fretgay_Front_Unfold_3.jpg",
+			"hotspots": [
+			{
+				"polygon":[258,160,543,164,538,441,258,441],
+				"on_click": "setProperty('view', 'mole');"
+			}
+			]
+		},		
+		{
+			"properties": "view:mole",
+			"image": "Fretgay_Unfolded_Mole.jpg",
+			"hotspots": [
+			{
+				"polygon":[392,280,370,295,380,317,405,321,416,293],
+				"on_click": "completed()"
+			}
+			]
+		},
+		{
+			"properties": "view:no_mole",
+			"image": "Fretgay_Unfolded_No_Mole.jpg"
+		},
+		{
+			"properties": "view:back",
+			"image": "Fretgay_Rear.jpg",
+			"ui_actions": {
+				"back": "setProperty('view', 'closed');"
+			}
+		}
+	]
+}

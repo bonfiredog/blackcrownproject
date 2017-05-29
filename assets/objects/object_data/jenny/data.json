@@ -1,0 +1,153 @@
+{
+	"name": "jenny",
+	"type": "object",
+	"base_resolution": [800, 600],
+	"title": "Jenny Garganta",
+	"description": "Such a beautiful wardrobe...",
+	"link": "http://bit.ly/17kQNbN",
+	"code": "suchavoiceonher",	
+	"completion_text": "You try to wipe the grot from the corners of the dialglass. You feel tremendously safe in here, safer than you have ever felt amongst people.",
+	"completion_link_text": "Nestle",	
+	"property_defaults": {
+		"view": "jenny05"
+	},
+	"ui": [
+		{
+			"name": "left",
+			"image": "icon-arrow-left.png",
+			"size": "50, 50",
+			"alignment": "middle,left"
+		},
+		{
+			"name": "right",
+			"image": "icon-arrow-right.png",
+			"size": "50, 50",
+			"alignment": "middle,right"
+		},
+		{
+			"name": "zoom",
+			"image": "icon-zoom.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		},
+		{
+			"name": "back",
+			"image": "icon-back.png",
+			"size": "50, 50",
+			"alignment": "bottom,left"
+		}
+	],
+	"states": [
+		{
+			"properties": "view:jenny01",
+			"image": "jenny_1.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'jenny08');",
+				"right": "setProperty('view', 'jenny02');"
+			},
+			"hotspots": [
+				{
+					"polygon":[342,67,458,68,473,119,455,157,520,177,510,506,289,505,284,175,349,159,332,119],					
+					"on_click": "pushProperty('view', 'open');"
+				}
+			]
+		},		
+		{
+			"properties": "view:jenny02",
+			"image": "jenny_2.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'jenny01');",
+				"right": "setProperty('view', 'jenny03');"
+			}
+		},		
+		{
+			"properties": "view:jenny03",
+			"image": "jenny_3.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'jenny02');",
+				"right": "setProperty('view', 'jenny04');"
+			}
+		},		
+		{
+			"properties": "view:jenny04",
+			"image": "jenny_4.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'jenny03');",
+				"right": "setProperty('view', 'jenny05');"
+			}
+		},		
+		{
+			"properties": "view:jenny05",
+			"image": "jenny_5.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'jenny04');",
+				"right": "setProperty('view', 'jenny06');",
+				"zoom": "pushProperty('view', 'crest');"
+
+			}
+		},		
+		{
+			"properties": "view:jenny06",
+			"image": "jenny_6.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'jenny05');",
+				"right": "setProperty('view', 'jenny07');"
+			}
+		},		
+		{
+			"properties": "view:jenny07",
+			"image": "jenny_7.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'jenny06');",
+				"right": "setProperty('view', 'jenny08');"
+			}
+		},		
+		{
+			"properties": "view:jenny08",
+			"image": "jenny_8.jpg",
+			"ui_actions": {
+				"left": "setProperty('view', 'jenny07');",
+				"right": "setProperty('view', 'jenny01');"
+			}
+		},		
+		{
+			"properties": "view:open",
+			"image": "jenny_open_front.jpg",
+			"ui_actions": {
+				"zoom": "pushProperty('view', 'dial');"
+			},
+			"hotspots": [
+				{
+					"polygon":[168,61,186,52,236,65,233,76,245,119,233,160,284,184,287,499,195,531,168,518],
+					"on_click": "pushProperty('view', 'jenny01');"
+				},				
+				{
+					"polygon":[562,68,610,55,636,64,632,514,601,526,514,494,516,185,567,161,551,119],
+					"on_click": "pushProperty('view', 'jenny01');"
+				}
+			]
+
+			
+		},		
+		{
+			"properties": "view:dial",
+			"image": "jenny_zoom_dial.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			},
+			"hotspots": [
+				{
+					"polygon":[430,179,345,213,310,274,302,346,321,401,374,449,451,458,518,423,552,378,565,313,556,257,521,210,474,184],
+					"on_click": "completed();"
+				}
+			]
+		},
+		{
+			"properties": "view:crest",
+			"image": "jenny_zoom_crest.jpg",
+			"ui_actions": {
+				"back": "popProperty();"
+			}
+		}
+	]
+}
