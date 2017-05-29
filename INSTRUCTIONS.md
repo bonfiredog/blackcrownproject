@@ -12,35 +12,14 @@ However, I did not want to let all of that work, by myself and many talented oth
 
 # The Narrative
 
-# The Game Itself
+# The Game's Topology
 
 Game was split into areas - describe them, what they were for. Had their own title-bar.
 
 Social Acts were used briefly to allow limited interaction between players. Competitive or cooperative, quality changes.
 
 
-<p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/ts1.png" width="30%" height="auto">
-</p>
-
-# Understanding This Repo
-
-This Github repository contains absolutely everything that I have collected, and have in my possession, relating to *The Black Crown Project*. This includes not only all the files and assets from the narrative itself, but also as much of the metatextual material that I could find and digitise; notes, drafts, sketches, research images, raw Photoshop files, photographs, and earlier versions of the Project from my Masters degree. Some things are missing, and seem to be irretrievable; I only have the fole markers of many of the production notes, design documents and early drafts hosted on Google Docs, due to a bad misunderstanding on my part as to how that technology works. All the posts from the user forums, where so many of you took my fiction to hear, are gone. The long list of 'qualities' from the interactive fiction, whose flavour text were some of the most pleasurable writing that I have done in recent years, were also lost when the Project was archived. 
-
-I have only redacted material where it contained the personal contact information of my friends. 
-
-To satisfy something very fundamental in me, I have laid out this archive in as simple and segregated a manner as possible. Everything can be found in the `/assets` folder, grouped into sub-folders roughly by medium.  
-
-### `/audio` 
-These audio tracks were the recordings (made by the Eremite) which the player could find within the interactive fiction and then play using the *Player* object, found in the `/objects` folder. The audio files are also hosted there, but I was worried that the two  were slightly different, in some way
-
-
-These files were attached to some of the virtual objects found in the `/objects` folder: in their excavations, the player could discover a sort of ouija teapot that played the sound of its leaves. I don't know why either. These two files were created by me in my back garden: included are their design documents.
-
-
-
-
-
+One of the major activities of the player was to excavate and catalogue the possessions of the Miasma Eremite, many of them relating to his time in the town of Loss. When one of these possessions was unearthed in the interactive fiction, the player was provided with a link to the object itself. Represented as a '2.5D' object in a browser window, the objects could be manipulated in various different ways, some of them containing puzzles which led back into the main game itself
 
 
 
@@ -58,10 +37,6 @@ If you want to create a straight port, Storynexus is probably a good bet.
 
 The other main part of the storygame were additional items found outside in the world. These were hosted elsewhere on the web, and represented items which the player-character could dig up or find in the exploration of the Widsith Institute. The URLs to them were obscure, but not obfuscated; people were able to find them naturally, and share them with others. Players of the narrative text game could also find them in the game, and then use a special storylet to access them at any time. These were split into two main types: miasma objects and text shards.
 
-see in screenshot folder how things were supposed to look.
-
-Put screenshots in the instructions document.
-
 Miasma Objects, built by the incomparable Popleaf Studios, were objects which could be manipulated in your browser; tactile puzzles. As well as adding to the lore of Black Crown, they also served a mechanical purpose; when and if they were 'solved', they would create an Access Code back into the Storynexus game, prompting curious newcomers to create a character and start playing the main story with a small bonus. Please note that the code for the Miasma Objects is not currently part of this archive: I'm still chasing it up.
 
 Text Shards represented pages from the Eremite's diaries which, in a similar fashion, both players of the text game and curious web-trawlers could read. They were similar in style and format to the Miasma Objects, but could not be manipulated other than by turning pages, and did not have any Access codes assoiciated with them.
@@ -69,10 +44,50 @@ Text Shards represented pages from the Eremite's diaries which, in a similar fas
 Both types also included a commentary underneath; notes by past Widsith archivists about their interpretations of the object.
 
 
-Contact journos who wrote about BCP
-Publicise on Reddit, Twitter, Tumblr, TIGSource
-On own blog.
-Look at Pixel Prospector for other publication ideas.
+
+
+
+
+
+
+<p align="center">
+<img src="https://bonfiredog.co.uk/ooo/bcp/ts1.png" width="30%" height="auto">
+</p>
+
+# Understanding This Repo
+
+This Github repository contains absolutely everything that I have collected, and have in my possession, relating to *The Black Crown Project*. This includes not only all the files and assets from the narrative itself, but also as much of the metatextual material that I could find and digitise; notes, drafts, sketches, research images, raw Photoshop files, photographs, and earlier versions of the Project from my Masters degree. Some things are missing, and seem to be irretrievable; I only have the fole markers of many of the production notes, design documents and early drafts hosted on Google Docs, due to a bad misunderstanding on my part as to how that technology works. All the posts from the user forums, where so many of you took my fiction to hear, are gone. The long list of 'qualities' from the interactive fiction, whose flavour text were some of the most pleasurable writing that I have done in recent years, were also lost when the Project was archived. 
+
+I have only redacted material where it contained the personal contact information of my friends. 
+
+To satisfy something very fundamental in me, I have laid out this archive in as simple and segregated a manner as possible. Everything can be found in the `/assets` folder, grouped into sub-folders roughly by medium.  
+
+### `/audio` 
+By some process that I never invented, the Miasma Eremite was able to reduce sounds to a fine, dried powder. In the text game, the player was able to find sachets or samples of this powder, and feed them into the *Player* object, a sort of teapot, and boil the sounds back into being. These files were what they then heard. Included are the design documents for the audio.
+
+### `/bcp_scrivener_project` 
+I used the [Scrivener](https://www.literatureandlatte.com/scrivener.php) software for collating notes and planning assets during the production of the *Project*: to open this `.scriv` file, you will also need a copy of this (commercial) software. However, I think that you can explore still read the various documents by exploring the `/Files` folder and opening the anonymous `.trf` files that you find there.
+
+### `objects` 
+This folder contains all files relating to the 2.5D pseudo-objects which the players could excavate from the hill beneath them, or which anybody with the URL could discover for themselves. Included are all the sketches and design documents for the objects, as well as the assets from their final deployment: in most cases, this includes all the image assets, JSON files laying out their operation, and the `object_infoboxes`, displayed below the objects, containing notes and commentary written by other clerks with which they were buried. The `screenshots` folder contains images that will show you how these pages looked, originally.
+
+### `old_project` 
+The Project began as a series of exercises for my Master's degree at the University of Exeter; a formal experiment in which I combined photographs by the German protrait photographer August Sander with captions describing an empty, vaguely Baltic town. This town became the focus of my final dissertation, a suitcase full of objects, collected by a mysterious visitor who had caused the town's downfall. I have included as much of these two projects (`v1` and `v2`) as I can in this folder, though the scans are wonky and I can't remember what I'm missing.
+
+### `main_if` 
+This includes all the files that I have relating to the text-based game that lay at the heart of the Project, built using Failbetter Games' Storynexus platform. The `/art` folder contains all the icons and area banners painted by Paul Arendt at Failbetter, as well as much of his draft work and their original `.psd` files. The `/drafts` folder contains many of the Storynexus storylets' earlier forms in word documents, which is where I tended to draft them in groups of ten or twenty. The `/planning` folder is a mixed bag of notes, scraps of storylet, design instructions, pointless screeds, mock-ups, reference images (mainly from the [British Library](http://bl.co.uk) and te [Wellcome Library](http://wellcomeimages.org/) online archives), icon sketches and photographs from the production of the project. The `bcp_narrative_export.xlsx` spreadsheet is a raw JSON export of *all* the storylets, with their branches, from the Storynexus project. There are hundreds of thousands of words in here, with all of the original HTML markup, arranged in no particular order. Good luck. 
+
+### `text_shards` 
+This contains the drafts, notes, design direction, Photoshop files and final PDFs of the fragments of the Eremite's handwritten diaries that the player could dig from beneath the Institute. The original paintings, of which there are only photos, are still at the Random House offices, I think.
+
+### `promo`
+This contains All of the assets that we used to promote the project, and which I could retrieve, I have put in here: talks I gave at various events, blog posts, teaser videos and artwork.
+
+### `screenshots` 
+I have included these mainly for reference as to how the project looked onscreen: both the main interactive fiction, the 'text shards' and the Miasma Objects.
+
+### `supplements` 
+As part of the marketing of the project, I wrote several documents which paced around the main themes of *The Black Crown Project*, introducing readers to some of the ideas, ancillary characters and inspirations for what they were about to play. They were all released without explicit mention of the Project, and written pseudonymically; they included transcribed interviews between pig farmers and government employees, short stories about Abraham Lincoln casseroling his aides (you should have seen the Amazon reviews), dissertations on valley civilisations, and several others. All drafts, final and working, are collected here.
 
 
 
@@ -80,21 +95,14 @@ Look at Pixel Prospector for other publication ideas.
 
 
 
-- `/bcp_scrivener_project` - I used the [Scrivener](https://www.literatureandlatte.com/scrivener.php) project software for collating notes and planning assets during the production process: to open this `.scriv` file, you will also need a copy of this (paid-for) software: however, I think that you can explore this folder's structure and find the various pages of the project as `.rtf` files.
 
-- `main_if` - These are all the files I have relating to the main interactive fiction of the Project, originally built using Storynexus. The `/art` folder contains all the icons for the Storynexus cards painted by Paul Arendt at Failbetter, as well as the area banners, as well as many of the work-in-progress icons and their original `.psd` files. The `/drafts` folder contains many of the Storynexus storylets in word documents, which is where I tended to draft them in groups of ten or twenty. The `/planning` folder is a mixed bag of notes, scraps of storylet, design instructions, pointless screeds, mock-ups, reference images (mainly from the [British Library](http://bl.co.uk) and te [Wellcome Library](http://wellcomeimages.org/) online archives), icon sketches and photographs from the production of the project. The `bcp_narrative_export.xlsx` spreadsheet is a raw JSON export of *all* the storylets, with their branches, from the Storynexus project. There are hundreds of thousands of words in here, with all the original HTML markup, arranged in no particular order. Good luck. in main_if - reference images mainly from wellcome collection and british library.
 
-- `objects` - At the moment, this folder only contains sketches, design documents and descriptions of the Miasma Objects. I'm trying to get hold of the actual HTML files and art assets for the digital objects themselves.
 
-- `old_project` - This contains all the files relating to the original version of the project as work done during my Master's degree at the University of Exeter.
 
-- `promo`- All of the assets that we used to promote the project, and which I could retrieve, I have put in here: talks I gave at various events, blog posts, teaser videos and artwork.
 
-- `screenshots` - These selected shots are mainly for reference as to how the project looked onscreen: both the main interactive fiction, the 'text shards' and the Miasma Objects.
 
-- `supplements` - As part of the marketing of the project, I created several documents which introduced readers to the themes of the Black Crown Project, all of which were written under pseudonyms: transcribed interviews between pig farmers and government employees, short stories about Abraham Lincoln jugging his aides (you should have seen the Amazon reviews), dissertations on valley civilisations, and several others. All drafts, final and working, are collected here.
 
-- `text_shards` - This contains the drafts, notes, design direction, Photoshop files and final PDFs of the fragments of the Eremite's diary that the player could dig from beneath the Institute. The original paintings, of which there are only photos, are still at the Random House offices, I think.
+
 
 
  
