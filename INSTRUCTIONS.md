@@ -14,7 +14,6 @@ However, I did not want to let all of that work, by myself and many talented oth
 
 # The Game Itself
 
-
 Game was split into areas - describe them, what they were for. Had their own title-bar.
 
 Social Acts were used briefly to allow limited interaction between players. Competitive or cooperative, quality changes.
@@ -26,13 +25,11 @@ Social Acts were used briefly to allow limited interaction between players. Comp
 
 # Understanding This Repo
 
-This Github repository contains absolutely everything that I have collected, and had in my possession, relating to The Black Crown Project. This includes not only all the files and assets from the game itself, but also as much of the metatextual material that I could find; notes, drafts, sketches, research images, raw Photoshop files, photographs and anything else that I could digitise. It also includes much of my earlier work which inspired this Project in the first place. It is unedited with the exception of one or two scanned notes which contained personal contact information.
+This Github repository contains absolutely everything that I have collected, and have in my possession, relating to *The Black Crown Project*. This includes not only all the files and assets from the narrative itself, but also as much of the metatextual material that I could find and digitise; notes, drafts, sketches, research images, raw Photoshop files, photographs, and earlier versions of the Project from my Masters degree. Some things are missing, and seem to be irretrievable; I only have the fole markers of many of the production notes, design documents and early drafts hosted on Google Docs, due to a bad misunderstanding on my part as to how that technology works. All the posts from the user forums, where so many of you took my fiction to hear, are gone. The long list of 'qualities' from the interactive fiction, whose flavour text were some of the most pleasurable writing that I have done in recent years, were also lost when the Project was archived. 
 
-I have tried to lay out this archive in as simple and segregated a manner as possible, grouping things by their type or media. I think that the original project could, with enough knowledge of how it functioned, be recreated from this material, but it would be a lot of work. 
+I have only redacted material where it contained the personal contact information of my friends. 
 
-Some things are missing, and seem to be irretrievable: many of the production notes, design documents and early drafts were hosted on Google Docs, and due to my mistakes only their file pointers were left behind in my archives. Unfortunately I have only been able to save my drafted posts from the user forums; much of the 'live culture' content, in which players would speak to each other and me in character, telling their character's stories, was never backed up. The long list of 'Qualities' that the player could accrue in the main interactive fiction, along with the 'flavour text', which was actually rather vital plot information, were never extracted from Storynexus in any form.
-
-Everything that *was* saved can be found in the `/assets` folder of this archive, organised into separate folders:
+To satisfy something very fundamental in me, I have laid out this archive in as simple and segregated a manner as possible. Everything can be found in the `/assets` folder, grouped into sub-folders roughly by medium.  
 
 ### `/audio` 
 These audio tracks were the recordings (made by the Eremite) which the player could find within the interactive fiction and then play using the *Player* object, found in the `/objects` folder. The audio files are also hosted there, but I was worried that the two  were slightly different, in some way
@@ -52,8 +49,6 @@ These files were attached to some of the virtual objects found in the `/objects`
 Living Stories - running in real tiem; basically you can have a quality change after a set amount of time. Used for increasing the severity of diseases, representing the passage of time etc.
 
 They are in some sort of order. Child Event is the result of a branch. But not in chronological order. That would take some time to put together. Look at the drafts and other planning documents to understand that.
-
-The qualities are gone, however.
 
 In BCP, files were displayed on the main screen, representing your character's desk. Files would only appear if you had the correct qualities for them; this was how the flow of story was controlled. Typically, completing certain files would give you qualities that made availble other files. BCP had what was called a 'river structure'; there was a chain of files which moved you forward through the story, but along the way there were alternate routes you could take, and short diversions before rejoining the main 'flow'.
 
