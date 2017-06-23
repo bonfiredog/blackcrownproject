@@ -2,15 +2,38 @@
 <img src="https://bonfiredog.co.uk/ooo/bcp/hillside.png" width="100%" height="auto">
 </p>
 
-*The Black Crown Project* was like pulling something by its root, agonisingly, so I'll try to do this quickly.
+<p style="color:red">*The Black Crown Project* was like pulling something from its root, millimetre by millimetre, so I will try to do this as quickly as I can allow myself.</p>
 
-A year and a half ago, the *Project* went offline, for a variety of very good reasons. A couple of people were vaguely upset, diluted, even homeopathically. It had been a droplet in their life, and now the tang had gone. I wasn't one of them; I washed my mouth of it some time ago. 
+Nearly two years ago, the largest, and first, piece of professional work that I had ever made went offline, for a variety of (http://bonfiredog.co.uk/bonfog/2014/10/06/blackcrownend)[very good reasons]. There was some vague, almost homeopathic disappointment from those for whom it had been a tinge in their lives, from which the tang had now gone. I was not one of them; I was doing something different, and had washed my mouth of the *Project* a long time ago.
 
-Black Crown derived any fibrous strength, any torque or depth that it had, from its cluster and its colony, and the relative obscuring mugginess in which it existed; so I will try to dissect it as fully as I can, laying it all out in one dimension.
+I was always very grateful for everything that *The Black Crown Project* gave me, over the three years that we were working on it; friends, skills, and a career into which I am still slowly sinking. It was a 
 
-I am very gratefuly for everything that the Black Crown Project gave me; friends, new interests, a career into which I am still slowly falling. It was two years of sheer invention, of writing and drawing and playing. I wrote about the King Quahog and riding in his jelly, how drowning in your own filth can be be experienced as a story of struggle; the power of toast as an anti-depressant. I wrote a topology of myself, a part-atomisation into long chunks and flecks of meaning. I had not really considered, in those days, being a computational artist; I had made some odd things in analogue, and had done some HTML coding; and it took me some time to realise that making thing digitally and computationally was the best way to make the things I wanted to make. Computers can simulate anything, and I wanted to make anything. Now I am building artificial intelligence, teaching conditional narrative to people who are paying hundreds of pounds for the privilege. As then, I still feel entirely unqualified; but my life has changed in other ways. I am better. I have lived in the green hills that inspired BCP. 
 
-Black Crown was all about quarantine, stymy, barriers, relays, distance; about holding itself together, and being terrified of loss. And yet some things have been lost, and I am sorry. 
+
+It was two years of sheer invention, of writing and drawing and playing. I wrote about the King Quahog and riding in his jelly, how drowning in your own filth can be be experienced as a story of struggle; the power of toast as an anti-depressant. I wrote a topology of myself, a part-atomisation into long chunks and flecks of meaning. I had not really considered, in those days, being a computational artist; I had made some odd things in analogue, and had done some HTML coding; and it took me some time to realise that making thing digitally and computationally was the best way to make the things I wanted to make. Computers can simulate anything, and I wanted to make anything. Now I am building artificial intelligence, teaching conditional narrative to people who are paying hundreds of pounds for the privilege. As then, I still feel entirely unqualified; but my life has changed in other ways. I am better. I have lived in the green hills that inspired BCP. 
+
+
+
+
+*The Black Crown Project* pretended that it had a tensile strength, an artistic torque and deep, permeating foundations, but in reality it was all about breadth, and multitude on multitude. It attempted to hide its many faults in its mattedness, and so I will try to lay everything out here in one dimension, drying in something like the sun. It has taken me over a year to tease it all out.
+
+*The Black Crown Project* would rather be buried, a robust skeleton revealing only its genotype, and not its phenotypic failings. It would rather engineer the carelessness with which we all treated it, and call it a foundation myth. So, I will try to make it promiscuous, to throw it around town; to deliver it to you here lozenged, like one of those capsule graves that owls make. I'm placing it here in a sort of cabinet, like a canopic heart or a kidney stone threaded on a chain. Perhaps the Eremite would like that too.
+
+*The Black Crown Project* was me pacing out a tumour in my soul; marking it with trigs, fingerposts, writings about its unfathomable interior, its dark, far-from-African heart: I was writing as an expert on a place I had never visited. I have visited it since, and it's smaller than I expected. Nowhere near as interesting a place as I made it out to be. The cuisine is bland, the locals harmless, and their taboos mundane. It's brilliantly pedestrian. 
+
+*The Black Crown Project* was all about quarantine, stymy, barrier, regulation, distance and membrane; about holding itself, and myself, together at an apotropaic arm's length; of being terrified of union and loss all at once. I am trying to give it some union, but some things have been lost, and I am sorry. It is nobody's fault, not even my own: after it had finished, it was mulched into unimportance, and we were all looking the other way, when things were lost.
+
+*The Black Crown Project* was an accidental, medieval way to reconfigure a psyche, like a trephination. Nonetheless, I am a very different person now. I used to write like this all the time, for example, even on letters to my godmother, but now I am capable of ocassional lucidity, [as you'll be grateful to find elsewhere](https://github.com/bonfiredog/blackcrownproject/blob/master/INSTRUCTIONS.md). He can walk! A medical miracle. I am happier, and I write less, and probably less well, and at less-auspicious times. It takes me fewer circuits to leave the house, and to love those around me, and to tell them what is wrong. It is very tempting to be irrational, and credit the <i>Project</i> with an exorcist quality, drawing what made me unhappy like gas. If I was being less charitable, I would say that it was a Placebo Effect; that writing it all down made me better, and a better person. But it did not. I can view the *Project* with a detachment now, but I spent much of my time buried alive in it, chewing it, washing it down with long walks. It was a sort of nightmare, one of which I am proud, and which had its moments. Its use lay into revealing to me that my life had reached a point in which I could either leave it medically or geographically. After that point, after the last storylets had been written, the real treatment began, and goes on.
+
+ 
+
+
+  
+
+
+
+
+
 
 And yet, when the copyright reverted to me in the late last year, I thought only briefly about revdeveloping it myself. I have most of the ability, now; unlike then, when I relied on ta dialysis of talent others to make anything happen. Then, I had the time; I don't now, and I think that's a blessing.
 
