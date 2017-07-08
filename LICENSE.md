@@ -2,7 +2,7 @@
 <img src="https://bonfiredog.co.uk/ooo/bcp/areaendgame.png" width="60%" height="auto">
 </p>
 
-<h2>License For Use Of <i>The Black Crown Project</i> Archive</h2>
+# License For Use Of *The Black Crown Project* Archive
 
 This archive is completely free ([both *gratis* and *libre*](https://en.wikipedia.org/wiki/Gratis_versus_libre)) for **anybody** to **use non-commercially**. 
 
