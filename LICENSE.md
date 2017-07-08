@@ -20,4 +20,4 @@ This license corresponds directly to the [Creative Commons Attribution 4.0 Inter
 
 Please note that I cannot be interested in helping with the redevelopment or re-release of the Project, though I offer my blessing for you to do so, and would be happy to discuss your plans and offer advice, if I can, [by email](mailto:rob@bonfiredog.co.uk).
 
-- Rob Sherman, July 2017
+*Rob Sherman, July 2017*
