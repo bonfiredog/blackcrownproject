@@ -2,13 +2,13 @@
 <img src="https://bonfiredog.co.uk/ooo/bcp/areamarvelouse.png" width="60%" height="auto">
 </p>
 
-# Using *The Black Crown Project* Archive
+## Using *The Black Crown Project* Archive
 
-*The Black Crown Project* was a piece of **interactive fiction**, found in various decoupled sections across the Internet. It was funded, edited and published by Random House UK (now [Penguin Random House](http://www.penguinrandomhouse.com/)</a>), and the technical aspects were developed and hosted by [Failbetter Games](www.failbettergames.com/) and [Popleaf Games](www.popleaf.com) [I](http://bonfiredog.co.uk) wrote, designed, painted and implemented the narrative and its mechanics.
+*The Black Crown Project* was a piece of **interactive fiction**, found in various decoupled portions across the Internet. It was funded, edited and published by Random House UK (now [Penguin Random House](http://www.penguinrandomhouse.com/)</a>), and the technical aspects were developed and hosted by [Failbetter Games](www.failbettergames.com/) and [Popleaf Games](www.popleaf.com) [I](http://bonfiredog.co.uk) wrote, designed, painted and implemented the narrative and its mechanics.
 
 The *Project* was in active development between late 2011 and late 2013, with new episodes of the main narrative being released every few months. It was still live until the last months of 2014, when it was taken offline for a [variety of very good reasons](http://bonfiredog.co.uk/bonfog/2014/10/06/blackcrownend/). The copyright was initially held by Random House itself, though it has since reverted in full to me, and in the last six months I have managed to gather up most of the mycelial gunk into which the *Project* had fallen, from the various different servers where it was slowly bitrotting. 
 
-It wasn't, and isn't, in any fit state to merely rehost. Many of the proprietary technologies that it relied upon no longer exist. While I do (now) have the technical ability to redevelop the project myself, I do not have either the inclination or the time to do so. I also cannot trust myself not to spend the next `[y]` years of my life 'updating' something which it is best for me to leave alone. 
+It wasn't, and isn't, in any fit state to merely rehost. Many of the proprietary technologies that it relied upon no longer exist. While I do (now) have the technical ability to redevelop the project myself, I have neither the inclination or the time to do so. I also cannot trust myself not to spend the next `[y]` years of my life 'updating' something which it is best for me to leave alone. 
 
 However, I did not want all that hard work, by myself and many others, to merely unpick itself into a scramble. I have no interest in 
 trying to make any further money from the Project (I never made much in the first place), yet I know that it disappointed some people to lose access to the vast amount of material which, in many cases, they were only partway through processing. To that end, this entire archive is being released for *libre* non-commercial use by anybody, anywhere, to any degree. More details can be found in the [License document](https://github.com/bonfiredog/blackcrownproject/blob/master/LICENSE.md).
