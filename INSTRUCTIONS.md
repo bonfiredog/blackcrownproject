@@ -4,17 +4,24 @@
 
 ## Using *The Black Crown Project* Archive
 
-*The Black Crown Project* was a piece of **interactive fiction**, found in various decoupled portions across the Internet. It was funded, edited and published by Random House UK (now [Penguin Random House](http://www.penguinrandomhouse.com/)</a>), and the technical aspects were developed and hosted by [Failbetter Games](www.failbettergames.com/) and [Popleaf Games](www.popleaf.com) [I](http://bonfiredog.co.uk) wrote, designed, painted and implemented the narrative and its mechanics.
+*The Black Crown Project* was a piece of **interactive fiction**, found in various decoupled portions across the Internet. It allowed players to join a curious sort of Trust, dedicated to archiving and researching the belongings and writings of a long-dead explorer. The *Project* was funded, edited and published by Random House UK (now [Penguin Random House](http://www.penguinrandomhouse.com/)</a>), and the technical aspects were developed and hosted by [Failbetter Games](www.failbettergames.com/) and [Popleaf Games](www.popleaf.com) [I](http://bonfiredog.co.uk) wrote, designed, painted and implemented much of the narrative and its mechanics.
 
-The *Project* was in active development between late 2011 and late 2013, with new episodes of the main narrative being released every few months. It was still live until the last months of 2014, when it was taken offline for a [variety of very good reasons](http://bonfiredog.co.uk/bonfog/2014/10/06/blackcrownend/). The copyright was initially held by Random House itself, though it has since reverted in full to me, and in the last six months I have managed to gather up most of the mycelial gunk into which the *Project* had fallen, from the various different servers where it was slowly bitrotting. 
+The *Project* was in active development between late 2011 and late 2013, with new episodes of the main narrative being released every few months. It was still live until the last months of 2014, when it was taken offline for a [variety of very good reasons](http://bonfiredog.co.uk/bonfog/2014/10/06/blackcrownend/). The copyright was initially held by Random House itself, though it has since reverted in full to me. In the last six months, I have managed to gather up most of the dissembled nonsense into which the *Project* had fallen, from the various different servers where it was slowly bitrotting. 
 
-It wasn't, and isn't, in any fit state to merely rehost. Many of the proprietary technologies that it relied upon no longer exist. While I do (now) have the technical ability to redevelop the project myself, I have neither the inclination or the time to do so. I also cannot trust myself not to spend the next `[y]` years of my life 'updating' something which it is best for me to leave alone. 
+It was spread across multiple media, most of which can be found in the `/assets` folder:
 
-However, I did not want all that hard work, by myself and many others, to merely unpick itself into a scramble. I have no interest in 
-trying to make any further money from the Project (I never made much in the first place), yet I know that it disappointed some people to lose access to the vast amount of material which, in many cases, they were only partway through processing. To that end, this entire archive is being released for *libre* non-commercial use by anybody, anywhere, to any degree. More details can be found in the [License document](https://github.com/bonfiredog/blackcrownproject/blob/master/LICENSE.md).
+- The main piece of interactive fiction, found in `/main_if`;
+- Pseudo-3D objects that could be manipulated in a browser, found in the `/objects` folder;
+- Pieces of recorded audio, found in the `/audio` folder;
+- Fragments of diaries, essays and reports written by the explorer, found in `/text_shards`
+- Supplementary works, written under pseudonyms and seeded across the Internet, found in `/supplements`.
+
+I have also included most of the metatextual elements, including a folder of `/screenshots`, all of the `/promo` material, notes, early drafts and development files, the older versions of the *Project* that I developed as part of my Masters degree (in `old_project`) and the [Scrivener](https://www.literatureandlatte.com/scrivener.php) files in which the *Project* took shape.
+
+It wasn't, and isn't, in any fit state to merely rehost. Many of the proprietary technologies that it relied upon no longer exist. While I do (now) have the technical ability to redevelop the project myself, I have neither the inclination, mental hygiene nor the time to do so. However, I did not want all that hard work, by myself and many others, to merely unpick itself into a scramble. I have no interest in trying to make any further money from the Project. I never made much in the first place, and my experience with micropayments was such a hideous one that I think I have woven an allergy to turning a profit into the story itself. To that end, this entire archive is being released for *libre* non-commercial use by anybody, anywhere, to any degree. More details can be found in the [License document](https://github.com/bonfiredog/blackcrownproject/blob/master/LICENSE.md).
 
 <p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/ts1.png" width="30%" height="auto">
+<img src="https://bonfiredog.co.uk/ooo/bcp/ts1.png" width="30%" height="auto"> 
 </p>
 
 # The *Project* Elsewhere
@@ -40,7 +47,7 @@ trying to make any further money from the Project (I never made much in the firs
 
 If I have forgotten anyone, it is entirely my own fault for being forgetful, and not theirs for being forgettable. 
 
-- [Sam North](https://humanities.exeter.ac.uk/english/staff/snorth/), the closest thing to a benevolent dolmen-spirit that I have, albeit with far better (and more transparent) shirts, hair and soul. Thank you for your guidance, your attention, your humour, the white wine, the traipsing around London with a heavy suitcase covered in biohazard stickers, dinner on Dartmoor, and for everything else. I miss you. 
+- [Sam North](https://humanities.exeter.ac.uk/english/staff/snorth/), the closest thing to a [domovoi](http://www.bravemule.com/domovoi/) that I have, albeit with far better (and more transparent) shirts, hair and soul. Thank you for your guidance, your attention, your humour, the white wine, the traipsing around London with a heavy suitcase covered in biohazard stickers, dinner on Dartmoor, and for everything else. I miss you. 
 - Sarah, who comes first in any other order of thanks in my life.
 - [Vael](http://vaelvictus.com/), for his exactitude, advice and expansive self-vivisection.
 - Joseph McShea and [Isley Lynn](http://www.isleylynn.com/) for their continued, selective silence, alongside [Freesound](http://freesound.org) users `soundmary`, `natashachubbuck`, `ciccarelli`, `al-barbosa`, `sphion`, `landub`, `zaem`, `miklovan` and `productionnow`.
