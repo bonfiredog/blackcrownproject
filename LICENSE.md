@@ -10,9 +10,9 @@ This archive is completely free ([both *gratis* and *libre*](https://en.wikipedi
 
 * **By 'anybody'**, I mean any individual, corporation or organisation without active prejudice.
 
-* **By 'non-commercially'**, I mean any use which does not directly make a profit. You may cover the costs of your production (for example through funding), but the project cannot be charged for directly, whether through free-to-play payments, direct subscription, patronage or fee. 
+* **By 'non-commercially'**, I mean any use which does not directly make a profit. You may cover the costs of your production (for example through funding), but the project cannot be charged for directly, whether through free-to-play micropayments, direct subscription, patronage or fee. 
 
-You are not required to credit myself (Rob Sherman), Random House, Popleaf Games, Failbetter Games or any of the parties involved in the original *Black Crown Project*. However, you can assume that any attribution you do make, publicly, will be met with an unbroadcast yet enormous gratitude at my end of the Internet. Please feel free to contact me [by email](mailto:rob@bonfiredog.co.uk) to alert me to your derivative work: I would be very interested to see it.
+You are not required to credit myself (Rob Sherman), Random House, Popleaf Games, Failbetter Games or any of the parties involved in the original *Black Crown Project*. However, you can assume that any attribution you do make, publicly, will be met with an unbroadcast yet tectonic gratitude at my end of the Internet. Please feel free to contact me [by email](mailto:rob@bonfiredog.co.uk) to alert me to your derivative work: I would be very interested to see it.
 
 Despite all this, I can offer no endorsement, approval or connection to your distribution, modification or original inspired work; use of this archive presupposes that the result is completely independent of our original work.
 
