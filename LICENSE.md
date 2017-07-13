@@ -4,11 +4,13 @@
 
 ## License For Use Of *The Black Crown Project* Archive
 
-This archive is completely free ([both *gratis* and *libre*](https://en.wikipedia.org/wiki/Gratis_versus_libre)) for **anybody** to **use**. 
+This archive is free ([*gratis*, if not completely *libre*](https://en.wikipedia.org/wiki/Gratis_versus_libre)) for **anybody** to **use non-commercially**. 
 
 * **By 'use'**, I mean download, modification (both of the archive wholly and its contents individually), redistribution (both in part and complete), copy or use in any manner, including setting your own license for your derivative work. You can use this archive as the basis for your own projects, create your own version of the project from the archive, or redistribute just a single element of it; no use is prohibited (or at least policed). 
 
 * **By 'anybody'**, I mean any individual, corporation or organisation without active prejudice.
+
+**By 'non-commercially'**, I mean any use which does not directly make a profit. You may cover the costs of your production (for example through funding), but the project cannot be charged for directly, whether through free-to-play micropayments, direct subscription, patronage or fee. 
 
 You are not required to credit myself (Rob Sherman), Random House, Popleaf Games, Failbetter Games or any of the parties involved in the original *Black Crown Project*. However, you can assume that any attribution you do make, publicly, will be met with an unbroadcast yet tectonic gratitude at my end of the Internet. Please feel free to contact me [by email](mailto:rob@bonfiredog.co.uk) to alert me to your derivative work: I would be very interested to see it.
 
