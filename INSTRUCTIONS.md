@@ -32,6 +32,7 @@ The *Project* was developed over several different media and modes, and while th
 - [Interview With VideogameTourism, sometime in 2013](http://videogametourism.at/content/wordplay-can-you-imagine-all-interview-robert-sherman-author-black-crown-pt-1)
 - [A brave attempt at a wiki.](http://blackcrown.wikia.com/wiki/Black_Crown_Project_Wiki)
 - [Interview with RPS, September 2013](https://www.rockpapershotgun.com/2013/09/25/wandering-in-words-black-crown-interview/)
+- [Nomination for the Futurebook Innovation Award, 2013](https://www.thebookseller.com/news/shortlists-futurebook-innovation-awards)
 
 <p align="center">
 <img src="https://bonfiredog.co.uk/ooo/bcp/ts2.png" width="30%" height="auto">
