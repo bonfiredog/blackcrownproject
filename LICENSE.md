@@ -10,7 +10,7 @@ This archive is free ([*gratis* and *libre*](https://en.wikipedia.org/wiki/Grati
 
 * **By 'anybody'**, I mean any individual, corporation or organisation without active prejudice.
 
-**By 'commerically or non-commercially'**, I mean any use including directly profiting from the work. 
+* **By 'commerically or non-commercially'**, I mean any use including directly profiting from the work. 
 
 You are not required to credit myself (Rob Sherman), Random House, Popleaf Games, Failbetter Games or any of the parties involved in the original *Black Crown Project*. However, you can assume that any attribution you do make, publicly, will be met with an unbroadcast yet tectonic gratitude at my end of the Internet. Please feel free to contact me [by email](mailto:rob@bonfiredog.co.uk) to alert me to your derivative work: I would be very interested to see it.
 
