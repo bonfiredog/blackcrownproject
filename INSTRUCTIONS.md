@@ -33,6 +33,7 @@ The *Project* was developed over several different media and modes, and while th
 - [A brave attempt at a wiki.](http://blackcrown.wikia.com/wiki/Black_Crown_Project_Wiki)
 - [Interview with RPS, September 2013](https://www.rockpapershotgun.com/2013/09/25/wandering-in-words-black-crown-interview/)
 - [Nomination for the Futurebook Innovation Award, 2013](https://www.thebookseller.com/news/shortlists-futurebook-innovation-awards)
+- [A post-mortem by Aaron A. Reed, 2018](https://medium.com/@aareed/the-dutch-frame-in-black-crown-4d6f5c51d00b)
 
 <p align="center">
 <img src="https://bonfiredog.co.uk/ooo/bcp/ts2.png" width="30%" height="auto">
