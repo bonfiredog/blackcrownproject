@@ -24,6 +24,7 @@ The *Project* was developed over several different media and modes, and while th
 
 - [The Guardian, December 2012](https://www.theguardian.com/books/2012/dec/30/future-publishing-2013-predictions-digital)
 - [Interview With Mijns Inziens, December 2012](http://edwinmijnsbergen.nl/2012/12/het-mysterieuze-black-crown-project-van/#.UPGDgm9Wx8F)
+- [The Impact Of Digital Publishing On The Literary Market (Sophie Rochester), in The Literary Market In The UK](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/74765/The%20Literary%20Market%20in%20the%20UK%20PDF%20for%20Publication.pdf?sequence=1&isAllowed=y#page=61)
 - [The Guardian, August 2013](https://www.theguardian.com/technology/2013/aug/18/black-crown-project-rob-sherman?INTCMP=ILCNETTXT3487)
 - [The Atlantic, August 2013](https://www.theatlantic.com/entertainment/archive/2013/08/slow-steady-rise-interactive-novel/312024/)
 - [The Gameological Society, July 2013](http://gameological.com/2013/07/interview-black-crown-project/)
