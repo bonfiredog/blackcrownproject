@@ -2,7 +2,7 @@
 <img src="https://bonfiredog.co.uk/ooo/bcp/areamarvelouse.png" width="60%" height="auto">
 </p>
 
-## Using *The Black Crown Project* Archive
+## *The Black Crown Project* Archive
 
 *The Black Crown Project* was a rather large work of [**interactive fiction**](https://en.wikipedia.org/wiki/Interactive_fiction) about archiving, curating and researching the belongings, souvenirs and correspondence of a long-dead tourist. Despite what many people have said, there was not much more to it than that.
 
