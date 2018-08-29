@@ -1,58 +1,25 @@
 <p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/areamarvelouse.png" width="60%" height="auto">
+<img src="https://bonfiredog.co.uk/ooo/bcp/hillside.png" width="100%" height="auto">
 </p>
 
-## Using *The Black Crown Project* Archive
+*The Black Crown Project* was like pulling something spongy from its root, millimetre by coming millimetre, so I will try to do this as quickly as possible.
 
-*The Black Crown Project* was a rather large work of [**interactive fiction**](https://en.wikipedia.org/wiki/Interactive_fiction) about archiving, curating and researching the belongings, souvenirs and correspondence of a long-dead tourist. Despite what many people have said, there was not much more to it than that.
+*The Black Crown Project* pretended to have a tensile strength, an artistic torque built on girth, and deep permeating foundations. In reality, it was a thumb-thin network, a shallow breadth, multitudes next to multitudes with little underneath. It attempted to compensate for this lagoon-like significance with expanse, and a stupefying dreadlock of words.  So, I will try to lay everything out here naked, like tools for oiling. It was, after all, somewhat of a tool.
 
-The *Project* was funded, edited and published by Random House UK (now [Penguin Random House](http://www.penguinrandomhouse.com/)</a>), and the technical aspects were developed and hosted by [Failbetter Games](www.failbettergames.com/) and [Popleaf Games](www.popleaf.com). [I](http://bonfiredog.co.uk) wrote, designed, painted and implemented much of the narrative and its mechanics.
+*The Black Crown Project* was an opisometer for pacing out something that I thought was my soul, but which was far more temporary. I wrote about it without ever visiting it, though I have visited it since, and have disappeared it with my visit. I have marked it with trigs, fingered it and posted it, almanacked its unquantifiable interior, its dark and far-from-African heart. It was smaller than I expected, and nowhere as interesting a place as I had made it out to be. The cuisine repeats, the locals are sadly harmless, their taboos lacking in juice. 
 
-It was in active development between late 2011 and late 2013, with new episodes of the main narrative being released every few months. It was still live until the last months of 2014, when it was taken offline for a [variety of very good reasons](http://bonfiredog.co.uk/bonfog/2014/10/06/blackcrownend/). The copyright was initially held by Random House itself, though it has since reverted in full to me. In the last six months I have managed to gather up most of the dissembled nonsense into which the *Project* had fallen, pruning it from the various different servers where it was slowly bitrotting. 
+*The Black Crown Project* was all about quarantine, stymy, barrier, regulation, distance and membrane; about holding itself, and myself, together at an apotropaic arm's length; of being terrified of union and Loss all at once. I am trying to give it some union, but some things have been lost, and I am sorry. It is nobody's fault, not even my own.
 
-It wasn't, and isn't, in any fit state to merely rehost. Many of the proprietary technologies that it relied upon no longer exist. While I do (now) have the technical ability to redevelop the project myself, I have neither the inclination, [mental hygiene](https://github.com/bonfiredog/blackcrownproject/blob/master/README.md) nor the time to do so. However I did not want all that hard work, by myself and many others, to merely unpick itself into a scramble. I have no interest in trying to make any further money from the Project; I never made much in the first place, and I think that the *Project* itself is allergic to monetisation. To that end, this entire archive is being released for free and *libre* use by anybody, anywhere, to any degree. More details can be found in the [License document](https://github.com/bonfiredog/blackcrownproject/blob/master/LICENSE.md).
+In one way, *The Black Crown Project* was created to be an archive of itself. It was about stasis, immortality and [*ruinenwert*](https://en.wikipedia.org/wiki/Ruin_value). If anything so tremulous as a plot occurred, it revealed how dead it really was. It lived in the preterite, and really was a capitulation; if I had had my terrible way, I would have written about something I had done without ever having done it. This was always the state in which it was meant to be left; its brief existence as a live thing was a shame, really. 
 
-The *Project* was developed over several different media and modes, and while the assets of most of them can be found in this archive, pathologically but appropriately organised into various folders, some elements have inevitably been lost. The trunk of the work was a choice-based narrative game, built using Failbetter Games' [Storynexus](http://www.storynexus.com) engine (`assets/main_if`), but it also included pseudo-3D virtual objects that could be examined in a browser (`/objects`), recorded voices and field sounds (`/audio`), fragments of the tourist's travel diaries (`/text_shards`), and supplementary works including interview transcripts, short stories and theses written under very obvious pseudonyms (`/supplements`). I have also organised and included most of the product's paratextual elements, including a folder of `/screenshots`, all of the `/promo` material that we generated, early drafts, sketches and prototypes (`bcp_scrivener_project`), and two older versions of the *Project* that I created for my Master's degree (`old_project`).
+*The Black Crown Project* was an accidental, medieval way to reconfigure my psyche, like a trephination, to let out an illness which even today is building up the pressure in my skull. In many ways, I am happier, and I write less, and probably less well, and at less-auspicious times. It takes me fewer circuits to leave the house, and to love those around me, and to tell them what is wrong. Considering how easily I avoid plot and drama in my work, it is very tempting to be causal here, to irrationally credit the <i>Project</i> with an exorcist quality, drawing out that something-that-wasn't-a-soul like a boggart. It is tempting to say that it made me a better person, in the making. But it did not. I can view it with a detachment now, but when I was writing it it was parasitic, chewing when I chewing, hiking when I hiked, moving up my spine inexorably. Even putting together this archive, and writing these words, has awoken some shard of it that still sits underneath my lap, squeezing itself like an inbred python, and making me agonise. I am glad that I am near the end. It has taken me a year to lay it all flat like this, to disentangle it, and I am worried that it is making me ill again.
 
-<p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/ts1.png" width="30%" height="auto"> 
-</p>
+The *Black Crown Project* was a very fortunate nightmare, one of which I am proud and which had its moment. Perhaps its use came in making me so unwell that my life reached a point in which I could either leave it, in a cardiac or geographic sense, or could stop writing about hills and suitcases and decide what was really wrong with me. 
 
-## The *Project* Elsewhere
+*The Black Crown Project*, in another way, would have loved to have remained buried, to have stayed interred in some variety of soil, the perfect memorial to itself; people always knowing where it was yet unable to desecrate it, to catalogue it and reveal its weaknesses; leaving behind only the negative of a robust skeleton, revealing only its genotype and not its phenotypic failings. It would rather have remained as forgotten as it is possible to be whilst still being familiar. I had that opportunity, to leave it where it was, disintegrating slowly, and beautifully. I considered it. Perhaps it would have been more noble; perhaps it would have shown how much progress I have made, how much healing I have undertaken, to be able to leave it alone for one last time. 
 
-*All links were functioning at the time of creating this archive, but I cannot supervise them forever.*
-
-- [The Guardian, December 2012](https://www.theguardian.com/books/2012/dec/30/future-publishing-2013-predictions-digital)
-- [Interview With Mijns Inziens, December 2012](http://edwinmijnsbergen.nl/2012/12/het-mysterieuze-black-crown-project-van/#.UPGDgm9Wx8F)
-- [The Impact Of Digital Publishing On The Literary Market (Sophie Rochester), in The Literary Market In The UK](https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/74765/The%20Literary%20Market%20in%20the%20UK%20PDF%20for%20Publication.pdf?sequence=1&isAllowed=y#page=61)
-- [The Guardian, August 2013](https://www.theguardian.com/technology/2013/aug/18/black-crown-project-rob-sherman?INTCMP=ILCNETTXT3487)
-- [The Atlantic, August 2013](https://www.theatlantic.com/entertainment/archive/2013/08/slow-steady-rise-interactive-novel/312024/)
-- [The Gameological Society, July 2013](http://gameological.com/2013/07/interview-black-crown-project/)
-- [The Verge, May 2013](http://www.theverge.com/2013/5/30/4377014/random-house-interactive-fiction-game-black-crown)
-- [MTV, May 2013](http://www.mtv.com/news/2467283/random-house-dips-into-game-publishing-with-free-to-play-the-black-crown-project/)
-- [Interview With VideogameTourism, sometime in 2013](http://videogametourism.at/content/wordplay-can-you-imagine-all-interview-robert-sherman-author-black-crown-pt-1)
-- [A brave attempt at a wiki.](http://blackcrown.wikia.com/wiki/Black_Crown_Project_Wiki)
-- [Interview with RPS, September 2013](https://www.rockpapershotgun.com/2013/09/25/wandering-in-words-black-crown-interview/)
-- [Nomination for the Futurebook Innovation Award, 2013](https://www.thebookseller.com/news/shortlists-futurebook-innovation-awards)
-- [A post-mortem by Aaron A. Reed, 2018](https://medium.com/@aareed/the-dutch-frame-in-black-crown-4d6f5c51d00b)
+However, neither I nor *The Black Crown Project* are noble undertakings, nor have I healed completely. 
 
 <p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/ts2.png" width="30%" height="auto">
-</p>
-
-## Late Acknowledgements
-
-If I have forgotten anyone, it is entirely my own fault for being forgetful, and not theirs for being forgettable. 
-
-- [Sam North](https://humanities.exeter.ac.uk/english/staff/snorth/), the closest thing to a [domovoi](http://www.bravemule.com/domovoi/) that I have, albeit with far more lustrous (and even more translucent) shirts, hair and soul. Thank you for your guidance, your attention, your humour, the white wine, dinner on Dartmoor, the fractal array of lunches for which I hope you kept the receipts. I miss smiling at people on the Tube while they stared at the tongue-red suitcase between our knees, the biohazard stickers turned towards them.
-- Sarah, who comes first in any other acknowledgement in my life.
-- [Vael](http://vaelvictus.com/), for his exactitude, advice and expansive self-vivisection.
-- Joseph McShea and [Isley Lynn](http://www.isleylynn.com/) for putting the silences in the right places, alongside [Freesound](http://freesound.org) users `soundmary`, `natashachubbuck`, `ciccarelli`, `al-barbosa`, `sphion`, `landub`, `zaem`, `miklovan` and `productionnow`.
-- Paddy, Rob, Harry, Nick, Alex, Loic, Lucy, Melissa, Ed, [The Real McCoy](http://www.therealmccoy.co.uk/) and [Otto Retro's](https://www.ottosantiques.co.uk) Sarah for helping me put together the suitcase, for posing as the survivors of Loss despite the shoppers, and for making that year in the South West one of my best so far.
-- Dan Franklin, [Harriet Horobin-Worley](https://twitter.com/HarrietHW) and everybody still and once at [Random House](http://www.penguinrandomhouse.com/). I'm sorry that I didn't become what was expected. 
-- Jo Rodgers and Elizabeth Sheinkman at [WME](http://wmeentertainment.com/) for being kind and helpful for far longer than they were contracted to.
-- Alexis, Jon, Berb, Ahron, Paul, Henry, Liam and everybody else at [Popleaf Games](http://www.popleaf.com/) and [Failbetter Games](http://www.failbettergames.com/).
-
-<p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/ts3.png" width="30%" height="auto">
+<img src="https://bonfiredog.co.uk/ooo/bcp/hillside.png" width="100%" height="auto">
 </p>
