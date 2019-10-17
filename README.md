@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/areamarvelouse.png" width="60%" height="auto">
+<img src="https://robsherman.co.uk/ooo/bcp/areamarvelouse.png" width="60%" height="auto">
 </p>
 
 ## *The Black Crown Project* Archive
 
 *The Black Crown Project* was a rather large work of [**interactive fiction**](https://en.wikipedia.org/wiki/Interactive_fiction) about archiving, curating and researching the belongings, souvenirs and correspondence of a long-dead tourist. Despite what many people have said, there was not much more to it than that.
 
-The *Project* was funded, edited and published by Random House UK (now [Penguin Random House](http://www.penguinrandomhouse.com/)</a>), and the technical aspects were developed and hosted by [Failbetter Games](www.failbettergames.com/) and [Popleaf Games](www.popleaf.com). [I](http://bonfiredog.co.uk) wrote, designed, painted and implemented much of the narrative and its mechanics.
+The *Project* was funded, edited and published by Random House UK (now [Penguin Random House](http://www.penguinrandomhouse.com/)</a>), and the technical aspects were developed and hosted by [Failbetter Games](www.failbettergames.com/) and [Popleaf Games](www.popleaf.com). [I](http://robsherman.co.uk) wrote, designed, painted and implemented much of the narrative and its mechanics.
 
 It was in active development between late 2011 and late 2013, with new episodes of the main narrative being released every few months. It was still live until the last months of 2014, when it was taken offline for a [variety of very good reasons](http://bonfiredog.co.uk/bonfog/2014/10/06/blackcrownend/). The copyright was initially held by Random House itself, though it has since reverted in full to me. In the last six months I have managed to gather up most of the dissembled nonsense into which the *Project* had fallen, pruning it from the various different servers where it was slowly bitrotting. 
 
@@ -15,7 +15,7 @@ It wasn't, and isn't, in any fit state to merely rehost. Many of the proprietary
 The *Project* was developed over several different media and modes, and while the assets of most of them can be found in this archive, pathologically but appropriately organised into various folders, some elements have inevitably been lost. The trunk of the work was a choice-based narrative game, built using Failbetter Games' [Storynexus](http://www.storynexus.com) engine (`assets/main_if`), but it also included pseudo-3D virtual objects that could be examined in a browser (`/objects`), recorded voices and field sounds (`/audio`), fragments of the tourist's travel diaries (`/text_shards`), and supplementary works including interview transcripts, short stories and theses written under very obvious pseudonyms (`/supplements`). I have also organised and included most of the product's paratextual elements, including a folder of `/screenshots`, all of the `/promo` material that we generated, early drafts, sketches and prototypes (`bcp_scrivener_project`), and two older versions of the *Project* that I created for my Master's degree (`old_project`).
 
 <p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/ts1.png" width="30%" height="auto"> 
+<img src="https://robsherman.co.uk/ooo/bcp/ts1.png" width="30%" height="auto"> 
 </p>
 
 ## The *Project* Elsewhere
@@ -37,7 +37,7 @@ The *Project* was developed over several different media and modes, and while th
 - [A post-mortem by Aaron A. Reed, 2018](https://medium.com/@aareed/the-dutch-frame-in-black-crown-4d6f5c51d00b)
 
 <p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/ts2.png" width="30%" height="auto">
+<img src="https://robsherman.co.uk/ooo/bcp/ts2.png" width="30%" height="auto">
 </p>
 
 ## Late Acknowledgements
@@ -54,5 +54,5 @@ If I have forgotten anyone, it is entirely my own fault for being forgetful, and
 - Alexis, Jon, Berb, Ahron, Paul, Henry, Liam and everybody else at [Popleaf Games](http://www.popleaf.com/) and [Failbetter Games](http://www.failbettergames.com/).
 
 <p align="center">
-<img src="https://bonfiredog.co.uk/ooo/bcp/ts3.png" width="30%" height="auto">
+<img src="https://robsherman.co.uk/ooo/bcp/ts3.png" width="30%" height="auto">
 </p>
