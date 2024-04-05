@@ -35,6 +35,7 @@ The *Project* was developed over several different media and modes, and while th
 - [Interview with RPS, September 2013](https://www.rockpapershotgun.com/2013/09/25/wandering-in-words-black-crown-interview/)
 - [Nomination for the Futurebook Innovation Award, 2013](https://www.thebookseller.com/news/shortlists-futurebook-innovation-awards)
 - [A post-mortem by Aaron A. Reed, 2018](https://medium.com/@aareed/the-dutch-frame-in-black-crown-4d6f5c51d00b)
+- [Included in the New Media Writing Prize Special Collection, 2022](https://eprints.bournemouth.ac.uk/37964/)
 
 <p align="center">
 <img src="https://robsherman.co.uk/ooo/bcp/ts2.png" width="30%" height="auto">
